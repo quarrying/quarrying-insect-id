@@ -1,0 +1,4 @@
+opencv-python>=4.5
+pillow
+git+https://github.com/quarrying/KHandy.git@master
+onnxruntime
