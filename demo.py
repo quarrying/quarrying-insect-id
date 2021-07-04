@@ -1,5 +1,4 @@
 import os
-import glob
 
 import cv2
 import khandy
@@ -57,11 +56,11 @@ def draw_text(image, text, position, font_size=15, color=(255,0,0),
 
 
 if __name__ == '__main__':
-    src_dir = r'F:\_Data\Nature\自拍之动物'
+    src_dir = r'F:\_Data\Nature\_raw_insect\_其他'
     
     detector = InsectDetector()
     identifier = InsectIdentifier()
-    src_filenames = glob.glob(os.path.join(src_dir, '*.jpg'))
+    src_filenames = khandy.get_all_filenames(src_dir)
     for k, filename in enumerate(src_filenames):
         print('[{}/{}] {}'.format(k+1, len(src_filenames), filename))
         image = imread_ex(filename)
@@ -75,12 +74,18 @@ if __name__ == '__main__':
         boxes, confs, classes = detector.detect(image)
         draw_rectangles(image_for_draw, boxes)
         for box, conf, class_ind in zip(boxes, confs, classes):
-            cropped = khandy.crop_or_pad(image, int(box[0]), int(box[1]), int(box[2]), int(box[3]))
+            squared_box = khandy.inflate_boxes_to_square([box])
+            cropped = khandy.crop_or_pad(image, int(squared_box[0, 0]), int(squared_box[0, 1]), 
+                                         int(squared_box[0, 2]), int(squared_box[0, 3]))
             outputs = identifier.identify(cropped)
             print(outputs['results'][0])
             if outputs['status'] == 0:
-                text = '{}: {:.3f}'.format(outputs['results'][0]['chinese_name'], 
-                                           outputs['results'][0]['probability'])
+                prob = outputs['results'][0]['probability']
+                if prob < 0.08:
+                    text = 'Unknown'
+                else:
+                    text = '{}: {:.3f}'.format(outputs['results'][0]['chinese_name'], 
+                                               outputs['results'][0]['probability'])
                 position = [int(box[0] + 2), int(box[1] - 20)]
                 position[0] = min(max(position[0], 0), image_width)
                 position[1] = min(max(position[1], 0), image_height)
