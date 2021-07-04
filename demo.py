@@ -56,7 +56,7 @@ def draw_text(image, text, position, font_size=15, color=(255,0,0),
 
 
 if __name__ == '__main__':
-    src_dir = r'F:\_Data\Nature\_raw_insect\_其他'
+    src_dir = r'F:\_Data\Nature\新建文件夹\_insect'
     
     detector = InsectDetector()
     identifier = InsectIdentifier()
