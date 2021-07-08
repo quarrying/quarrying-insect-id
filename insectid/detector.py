@@ -38,9 +38,8 @@ class InsectDetector():
         self.input_height = input_height
 
         self.sess = rt.InferenceSession(model_filename)
-        outputs = self.sess.get_outputs()
-        self.output_names = list(map(lambda output: output.name, outputs))
-        self.input_name = self.sess.get_inputs()[0].name
+        self.input_names = [item.name for item in self.sess.get_inputs()]
+        self.output_names = [item.name for item in self.sess.get_outputs()]
 
     def preprocess(self, image):
         image_dtype = image.dtype
@@ -88,7 +87,7 @@ class InsectDetector():
         
     def detect(self, image, conf_thresh=0.5, iou_thresh=0.5):
         resized, scale, left, top = self.preprocess(image)
-        outputs_list = self.sess.run(self.output_names, {self.input_name: resized})
+        outputs_list = self.sess.run(self.output_names, {self.input_names[0]: resized})
         boxes, confs, classes = self.post_process(outputs_list, 
                                                   scale=scale, 
                                                   left=left,
