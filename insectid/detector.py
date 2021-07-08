@@ -6,13 +6,13 @@ import numpy as np
 import onnxruntime as rt
 
 
-def non_max_suppression(boxes, confs, iou_thresh=0.3):
+def non_max_suppression(boxes, scores, iou_thresh=0.3):
     x1 = boxes[:, 0]
     y1 = boxes[:, 1]
     x2 = boxes[:, 2]
     y2 = boxes[:, 3]
     areas = (x2 - x1 + 1) * (y2 - y1 + 1) 
-    order = confs.flatten().argsort()[::-1]
+    order = scores.flatten().argsort()[::-1]
     keep = []
     while order.size > 0:
         i = order[0]
@@ -24,8 +24,8 @@ def non_max_suppression(boxes, confs, iou_thresh=0.3):
         w = np.maximum(0.0, xx2 - xx1 + 1)
         h = np.maximum(0.0, yy2 - yy1 + 1)
         inter = w * h
-        ovr = inter / (areas[i] + areas[order[1:]] - inter)
-        inds = np.where(ovr <= iou_thresh)[0]
+        overlap_ratio = inter / (areas[i] + areas[order[1:]] - inter)
+        inds = np.where(overlap_ratio <= iou_thresh)[0]
         order = order[inds + 1]
     return keep
     
@@ -71,10 +71,7 @@ class InsectDetector():
         confs = np.amax(pred[:, 5:], 1, keepdims=True)
         classes = np.argmax(pred[:, 5:], axis=-1)
         keep = non_max_suppression(boxes, confs, iou_thresh)
-        boxes = boxes[keep]
-        confs = confs[keep]
-        classes = classes[keep]
-        return boxes, confs, classes
+        return boxes[keep], confs[keep], classes[keep]
 
     def cxcywh2xyxy(self, x, scale, left, top):
         y = np.zeros_like(x)
