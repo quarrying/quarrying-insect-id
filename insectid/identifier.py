@@ -6,16 +6,6 @@ import khandy
 import numpy as np
 
 
-def center_crop(image, dst_height, dst_width):
-    assert image.ndim in [2, 3]
-    assert (image.shape[0] >= dst_height) and (image.shape[1] >= dst_width)
-    crop_top = (image.shape[0] - dst_height) // 2
-    crop_left = (image.shape[1] - dst_width) // 2
-    cropped = image[crop_top: dst_height + crop_top, 
-                    crop_left: dst_width + crop_left, ...]
-    return cropped
-    
-    
 def normalize_image_shape(image):
     if image.ndim == 2:
         image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
@@ -62,8 +52,7 @@ class InsectIdentifier(object):
         
         image = normalize_image_shape(image)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        image = khandy.resize_image_short(image, 320)
-        image = center_crop(image, 299, 299)
+        image = khandy.letterbox_resize_image(image, 299, 299)
         image = image.astype(np.float32)
         if image_dtype == np.uint8:
             image /= 255.0

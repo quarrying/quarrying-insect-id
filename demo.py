@@ -66,17 +66,15 @@ if __name__ == '__main__':
         image = imread_ex(filename)
         if image is None:
             continue
-        if max(image.shape[:2]) > 960:
-            image = khandy.resize_image_long(image, 960)
+        if max(image.shape[:2]) > 1280:
+            image = khandy.resize_image_long(image, 1280)
         image_for_draw = image.copy()
         image_height, image_width = image.shape[:2]
         
         boxes, confs, classes = detector.detect(image)
         draw_rectangles(image_for_draw, boxes)
         for box, conf, class_ind in zip(boxes, confs, classes):
-            squared_box = khandy.inflate_boxes_to_square([box])
-            cropped = khandy.crop_or_pad(image, int(squared_box[0, 0]), int(squared_box[0, 1]), 
-                                         int(squared_box[0, 2]), int(squared_box[0, 3]))
+            cropped = khandy.crop_or_pad(image, int(box[0]), int(box[1]), int(box[2]), int(box[3]))
             outputs = identifier.identify(cropped)
             print(outputs['results'][0])
             if outputs['status'] == 0:
