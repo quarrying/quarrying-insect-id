@@ -56,7 +56,7 @@ def draw_text(image, text, position, font_size=15, color=(255,0,0),
 
 
 if __name__ == '__main__':
-    src_dir = r'F:\_Data\Nature\新建文件夹\_insect'
+    src_dir = r'F:\_Data\Nature\_raw\_insect'
     
     detector = InsectDetector()
     identifier = InsectIdentifier()
@@ -79,7 +79,7 @@ if __name__ == '__main__':
             print(outputs['results'][0])
             if outputs['status'] == 0:
                 prob = outputs['results'][0]['probability']
-                if prob < 0.08:
+                if prob < 0.10:
                     text = 'Unknown'
                 else:
                     text = '{}: {:.3f}'.format(outputs['results'][0]['chinese_name'], 
