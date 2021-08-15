@@ -12,17 +12,6 @@ from insectid import InsectDetector
 from insectid import InsectIdentifier
 
 
-def draw_rectangles(image, boxes):
-    x1 = boxes[:, 0]
-    y1 = boxes[:, 1]
-    x2 = boxes[:, 2]
-    y2 = boxes[:, 3]
-    for i in range(x1.shape[0]):
-        cv2.rectangle(image, (int(x1[i]), int(y1[i])), (int(x2[i]), int(y2[i])), 
-                      (0,255,0), 2)
-    return image
-    
-                    
 def imread_ex(filename, flags=-1):
     try:
         return cv2.imdecode(np.fromfile(filename, dtype=np.uint8), flags)
@@ -72,8 +61,12 @@ if __name__ == '__main__':
         image_height, image_width = image.shape[:2]
         
         boxes, confs, classes = detector.detect(image)
-        draw_rectangles(image_for_draw, boxes)
         for box, conf, class_ind in zip(boxes, confs, classes):
+            box_width = box[2] - box[0] + 1
+            box_height = box[3] - box[1] + 1
+            if box_width < 30 or box_height < 30:
+                continue
+                
             cropped = khandy.crop_or_pad(image, int(box[0]), int(box[1]), int(box[2]), int(box[3]))
             outputs = identifier.identify(cropped)
             print(outputs['results'][0])
@@ -87,6 +80,9 @@ if __name__ == '__main__':
                 position = [int(box[0] + 2), int(box[1] - 20)]
                 position[0] = min(max(position[0], 0), image_width)
                 position[1] = min(max(position[1], 0), image_height)
+                cv2.rectangle(image_for_draw, (int(box[0]), int(box[1])), 
+                              (int(box[2]), int(box[3])), (0,255,0), 2)
+                      
                 image_for_draw = draw_text(image_for_draw, text, position)
         cv2.imshow('image', image_for_draw)
         key = cv2.waitKey(0)
