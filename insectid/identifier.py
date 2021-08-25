@@ -4,6 +4,7 @@ from collections import OrderedDict
 import cv2
 import khandy
 import numpy as np
+import onnxruntime as rt
 
 
 def normalize_image_shape(image):
@@ -31,7 +32,9 @@ class InsectIdentifier(object):
         model_filename = os.path.join(current_dir, 'models/quarrying_insect_identifier.onnx')
         label_map_filename = os.path.join(current_dir, 'models/quarrying_insectid_label_map.txt')
         
-        self.net = cv2.dnn.readNetFromONNX(model_filename)
+        self.sess = rt.InferenceSession(model_filename)
+        self.input_names = [item.name for item in self.sess.get_inputs()]
+        self.output_names = [item.name for item in self.sess.get_outputs()]
         self.label_name_dict = self._get_label_name_dict(label_map_filename)
         self.names = [self.label_name_dict[i]['chinese_name'] for i in range(len(self.label_name_dict))]
         
@@ -71,9 +74,8 @@ class InsectIdentifier(object):
             return {"status": -1, "message": "Inference preprocess error.", "results": {}}
         
         try:
-            self.net.setInput(inputs)
-            logits = self.net.forward()
-            probs = khandy.softmax(logits)
+            logits = self.sess.run(self.output_names, {self.input_names[0]: inputs})
+            probs = khandy.softmax(logits[0])
         except:
             return {"status": -2, "message": "Inference error.", "results": {}}
         results = {'probs': probs}
