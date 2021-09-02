@@ -30,10 +30,10 @@ def draw_text(image, text, position, font_size=15, color=(255,0,0),
         pil_image = image
     else:
         raise ValueError('Unsupported image type!')
-    assert pil_image.mode in ['L', 'RGB']
+    assert pil_image.mode in ['L', 'RGB', 'RGBA']
     if pil_image.mode == 'L':
         color = gray
-
+    
     font_object = ImageFont.truetype(font_filename, size=font_size)
     drawable = ImageDraw.Draw(pil_image)
     drawable.text((position[0], position[1]), text, 
