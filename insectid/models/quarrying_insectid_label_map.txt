@@ -5,1230 +5,1368 @@
 4,半翅目_叶蝉科_大青叶蝉,Cicadella viridis
 5,半翅目_叶蝉科_电光叶蝉,Maiestas dorsalis
 6,半翅目_叶蝉科_稻黑尾叶蝉,Nephotettix cincticeps
-7,半翅目_叶蝉科_耳叶蝉属,
-8,半翅目_叶蝉科_黑颜单突叶蝉,Olidiana brevis
-9,半翅目_同蝽科_伊锥同蝽,Sastragala esakii
-10,半翅目_广翅蜡蝉科,
-11,半翅目_广翅蜡蝉科#若虫,
-12,半翅目_广翅蜡蝉科_丽纹广翅蜡蝉,Ricanula pulverosa
-13,半翅目_广翅蜡蝉科_八点广翅蜡蝉,Ricania speculum
-14,半翅目_广翅蜡蝉科_带纹疏广翅蜡蝉,Euricania facialis
-15,半翅目_广翅蜡蝉科_斑点广翅蜡蝉,Ricania guttata
-16,半翅目_广翅蜡蝉科_柿广翅蜡蝉,Ricania sublimbata
-17,半翅目_广翅蜡蝉科_白痣广翅蜡蝉,Ricanula sublimata
-18,半翅目_广翅蜡蝉科_眼纹疏广翅蜡蝉,Euricania ocella
-19,半翅目_广翅蜡蝉科_褐带广翅蜡蝉,Ricania taeniata
-20,半翅目_广翅蜡蝉科_透明疏广翅蜡蝉,Euricania clara
-21,半翅目_广翅蜡蝉科_钩纹广翅蜡蝉,Ricania simulans
-22,半翅目_异蝽科_红足壮异蝽,Urochela quadrinotata
-23,半翅目_沫蝉科,Cercopidae
-24,半翅目_沫蝉科_丽沫蝉属,Cosmoscarta
-25,半翅目_沫蝉科_丽沫蝉属_东方丽沫蝉,Cosmoscarta abdominalis
-26,半翅目_沫蝉科_丽沫蝉属_紫胸丽沫蝉,Cosmoscarta exultans
-27,半翅目_沫蝉科_丽沫蝉属_迪丽沫蝉,Cosmoscarta dimidiata
-28,半翅目_沫蝉科_丽沫蝉属_黑斑丽沫蝉,Cosmoscarta dorsimacula
-29,半翅目_沫蝉科_稻赤斑黑沫蝉,Callitettix versicolor
-30,半翅目_沫蝉科_黄尖胸沫蝉,Omalophora pectoralis
-31,半翅目_猎蝽科,
-32,半翅目_猎蝽科_二色赤猎蝽,Haematoloecha nigrorufa
-33,半翅目_猎蝽科_双斑猎蝽属,
-34,半翅目_猎蝽科_多氏田猎蝽,Agriosphodrus dohrni
-35,半翅目_猎蝽科_淡裙猎蝽,Yolinus albopustulatus
-36,半翅目_猎蝽科_犀猎蝽属_黄带犀猎蝽,Sycanus croceovittatus
-37,半翅目_猎蝽科_黄足直头猎蝽(黄足猎蝽),Sirthenea flavipes
-38,半翅目_猎蝽科_齿缘刺猎蝽,Sclomina erinacea
-39,半翅目_瓢蜡蝉科,
-40,半翅目_瘤蝽科,
-41,半翅目_盲蝽科,Miridae
-42,半翅目_盲蝽科_绿盲蝽,Apolygus lucorum
-43,半翅目_盾蝽科_丽盾蝽,Eucorysses grandis
-44,半翅目_盾蝽科_半球盾蝽,Hyperoncus lateritius
-45,半翅目_盾蝽科_宽盾蝽属_尼泊尔宽盾蝽,Poecilocoris nepalensis
-46,半翅目_盾蝽科_宽盾蝽属_山字宽盾蝽,Poecilocoris sanszeusignatus
-47,半翅目_盾蝽科_宽盾蝽属_桑宽盾蝽,Poecilocoris druraei
-48,半翅目_盾蝽科_宽盾蝽属_油茶宽盾蝽,Poecilocoris latus
-49,半翅目_盾蝽科_宽盾蝽属_油茶宽盾蝽#若虫,
-50,半翅目_盾蝽科_宽盾蝽属_金绿宽盾蝽,Poecilocoris lewisi
-51,半翅目_盾蝽科_宽盾蝽属_金绿宽盾蝽#若虫,
-52,半翅目_盾蝽科_毕加索盾蝽,Sphaerocoris annulus
-53,半翅目_盾蝽科_米字长盾蝽,Scutellera fasciata
-54,半翅目_盾蝽科_紫蓝丽盾蝽,Chrysocoris stollii
-55,半翅目_盾蝽科_红缘亮盾蝽,Lamprocoris lateralis
-56,半翅目_盾蝽科_蓝美盾蝽,Calliphara nobilis
-57,半翅目_盾蝽科_角盾蝽,Cantao ocellatus
-58,半翅目_红蝽科,Pyrrhocoridae
-59,半翅目_红蝽科_地红蝽,Pyrrhocoris sibiricus
-60,半翅目_红蝽科_巨红蝽,Macroceroea grandis
-61,半翅目_红蝽科_斑红蝽属_四斑红蝽,Physopelta quadriguttata
-62,半翅目_红蝽科_斑红蝽属_突背斑红蝽,Physopelta gutta
-63,半翅目_红蝽科_斑红蝽属_突背斑红蝽#若虫,
-64,半翅目_红蝽科_棉红蝽属_叉带棉红蝽,Dysdercus decussatus
-65,半翅目_红蝽科_棉红蝽属_棉红蝽(离斑棉红蝽),Dysdercus cingulatus
-66,半翅目_红蝽科_棉红蝽属_联斑棉红蝽,Dysdercus poecilus
-67,半翅目_红蝽科_泛光红蝽,Dindymus rubiginosus
-68,半翅目_红蝽科_短胸光红蝽,Dindymus brevis
-69,半翅目_缘蝽科,
-70,半翅目_缘蝽科_二色普缘蝽,Plinachtus bicoloripes
-71,半翅目_缘蝽科_侎缘蝽属,
-72,半翅目_缘蝽科_奇缘蝽属,
-73,半翅目_缘蝽科_奇缘蝽属_月肩奇缘蝽,Molipteryx lunata
-74,半翅目_缘蝽科_棘缘蝽属,Cletus
-75,半翅目_缘蝽科_蜂缘蝽属,
-76,半翅目_网蝽科,
-77,半翅目_网蝽科_悬铃木方翅网蝽,Corythucha ciliate
-78,半翅目_荔蝽科_荔枝蝽,Tessaratoma papillosa
-79,半翅目_荔蝽科_荔枝蝽#若虫,
-80,半翅目_蛾蜡蝉科,
-81,半翅目_蛾蜡蝉科_彩蛾蜡蝉,Cerynia maria
-82,半翅目_蛾蜡蝉科_白蛾蜡蝉,Lawana imitata
-83,半翅目_蛾蜡蝉科_碧蛾蜡蝉,Geisha distinctissima
-84,半翅目_蛾蜡蝉科_褐缘蛾蜡蝉,Salurnis marginella
-85,半翅目_蜡蝉科_东方蜡蝉属,
-86,半翅目_蜡蝉科_东方蜡蝉属_弧头蜡蝉,Pyrops spinolae
-87,半翅目_蜡蝉科_东方蜡蝉属_渡边氏东方蜡蝉,Pyrops watanabei
-88,半翅目_蜡蝉科_东方蜡蝉属_渡边氏东方蜡蝉#幼虫,
-89,半翅目_蜡蝉科_东方蜡蝉属_龙眼鸡,Pyrops candelaria
-90,半翅目_蜡蝉科_斑衣蜡蝉,Lycorma delicatula
-91,半翅目_蜡蝉科_斑衣蜡蝉#若虫,
-92,半翅目_蜡蝉科_锥头蜡蝉,Saiva bullata
-93,半翅目_蝉科,
-94,半翅目_蝉科#幼虫和蝉蜕,
-95,半翅目_蝉科_中华红眼蝉,Talainga chinensis
-96,半翅目_蝉科_寒蝉属,
-97,半翅目_蝉科_斑蝉属_黄点斑蝉,Gaeana maculata
-98,半翅目_蝉科_暗翅蝉属,
-99,半翅目_蝉科_程氏网翅蝉,Polymeura chenni
-100,半翅目_蝉科_薄翅蝉,Chremistica ochracea
-101,半翅目_蝉科_蟪蛄,Platypleura kaempferi
-102,半翅目_蝉科_黑翅红蝉,Huechys sanguinea
-103,半翅目_蝉科_黑蚱蝉,Cryptotympana atrata
-104,半翅目_蝎蝽科,
-105,半翅目_蝽科_二星蝽属,
-106,半翅目_蝽科_大臭蝽,Metonymia glandulosa
-107,半翅目_蝽科_尖角普蝽,Priassus spiniger
-108,半翅目_蝽科_弯角蝽,Lelia decempunctata
-109,半翅目_蝽科_斑须蝽,Dolycoris baccarum
-110,半翅目_蝽科_横纹菜蝽,Eurydema gebleri
-111,半翅目_蝽科_硕蝽属,Eurostus
-112,半翅目_蝽科_硕蝽属#若虫,
-113,半翅目_蝽科_紫翅果蝽,Carpocoris purpureipennis
-114,半翅目_蝽科_紫蓝曼蝽,Menida violacea
-115,半翅目_蝽科_红显蝽,Catacanthus incarnatus
-116,半翅目_蝽科_绿岱蝽&珀蝽,
-117,半翅目_蝽科_羚蝽属,
-118,半翅目_蝽科_茶翅蝽,Halyomorpha halys
-119,半翅目_蝽科_菜蝽,Eurydema dominulus
-120,半翅目_蝽科_蓝蝽属_蓝蝽,Zicrona caerulea
-121,半翅目_蝽科_蓝蝽属_蓝蝽#若虫,
-122,半翅目_蝽科_赤条蝽,Graphosoma rubrolineatum
-123,半翅目_蝽科_麻皮蝽,Erthesina fullo
-124,半翅目_蝽科_麻皮蝽#若虫,
-125,半翅目_袖蜡蝉科,
-126,半翅目_袖蜡蝉科_红袖蜡蝉,
-127,半翅目_角蝉科,
-128,半翅目_象蜡蝉科,
-129,半翅目_负子蝽科_大田鳖,Kirkaldyia deyrollei
-130,半翅目_跷蝽科,
-131,半翅目_长蝽科_横带红长蝽,Lygaeus equestris
-132,半翅目_长蝽科_红脊长蝽,Tropidothorax elegans
-133,半翅目_黾蝽科,
-134,半翅目_龟蝽科,
-135,双翅目_大蚊科,
-136,双翅目_大蚊科_栉大蚊属,
-137,双翅目_实蝇科,
-138,双翅目_寄蝇科,
-139,双翅目_摇蚊科,
-140,双翅目_水虻科,
-141,双翅目_蚊科,
-142,双翅目_蛾蠓科,
-143,双翅目_蜂虻科,
-144,双翅目_蝇科,
-145,双翅目_食虫虻科,
-146,双翅目_食蚜蝇科,Syrphidae
-147,双翅目_食蚜蝇科_羽芒宽盾蚜蝇,Phytomia zonata
-148,双翅目_食蚜蝇科_黄腿食蚜蝇,Syrphus ribesii
-149,寄螨目,
-150,广翅目_齿蛉科,
-151,广翅目_齿蛉科_巨齿蛉属,
-152,柄眼目_蛞蝓科,
-153,柄眼目_蜗牛科,
-154,毛翅目,
-155,盲蛛目,
-156,直翅目_拟叶螽科,
-157,直翅目_拟叶螽科_巨拟叶螽,
-158,直翅目_拟叶螽科_黄斑珊螽,Sanaa intermedia
-159,直翅目_蜢科_多恩乌蜢,Erianthus dohrni
-160,直翅目_蝗科_剑角蝗属_中华剑角蝗,Acrida cinerea
-161,直翅目_蝗科_棉蝗属,
-162,直翅目_蝗科_青脊竹蝗,Ceracris nigricornis
-163,直翅目_蝗科_飞蝗属_东亚飞蝗,Locusta migratoria
-164,直翅目_蝗科_黄星蝗属,
-165,直翅目_蝼蛄科,
-166,直翅目_螽斯科,
-167,直翅目_螽斯科_日本条螽,Ducetia japonica
-168,直翅目_螽斯科_织娘属,
-169,直翅目_螽斯科_草螽属_悦鸣草螽,Conocephalus melaenus
-170,直翅目_螽斯科_蝈螽属,
-171,直翅目_螽斯科_蝈螽属_暗褐蝈螽,Gampsocleis sedakovii
-172,直翅目_蟋蟀科_双斑蟋(黄斑黑蟋蟀),Gryllus bimaculatus
-173,直翅目_锥头蝗科_负蝗属_短额负蝗,Atractomorpha sinensis
-174,直翅目_露螽科,
-175,直翅目_露螽科_覆翅螽属,
-176,直翅目_驼螽总科_突灶螽,
-177,竹节虫目,
-178,等足目_潮虫科_鼠妇属,
-179,缨尾目_衣鱼科,
-180,脉翅目_旌蛉科,Nemopteridae
-181,脉翅目_草蛉科,Chrysopidae
-182,脉翅目_蚁蛉科,Myrmeleontidae
-183,脉翅目_蝶蛉科,Psychopsidae
-184,脉翅目_蝶角蛉科,Ascalaphidae
-185,脉翅目_蝶角蛉科_黄花蝶角蛉,Ascalaphus sibiricus
-186,脉翅目_螳蛉科,Mantispidae
-187,脉翅目_褐蛉科,Hemerobiidae
-188,膜翅目_叶蜂科,
-189,膜翅目_土蜂科_橙头土蜂,Scolia superciliaris
-190,膜翅目_姬蜂科,
-191,膜翅目_姬蜂科_马尾姬蜂,
-192,膜翅目_泥蜂总科,
-193,膜翅目_胡蜂科,
-194,膜翅目_胡蜂科_胡蜂属_金环胡蜂,Vespa mandarinia
-195,膜翅目_胡蜂科_胡蜂属_黄腰胡蜂,Vespa affinis
-196,膜翅目_胡蜂科_马蜂亚科,
-197,膜翅目_蚁科,
-198,膜翅目_蚁蜂科,
-199,膜翅目_蛛蜂科,
-200,膜翅目_蜜蜂科,
-201,膜翅目_蜜蜂科_木蜂属,
-202,膜翅目_蜜蜂科_熊蜂属,
-203,膜翅目_青蜂科,
-204,蚰蜒目_蚰蜒科_蚰蜒属,
-205,蜈蚣目_蜈蚣科,
-206,蜉蝣目,
-207,蜘蛛目,
-208,蜘蛛目_圆蛛科_大腹圆蛛,
-209,蜘蛛目_圆蛛科_弓长棘蛛,
-210,蜘蛛目_圆蛛科_新圆蛛属_绿腹新圆蛛(梅氏新圆蛛),Neoscona mellotteei
-211,蜘蛛目_圆蛛科_棘腹蛛属,
-212,蜘蛛目_圆蛛科_络新妇属_斑络新妇,
-213,蜘蛛目_圆蛛科_络新妇属_棒络新妇,
-214,蜘蛛目_圆蛛科_金蛛属,
-215,蜘蛛目_圆蛛科_金蛛属_悦目金蛛,
-216,蜘蛛目_异纺蛛科_大疣蛛属_雷氏大疣蛛,Macrothele raveni
-217,蜘蛛目_肖蛸科,
-218,蜘蛛目_蟹蛛科_绿蟹蛛属_绿蟹蛛,
-219,蜘蛛目_跳蛛科,
-220,蜘蛛目_跳蛛科_艾普蛛属,
-221,蜘蛛目_转蛛科_扁蛛属,
-222,蜘蛛目_隆头蛛科_隆头蛛,
-223,蜘蛛目_高脚蛛科_高脚蛛属_白额高脚蛛,
-224,蜚蠊目,
-225,蜚蠊目_地鳖蠊科,
-226,蜚蠊目_地鳖蠊科_真鳖蠊属,
-227,蜚蠊目_蜚蠊科_大蠊属_澳洲大蠊,Periplaneta australasiae
-228,蜚蠊目_蜚蠊科_大蠊属_黑胸大蠊,Periplaneta fuliginosa
-229,蜚蠊目_蜚蠊科_小蠊属_德国小蠊,Blattella germanica
-230,蜻蜓目_丝蟌科_蓝印丝蟌,Indolestes cyaneus
-231,蜻蜓目_大蜓科_裂唇蜓属_蝴蝶裂唇蜓,Chlorogomphus papilio
-232,蜻蜓目_差翅亚目,
-233,蜻蜓目_扇蟌科,
-234,蜻蜓目_扇蟌科_狭扇蟌属_白狭扇蟌,Copera annulata
-235,蜻蜓目_扇蟌科_黄纹长腹扇蟌,Coeliccia cyanomelas
-236,蜻蜓目_拟丝蟌科_拟丝蟌属_丽拟丝蟌,Pseudolestes mirabilis
-237,蜻蜓目_春蜓科,
-238,蜻蜓目_春蜓科_大团扇春蜓&小团扇春蜓,
-239,蜻蜓目_春蜓科_霸王叶春蜓,
-240,蜻蜓目_束翅亚目,
-241,蜻蜓目_溪蟌科_方带暗溪蟌,Euphaea decorata
-242,蜻蜓目_色蟌科,
-243,蜻蜓目_色蟌科_华丽色蟌,Calopteryx splendens
-244,蜻蜓目_色蟌科_单脉色蟌属_透顶单脉色蟌,Matrona basilaris
-245,蜻蜓目_色蟌科_条纹色蟌,Calopteryx virgo
-246,蜻蜓目_色蟌科_绿色蟌属,Mnais
-247,蜻蜓目_色蟌科_绿色蟌属_烟翅绿色蟌,Mnais mneme
-248,蜻蜓目_色蟌科_赤基色蟌属_赤基色蟌,Archineura incarnata
-249,蜻蜓目_蜓科_伟蜓属_碧伟蜓,Anax parthenope
-250,蜻蜓目_蜓科_伟蜓属_黄伟蜓,Anax immaculifrons
-251,蜻蜓目_蜻科_丽翅蜻属,
-252,蜻蜓目_蜻科_丽翅蜻属_斑丽翅蜻,Rhyothemis variegata
-253,蜻蜓目_蜻科_丽翅蜻属_黑丽翅蜻,Rhyothemis fuliginosa
-254,蜻蜓目_蜻科_六斑曲缘蜻,Palpopleura sexmaculata
-255,蜻蜓目_蜻科_华斜痣蜻,Trithemis aurora
-256,蜻蜓目_蜻科_善变蜻蜓,
-257,蜻蜓目_蜻科_方蜻属_宽翅方蜻,Tetrathemis platyptera
-258,蜻蜓目_蜻科_深蓝印蜻,
-259,蜻蜓目_蜻科_湿地狭翅蜻(溪神蜻蜓),Potamarcha congener
-260,蜻蜓目_蜻科_灰蜻属,Orthetrum
-261,蜻蜓目_蜻科_灰蜻属_吕宋灰蜻,Orthetrum luzonicum
-262,蜻蜓目_蜻科_灰蜻属_斑灰蜻,Orthetrum poecilops
-263,蜻蜓目_蜻科_灰蜻属_狭腹灰蜻,Orthetrum sabina
-264,蜻蜓目_蜻科_灰蜻属_白尾灰蜻,Orthetrum albistylum
-265,蜻蜓目_蜻科_灰蜻属_粗灰蜻,Orthetrum cancellatum
-266,蜻蜓目_蜻科_灰蜻属_赤褐灰蜻,Orthetrum pruinosum
-267,蜻蜓目_蜻科_灰蜻属_黑尾灰蜻,Orthetrum glaucum
-268,蜻蜓目_蜻科_玉带蜻,Pseudothemis zonata
-269,蜻蜓目_蜻科_红蜻,
-270,蜻蜓目_蜻科_脉蜻属_截斑脉蜻,Neurothemis tullia
-271,蜻蜓目_蜻科_脉蜻属_网脉蜻,Neurothemis fulvia
-272,蜻蜓目_蜻科_蓝额疏脉蜻,Brachydiplax chalybea
-273,蜻蜓目_蜻科_褐蜻属_庆褐蜻,Trithemis festiva
-274,蜻蜓目_蜻科_褐蜻属_晓褐蜻,Trithemis aurora
-275,蜻蜓目_蜻科_赤蜻属,Sympetrum
-276,蜻蜓目_蜻科_锥腹蜻,Acisoma panorpoides
-277,蜻蜓目_蜻科_闪绿宽腹蜻,Lyriothemis pachygastra
-278,蜻蜓目_蜻科_闪蓝丽大伪蜻,Epophthalmia elegans
-279,蜻蜓目_蜻科_黄翅蜻,Brachythemis contaminata
-280,蜻蜓目_蜻科_黄蜻,Pantala flavescens
-281,蜻蜓目_蟌科_尾黄蟌属_长尾黄蟌,Ceriagrion fallax
-282,蜻蜓目_蟌科_杯斑小蟌,Agriocnemis femina
-283,蜻蜓目_蟌科_绿蟌属_心斑绿蟌,Enallagma cyathigerum
-284,蜻蜓目_蟌科_蓝纹尾蟌,Paracercion calamorum
-285,蜻蜓目_蟌科_褐斑异痣蟌,Ischnura senegalensis
-286,蜻蜓目_鼻蟌科,
-287,蝎目,
-288,螳螂目,
-289,螳螂目_花螳科_刺花螳属_刺花螳螂,Pseudocreobotra wahlbergi
-290,螳螂目_花螳科_幽灵螳螂,Phyllocrania paradoxa
-291,螳螂目_花螳科_日本姬螳,
-292,螳螂目_花螳科_眼斑螳属,
-293,螳螂目_花螳科_神隐螳螂,Sibylla pretiosa
-294,螳螂目_花螳科_花螳属_兰花螳螂,Hymenopus coronatus
-295,螳螂目_螳螂科_大刀螳螂属_中华大刀螳,Tenodera Sinensis
-296,螳螂目_静螳科_棕静螳,
-297,襀翅目,
-298,长翅目(蝎蛉),
-299,革翅目_蠼螋,
-300,鞘翅目_三栉牛科_大卫三栉牛,
-301,鞘翅目_卷象科,
-302,鞘翅目_卷象科_长颈鹿象鼻虫,
-303,鞘翅目_叩甲科,
-304,鞘翅目_叩甲科_丽叩甲属,
-305,鞘翅目_叩甲科_丽叩甲属_朱肩丽叩甲,Campsosternus gemma
-306,鞘翅目_叶甲科,
-307,鞘翅目_叶甲科_二纹柱萤叶甲,Gallerucida bifasciata
-308,鞘翅目_叶甲科_四斑长跗萤叶甲,Monolepta quadriguttata
-309,鞘翅目_叶甲科_瓢萤叶甲属_十星瓢萤叶甲,Oides decempunctata
-310,鞘翅目_叶甲科_瓢萤叶甲属_蓝翅瓢萤叶甲,Oides bowringii
-311,鞘翅目_叶甲科_瘦跗叶甲属_马铃薯叶甲,Leptinotarsa decemlineata
-312,鞘翅目_叶甲科_莲草直胸跳甲,Agasicles hygrophila
-313,鞘翅目_叶甲科_跳甲亚科,
-314,鞘翅目_叶甲科_铜绿金叶甲,Chrysolina polita
-315,鞘翅目_叶甲科_黄守瓜,Aulacophora indica
-316,鞘翅目_叶甲科_黄斑长跗萤叶甲,Monolepta signata
-317,鞘翅目_叶甲科_黄曲条跳甲,Phyllotreta striolata
-318,鞘翅目_吉丁科,
-319,鞘翅目_吉丁科_脊吉丁属,
-320,鞘翅目_天牛科,
-321,鞘翅目_天牛科_丛角天牛属,
-322,鞘翅目_天牛科_合欢双条天牛,Xystrocera globosa
-323,鞘翅目_天牛科_土天牛属,
-324,鞘翅目_天牛科_多带天牛,Polyzonus fasciatus
-325,鞘翅目_天牛科_多节天牛属_苜蓿多节天牛,Agapanthia amurensis
-326,鞘翅目_天牛科_星天牛属,
-327,鞘翅目_天牛科_星天牛属_楝星天牛,Anoplophora horsfieldi
-328,鞘翅目_天牛科_杉天牛属_双条杉天牛,Semanotus bifasciatus
-329,鞘翅目_天牛科_毛簇天牛,Aristobia horridula
-330,鞘翅目_天牛科_珊瑚天牛(红艳天牛),Dicelosternus corallinus
-331,鞘翅目_天牛科_白条天牛属,
-332,鞘翅目_天牛科_白条天牛属_云斑白条天牛&密点白条天牛,
-333,鞘翅目_天牛科_白条天牛属_黄八星白条天牛,Batocera rubus
-334,鞘翅目_天牛科_眉斑并脊天牛,Glenea cantor
-335,鞘翅目_天牛科_筒天牛属,
-336,鞘翅目_天牛科_粉天牛属,
-337,鞘翅目_天牛科_粒肩天牛属_皱胸粒肩天牛(桑天牛),Apriona rugicollis
-338,鞘翅目_天牛科_粒肩天牛属_锈色粒肩天牛,Apriona swainson
-339,鞘翅目_天牛科_紫天牛属_竹紫天牛,Purpuricenus temminckii
-340,鞘翅目_天牛科_绿虎天牛属,
-341,鞘翅目_天牛科_脊虎天牛属,Xylotrechus
-342,鞘翅目_天牛科_脊虎天牛属_宽带脊虎天牛,Xylotrechus yanoi
-343,鞘翅目_天牛科_苎麻双脊天牛,Paraglenea fortunei
-344,鞘翅目_天牛科_蓝丽天牛&茶丽天牛,
-345,鞘翅目_天牛科_裸角天牛属,
-346,鞘翅目_天牛科_长颈鹿天牛,Macrochenus guerini
-347,鞘翅目_天牛科_阔嘴天牛属,
-348,鞘翅目_天牛科_颈天牛属_桃红颈天牛,Aromia bungii
-349,鞘翅目_天牛科_麻竖毛天牛,Thyestilla gebleri
-350,鞘翅目_天牛科_黄星天牛属,
-351,鞘翅目_天牛科_齿胫天牛属_眼斑齿胫天牛,Paraleprodera diophthalma
-352,鞘翅目_天牛科_龟背天牛&桔斑簇天牛,
-353,鞘翅目_拟叩甲科,
-354,鞘翅目_拟步甲科,
-355,鞘翅目_拟步甲科_喙尾琵琶甲,
-356,鞘翅目_拟步甲科_朽木甲亚科,
-357,鞘翅目_拟花萤科,
-358,鞘翅目_步甲科,
-359,鞘翅目_步甲科_屁步甲属,Pheropsophus
-360,鞘翅目_步甲科_拉步甲,Carabus lafossei
-361,鞘翅目_步甲科_疑步甲,
-362,鞘翅目_步甲科_绿步甲,
-363,鞘翅目_步甲科_青步甲属,Chlaenius
-364,鞘翅目_步甲科_麻步甲,
-365,鞘翅目_犀金龟科,
-366,鞘翅目_犀金龟科_叉犀金龟属_双叉犀金龟,Allomyrina dichotoma
-367,鞘翅目_犀金龟科_大兜虫属_长戟大兜虫,
-368,鞘翅目_犀金龟科_姬兜,
-369,鞘翅目_犀金龟科_毛象大兜虫,
-370,鞘翅目_犀金龟科_细角疣犀金龟,
-371,鞘翅目_犀金龟科_蒙瘤犀金龟,
-372,鞘翅目_瓢甲科,
-373,鞘翅目_瓢甲科#幼虫,
-374,鞘翅目_瓢甲科_七星瓢虫,Coccinella septempunctata
-375,鞘翅目_瓢甲科_六斑异瓢虫,Aiolocaria hexaspilota
-376,鞘翅目_瓢甲科_六斑月瓢虫,Cheilomenes sexmaculata
-377,鞘翅目_瓢甲科_六星瓢虫,Oenopia formosana
-378,鞘翅目_瓢甲科_十二斑褐菌瓢虫,Vibidia duodecimguttata
-379,鞘翅目_瓢甲科_双七星瓢虫,Coccinula quatuordecimpustulata
-380,鞘翅目_瓢甲科_柯氏素菌瓢虫,Illeis koebelei
-381,鞘翅目_瓢甲科_茄二十八星瓢虫,Henosepilachna vigintioctopunctata
-382,鞘翅目_瓢甲科_马铃薯瓢虫,Henosepilachna vigintioctomaculata
-383,鞘翅目_瓢甲科_龟纹瓢虫,Propylea japonica
-384,鞘翅目_肖叶甲科,
-385,鞘翅目_肖叶甲科_绿缘扁角叶甲,Platycorynus parryi
-386,鞘翅目_肖叶甲科_黑额光叶甲,Smaragdina nigrifrons
-387,鞘翅目_臂金龟科,
-388,鞘翅目_臂金龟科_格彩臂金龟,Cheirotonus gestroi
-389,鞘翅目_臂金龟科_阳彩臂金龟,Cheirotonus jansoni
-390,鞘翅目_芫菁科,
-391,鞘翅目_芫菁科_斑蝥,
-392,鞘翅目_芫菁科_绿芫菁,
-393,鞘翅目_芫菁科_豆芫菁,Epicauta gorhami
-394,鞘翅目_花萤总科,
-395,鞘翅目_花萤科_丽花萤属,
-396,鞘翅目_萤科_金边窗萤,Pyrocoelia analis
-397,鞘翅目_葬甲科,
-398,鞘翅目_虎甲科_树栖虎甲属,Collyris
-399,鞘翅目_虎甲科_缺翅虎甲属,Tricondyla
-400,鞘翅目_虎甲科_虎甲属,Cicindela
-401,鞘翅目_虎甲科_虎甲属_中华虎甲,Cicindela chinenesis
-402,鞘翅目_虎甲科_虎甲属_离斑虎甲,Cicindela separata
-403,鞘翅目_虎甲科_虎甲属_芽斑虎甲,Cicindela gemmata
-404,鞘翅目_虎甲科_虎甲属_金斑虎甲,Cicindela aurulenta
-405,鞘翅目_豆象科,
-406,鞘翅目_象甲科,
-407,鞘翅目_象甲科_松瘤象甲,Sipalus gigas
-408,鞘翅目_象甲科_棕榈象,
-409,鞘翅目_象甲科_沟眶象属,
-410,鞘翅目_象甲科_甘薯蚁象,
-411,鞘翅目_象甲科_竹象,
-412,鞘翅目_象甲科_米象,
-413,鞘翅目_象甲科_绿磷象甲,
-414,鞘翅目_负泥虫科,
-415,鞘翅目_负泥虫科_紫茎甲,
-416,鞘翅目_赤翅甲科,
-417,鞘翅目_郭公虫科,
-418,鞘翅目_郭公虫科_中华毛郭公,
-419,鞘翅目_金龟科,
-420,鞘翅目_金龟科_大王花金龟,
-421,鞘翅目_金龟科_异丽金龟属,Anomala
-422,鞘翅目_金龟科_弧丽金龟属,Popillia
-423,鞘翅目_金龟科_星花金龟属,Protaetia
-424,鞘翅目_金龟科_白斑跗花金龟,Clinterocera mandarina
-425,鞘翅目_金龟科_白条绿花金龟,
-426,鞘翅目_金龟科_绿奇花金龟,Agestrata orichalca
-427,鞘翅目_金龟科_罗花金龟属,Rhomborhina
-428,鞘翅目_金龟科_蜣螂属,
-429,鞘翅目_金龟科_鹿花金龟属_宽带鹿花金龟,
-430,鞘翅目_金龟科_鹿花金龟属_弯角鹿花金龟,
-431,鞘翅目_金龟科_鹿花金龟属_黄粉鹿花金龟,
-432,鞘翅目_铁甲科,
-433,鞘翅目_铁甲科_梳龟甲属,
-434,鞘翅目_铁甲科_梳龟甲属_金梳龟甲,Aspidimorpha sanctaecrucis
-435,鞘翅目_铁甲科_甘薯台龟甲,Taiwania circumdata
-436,鞘翅目_铁甲科_甘薯蜡龟甲,Laccoptera quadrimaculata
-437,鞘翅目_锹甲科,
-438,鞘翅目_锹甲科_中华奥锹甲,
-439,鞘翅目_锹甲科_中国扁锹,
-440,鞘翅目_锹甲科_刀锹属_中国大锹,
-441,鞘翅目_锹甲科_彩虹锹甲属_彩虹锹甲,
-442,鞘翅目_锹甲科_褐黄前锹甲(两点赤锯锹),
-443,鞘翅目_锹甲科_鬼艳锹甲,
-444,鞘翅目_隐翅虫科,
-445,鞘翅目_鳃金龟科,Melolonthidae
-446,鞘翅目_鳃金龟科_云鳃金龟属,Polyphylla
-447,鞘翅目_鳃金龟科_十线云斑鳃金龟,Polyphylla decemlineata
-448,鞘翅目_鳃金龟科_大栗鳃金龟,Melolontha hippocastani
-449,鞘翅目_龙虱科,
-450,鞭蝎目,
-451,马陆,
-452,鳞翅目_凤蛾科_榆凤蛾,Epicopeia mencia
-453,鳞翅目_凤蝶科,Papilionidae
-454,鳞翅目_凤蝶科_丝带凤蝶属_丝带凤蝶,Sericinus montelus
-455,鳞翅目_凤蝶科_凤蝶属_克里翠凤蝶,Papilio krishna
-456,鳞翅目_凤蝶科_凤蝶属_北美大黄凤蝶,Papilio glaucus
-457,鳞翅目_凤蝶科_凤蝶属_北美大黄凤蝶#幼虫,
-458,鳞翅目_凤蝶科_凤蝶属_双尾凤蝶,Papilio multicaudata
-459,鳞翅目_凤蝶科_凤蝶属_台湾琉璃翠凤蝶,Papilio hermosanus
-460,鳞翅目_凤蝶科_凤蝶属_宽带美凤蝶,Papilio nephelus
-461,鳞翅目_凤蝶科_凤蝶属_巴黎翠凤蝶,Papilio paris
-462,鳞翅目_凤蝶科_凤蝶属_普瑞凤蝶,Papilio prexaspes
-463,鳞翅目_凤蝶科_凤蝶属_柑橘凤蝶,Papilio xuthus
-464,鳞翅目_凤蝶科_凤蝶属_柑橘凤蝶#幼虫和蛹,
-465,鳞翅目_凤蝶科_凤蝶属_玉带美凤蝶(玉带凤蝶),Papilio polytes
-466,鳞翅目_凤蝶科_凤蝶属_玉斑凤蝶,Papilio helenus
-467,鳞翅目_凤蝶科_凤蝶属_碧翠凤蝶(碧凤蝶),Papilio bianor
-468,鳞翅目_凤蝶科_凤蝶属_穹翠凤蝶,Papilio dialis
-469,鳞翅目_凤蝶科_凤蝶属_窄斑翠凤蝶,Papilio arcturus
-470,鳞翅目_凤蝶科_凤蝶属_红基美凤蝶,Papilio alcmenor
-471,鳞翅目_凤蝶科_凤蝶属_绿带翠凤蝶,Papilio maackii
-472,鳞翅目_凤蝶科_凤蝶属_美凤蝶,Papilio memnon
-473,鳞翅目_凤蝶科_凤蝶属_美洲大芷凤蝶,Papilio cresphontes
-474,鳞翅目_凤蝶科_凤蝶属_蓝美凤蝶(蓝凤蝶),Papilio protenor
-475,鳞翅目_凤蝶科_凤蝶属_达摩凤蝶,Papilio demoleus
-476,鳞翅目_凤蝶科_凤蝶属_重帏翠凤蝶,Papilio hoppo
-477,鳞翅目_凤蝶科_凤蝶属_金凤蝶,Papilio machaon
-478,鳞翅目_凤蝶科_凤蝶属_金凤蝶#幼虫和蛹,
-479,鳞翅目_凤蝶科_凤蝶属_银月豹凤蝶,Papilio troilus
-480,鳞翅目_凤蝶科_剑凤蝶属,Pazala
-481,鳞翅目_凤蝶科_剑凤蝶属_升天剑凤蝶,Pazala eurous
-482,鳞翅目_凤蝶科_剑凤蝶属_铁木剑凤蝶,Pazala mullah
-483,鳞翅目_凤蝶科_喙凤蝶属_喙凤蝶,Teinopalpus imperialis
-484,鳞翅目_凤蝶科_喙凤蝶属_金斑喙凤蝶,Teinopalpus aureus
-485,鳞翅目_凤蝶科_宽尾凤蝶属_宽尾凤蝶,Agehana elwesi
-486,鳞翅目_凤蝶科_尾凤蝶属_三尾凤蝶,Bhutanitis thaidina
-487,鳞翅目_凤蝶科_尾凤蝶属_不丹尾凤蝶,Bhutanitis ludlowi
-488,鳞翅目_凤蝶科_尾凤蝶属_多尾凤蝶,Bhutanitis lidderdalii
-489,鳞翅目_凤蝶科_斑凤蝶属_斑凤蝶,Chilasa clytia
-490,鳞翅目_凤蝶科_旖凤蝶属_旖凤蝶,Iphiclides podalirius
-491,鳞翅目_凤蝶科_曙凤蝶属_曙凤蝶,Atrophaneura horishana
-492,鳞翅目_凤蝶科_曙凤蝶属_瓦曙凤蝶,Atrophaneura varuna
-493,鳞翅目_凤蝶科_燕凤蝶属_燕凤蝶,Lamproptera curius
-494,鳞翅目_凤蝶科_燕凤蝶属_绿带燕凤蝶,Lamproptera meges
-495,鳞翅目_凤蝶科_珠凤蝶属_红珠凤蝶,Pachliopta aristolochiae
-496,鳞翅目_凤蝶科_红颈凤蝶属_红颈鸟翼凤蝶,Trogonoptera brookiana
-497,鳞翅目_凤蝶科_绿凤蝶属_斜纹绿凤蝶,Pathysa agetes
-498,鳞翅目_凤蝶科_绿凤蝶属_绿凤蝶,Pathysa_antiphates
-499,鳞翅目_凤蝶科_虎凤蝶属_中华虎凤蝶,Luehdorfia chinensis
-500,鳞翅目_凤蝶科_裳凤蝶属_荧光裳凤蝶,Troides magellanus
-501,鳞翅目_凤蝶科_裳凤蝶属_裳凤蝶,Troides helena
-502,鳞翅目_凤蝶科_裳凤蝶属_金裳凤蝶,Troides aeacus
-503,鳞翅目_凤蝶科_钩凤蝶属_褐钩凤蝶,Meandrusa sciron
-504,鳞翅目_凤蝶科_钩凤蝶属_钩凤蝶,Meandrusa payeni
-505,鳞翅目_凤蝶科_锤尾凤蝶属_锤尾凤蝶,Losaria coon
-506,鳞翅目_凤蝶科_青凤蝶属,Graphium
-507,鳞翅目_凤蝶科_青凤蝶属_宽带青凤蝶,Graphium cloanthus
-508,鳞翅目_凤蝶科_青凤蝶属_木兰青凤蝶,Graphium doson
-509,鳞翅目_凤蝶科_青凤蝶属_碎斑青凤蝶,Graphium chironides
-510,鳞翅目_凤蝶科_青凤蝶属_统帅青凤蝶,Graphium agamemnon
-511,鳞翅目_凤蝶科_青凤蝶属_青凤蝶,Graphium sarpedon
-512,鳞翅目_凤蝶科_青凤蝶属_黎氏青凤蝶,Graphium leechi
-513,鳞翅目_凤蝶科_鸢凤蝶属_长尾玳瑁凤蝶,Eurytides marcellus
-514,鳞翅目_凤蝶科_麝凤蝶属,Byasa
-515,鳞翅目_凤蝶科_麝凤蝶属_中华麝凤蝶,Byasa confusa
-516,鳞翅目_凤蝶科_麝凤蝶属_云南麝凤蝶,Byasa hedistus
-517,鳞翅目_凤蝶科_麝凤蝶属_多姿麝凤蝶,Byasa polyeuctes
-518,鳞翅目_凤蝶科_麝凤蝶属_白斑麝凤蝶,Byasa dasarada
-519,鳞翅目_凤蝶科_麝凤蝶属_长尾麝凤蝶,Byasa impediens
-520,鳞翅目_凤蝶科_麝凤蝶属_麝凤蝶,Byasa alcinous
-521,鳞翅目_刺蛾科,Limacodidae
-522,鳞翅目_刺蛾科#幼虫和蛹,
-523,鳞翅目_刺蛾科_仿姹刺蛾,Chalcoscelides castaneipars
-524,鳞翅目_刺蛾科_扁刺蛾属,
-525,鳞翅目_刺蛾科_显脉球须刺蛾,Scopelodes venosa
-526,鳞翅目_刺蛾科_枣奕刺蛾,Iragoides conjuncta
-527,鳞翅目_刺蛾科_枣奕刺蛾#幼虫,
-528,鳞翅目_刺蛾科_桑褐刺蛾属_桑褐刺蛾,Setora postornata
-529,鳞翅目_刺蛾科_桑褐刺蛾属_桑褐刺蛾#幼虫,
-530,鳞翅目_刺蛾科_绿刺蛾属,Parasa
-531,鳞翅目_刺蛾科_绿刺蛾属_丽绿刺蛾,Parasa lepida
-532,鳞翅目_刺蛾科_绿刺蛾属_胆绿刺蛾,Parasa darma
-533,鳞翅目_刺蛾科_绿刺蛾属_褐边绿刺蛾,Parasa consocia
-534,鳞翅目_刺蛾科_绿刺蛾属_迹斑绿刺蛾,Parasa pastoralis
-535,鳞翅目_刺蛾科_闪银纹刺蛾,Miresa fulgida
-536,鳞翅目_刺蛾科_黄刺蛾,Cnidocampa flavescens
-537,鳞翅目_卷蛾科,Tortricidae
-538,鳞翅目_卷蛾科_楝小卷蛾属_苦楝小卷蛾,Loboschiza koenigiana
-539,鳞翅目_卷蛾科_白钩小卷蛾,Epiblema foenella
-540,鳞翅目_卷蛾科_豹裳卷蛾,Cerace xanthocosma
-541,鳞翅目_喙蝶科_喙蝶属_朴喙蝶,Libythea lepita
-542,鳞翅目_喙蝶科_喙蝶属_棒纹喙蝶,Libythea myrrha
-543,鳞翅目_夜蛾科,Noctuidae
-544,鳞翅目_夜蛾科_三角夜蛾属_中带三角夜蛾,Chalciope geometrica
-545,鳞翅目_夜蛾科_三角夜蛾属_斜带三角夜蛾,Chalciope mygdon
-546,鳞翅目_夜蛾科_三角夜蛾属_短带三角夜蛾,Chalciope hyppasia
-547,鳞翅目_夜蛾科_中赫夜蛾,Hadjina chinensis
-548,鳞翅目_夜蛾科_丹日明夜蛾,Sphragifera sigillata
-549,鳞翅目_夜蛾科_冬夜蛾属_莴苣冬夜蛾,Cucullia fraterna
-550,鳞翅目_夜蛾科_凤凰木夜蛾,Pericyma cruegeri
-551,鳞翅目_夜蛾科_单析夜蛾,Supersypnoides simplex
-552,鳞翅目_夜蛾科_安钮夜蛾属_枯安钮夜蛾,Ophiusa coronata
-553,鳞翅目_夜蛾科_安钮夜蛾属_青安钮夜蛾,Ophiusa tirhaca
-554,鳞翅目_夜蛾科_巧夜蛾属_白点巧夜蛾,Oruza albigutta
-555,鳞翅目_夜蛾科_巾夜蛾属_玫瑰巾夜蛾,Parallelia arctotaenia
-556,鳞翅目_夜蛾科_巾夜蛾属_石榴巾夜蛾,Parallelia stuposa
-557,鳞翅目_夜蛾科_巾夜蛾属_霉巾夜蛾,Parallelia maturata
-558,鳞翅目_夜蛾科_帝王枯叶蛾,Phyllodes imperialis
-559,鳞翅目_夜蛾科_散纹夜蛾属_小红晕散纹夜蛾,Callopistria nobilior
-560,鳞翅目_夜蛾科_散纹夜蛾属_红晕散纹夜蛾,Callopistria repleta
-561,鳞翅目_夜蛾科_斜纹夜蛾属,Spodoptera
-562,鳞翅目_夜蛾科_旋夜蛾属_臭椿皮蛾,Eligma narcissus
-563,鳞翅目_夜蛾科_旋目夜蛾,Spirama retorta
-564,鳞翅目_夜蛾科_日月明夜蛾,Sphragifera biplagiata
-565,鳞翅目_夜蛾科_枝夜蛾,Ramadasa pavo
-566,鳞翅目_夜蛾科_枯叶夜蛾,Adris tyrannus
-567,鳞翅目_夜蛾科_淡剑纹灰翅夜蛾,Spodoptera depravata
-568,鳞翅目_夜蛾科_甘蓝夜蛾,Mamestra brassicae
-569,鳞翅目_夜蛾科_白斑烦夜蛾,Aedia leucomelas
-570,鳞翅目_夜蛾科_目夜蛾属_卷裳目夜蛾,Erebus macrops
-571,鳞翅目_夜蛾科_目夜蛾属_毛目夜蛾,Erebus pilosa
-572,鳞翅目_夜蛾科_目夜蛾属_玉边魔目夜蛾,Erebus albicincta
-573,鳞翅目_夜蛾科_目夜蛾属_魔目夜蛾,Erebus crepuscularis
-574,鳞翅目_夜蛾科_碎斑虎蛾,Cruriopsis funebris
-575,鳞翅目_夜蛾科_窄蓝条夜蛾,Ischyja ferrifracta
-576,鳞翅目_夜蛾科_绿斑枯叶夜蛾,Adris okurai
-577,鳞翅目_夜蛾科_艳叶夜蛾属_艳叶夜蛾,Eudocima salaminia
-578,鳞翅目_夜蛾科_艳叶夜蛾属_艳叶夜蛾#幼虫,
-579,鳞翅目_夜蛾科_艳叶夜蛾属_落叶夜蛾,Eudocima phalonia
-580,鳞翅目_夜蛾科_苎麻夜蛾,Arcte coerula
-581,鳞翅目_夜蛾科_葱兰夜蛾,
-582,鳞翅目_夜蛾科_蓖麻夜蛾(飞扬阿夜蛾),Achaea janata
-583,鳞翅目_夜蛾科_蓝条夜蛾,Ischyja manlia
-584,鳞翅目_夜蛾科_象形文夜蛾,Baorisa hieroglyphica
-585,鳞翅目_夜蛾科_豹夜蛾属_胡桃豹夜蛾,Sinna extrema
-586,鳞翅目_夜蛾科_镶落叶夜蛾,Othreis homaena
-587,鳞翅目_夜蛾科_镶落叶夜蛾#幼虫,
-588,鳞翅目_天蚕蛾科,Saturniidae
-589,鳞翅目_天蚕蛾科_乌桕大蚕蛾,Attacus atlas
-590,鳞翅目_天蚕蛾科_伊莎贝拉大蚕蛾,Graellsia isabellae
-591,鳞翅目_天蚕蛾科_华尾天蚕蛾,Actias sinensis
-592,鳞翅目_天蚕蛾科_后目天蚕蛾,Caligula simla
-593,鳞翅目_天蚕蛾科_大尾天蚕蛾,Actias maenas
-594,鳞翅目_天蚕蛾科_小字大蚕蛾属_点目大蚕蛾,Cricula andrei
-595,鳞翅目_天蚕蛾科_彗星蛾,Argema mittrei
-596,鳞翅目_天蚕蛾科_月尾天蚕蛾,Actias luna
-597,鳞翅目_天蚕蛾科_柞天蚕蛾,
-598,鳞翅目_天蚕蛾科_樗蚕蛾属,Samia
-599,鳞翅目_天蚕蛾科_樟天蚕蛾,
-600,鳞翅目_天蚕蛾科_玉米天蚕蛾,Automeris io
-601,鳞翅目_天蚕蛾科_红尾大蚕蛾&长尾大蚕蛾,
-602,鳞翅目_天蚕蛾科_绿尾大蚕蛾&宁波尾大蚕蛾,
-603,鳞翅目_天蚕蛾科_豹天蚕蛾属,Loepa
-604,鳞翅目_天蚕蛾科_豹天蚕蛾属_红豹天蚕蛾,Loepa oberthuri
-605,鳞翅目_天蚕蛾科_豹天蚕蛾属_黄豹天蚕蛾,Loepa megacore
-606,鳞翅目_天蚕蛾科_钩翅天蚕蛾,Antheraea assamensis
-607,鳞翅目_天蚕蛾科_银杏大蚕蛾,Dictyoploca japonica
-608,鳞翅目_天蚕蛾科_黄珠天蚕蛾,
-609,鳞翅目_天蛾科,Sphingidae
-610,鳞翅目_天蛾科_六点天蛾属_台湾六点天蛾(黑角六点天蛾),Marumba saishiuana
-611,鳞翅目_天蛾科_六点天蛾属_栗六点天蛾,Marumba sperchius
-612,鳞翅目_天蛾科_六点天蛾属_椴六点天蛾,Marumba dyras
-613,鳞翅目_天蛾科_六点天蛾属_楠六点天蛾,Marumba cristata
-614,鳞翅目_天蛾科_大背天蛾,Meganoton analis
-615,鳞翅目_天蛾科_斑天蛾属_银斑天蛾,Hayesiana triopus
-616,鳞翅目_天蛾科_斜纹天蛾属_凤仙花天蛾(芋双线天蛾),Theretra oldenlandiae
-617,鳞翅目_天蛾科_斜纹天蛾属_凤仙花天蛾(芋双线天蛾)#幼虫,
-618,鳞翅目_天蛾科_斜纹天蛾属_后红斜纹天蛾,Theretra alecto subsp. cretica
-619,鳞翅目_天蛾科_斜纹天蛾属_芋单线斜纹天蛾,Theretra silhetensis
-620,鳞翅目_天蛾科_斜纹天蛾属_赭斜纹天蛾,Theretra pallicosta
-621,鳞翅目_天蛾科_斜纹天蛾属_雀纹天蛾,Theretra japonica
-622,鳞翅目_天蛾科_斜纹天蛾属_青背斜纹天蛾(黄腹斜纹天蛾),Theretra nessus
-623,鳞翅目_天蛾科_斜线天蛾属_后红斜线天蛾,Hippotion rafflesii
-624,鳞翅目_天蛾科_斜线天蛾属_茜草后红斜线天蛾,Hippotion rosetta
-625,鳞翅目_天蛾科_斜绿天蛾,Pergesa acteus
-626,鳞翅目_天蛾科_斜绿天蛾#幼虫,
-627,鳞翅目_天蛾科_星天蛾属_大星天蛾,Dolbina inexacta
-628,鳞翅目_天蛾科_星天蛾属_绒星天蛾,Dolbina tancrei
-629,鳞翅目_天蛾科_昼天蛾属_葡萄昼天蛾,Sphecodina caudata
-630,鳞翅目_天蛾科_月天蛾属_构月天蛾,Parum colligata
-631,鳞翅目_天蛾科_枫天蛾属,Cypoides
-632,鳞翅目_天蛾科_榆绿天蛾,Callambulyx tatarinovi
-633,鳞翅目_天蛾科_甘薯天蛾,Agrius convolvuli
-634,鳞翅目_天蛾科_甘薯天蛾#幼虫,
-635,鳞翅目_天蛾科_白肩天蛾属_青白肩天蛾,Rhagastis olivacea
-636,鳞翅目_天蛾科_白腰天蛾属_夹竹桃天蛾,Daphnis nerii
-637,鳞翅目_天蛾科_白腰天蛾属_夹竹桃天蛾#幼虫,
-638,鳞翅目_天蛾科_白腰天蛾属_茜草白腰天蛾,Daphnis hypothous
-639,鳞翅目_天蛾科_目天蛾属_蓝目天蛾,Smerinthus planus
-640,鳞翅目_天蛾科_盾天蛾属,Phyllosphingia
-641,鳞翅目_天蛾科_红天蛾,Deilephila elpenor
-642,鳞翅目_天蛾科_缺角天蛾属_台湾缺角天蛾,Acosmeryx formosana
-643,鳞翅目_天蛾科_缺角天蛾属_缺角天蛾,Acosmeryx castanea
-644,鳞翅目_天蛾科_缺角天蛾属_葡萄缺角天蛾,Acosmeryx naga
-645,鳞翅目_天蛾科_缺角天蛾属_黄点缺角天蛾,Acosmeryx miskini
-646,鳞翅目_天蛾科_背天蛾属_平背天蛾,Cechenena minor
-647,鳞翅目_天蛾科_背天蛾属_条背天蛾,Cechenena lineosa
-648,鳞翅目_天蛾科_背天蛾属_绿条背天蛾,Cechenena subangustata
-649,鳞翅目_天蛾科_芒果天蛾,Amplypterus panopus
-650,鳞翅目_天蛾科_葡萄天蛾,Ampelophaga rubiginosa
-651,鳞翅目_天蛾科_豆天蛾属,Clanis
-652,鳞翅目_天蛾科_透翅天蛾属_咖啡透翅天蛾,
-653,鳞翅目_天蛾科_锯翅天蛾属,
-654,鳞翅目_天蛾科_长喙天蛾属,
-655,鳞翅目_天蛾科_霜天蛾属_丁香天蛾,Psilogramma increta
-656,鳞翅目_天蛾科_霜天蛾属_霜天蛾,Psilogramma menephron
-657,鳞翅目_天蛾科_鬼脸天蛾属_芝麻鬼脸天蛾,Acherontia styx
-658,鳞翅目_天蛾科_鬼脸天蛾属_赭带鬼脸天蛾,Acherontia atropos
-659,鳞翅目_天蛾科_鬼脸天蛾属_赭带鬼脸天蛾#幼虫,
-660,鳞翅目_天蛾科_鬼脸天蛾属_鬼脸天蛾,Acherontia lachesis
-661,鳞翅目_天蛾科_鬼脸天蛾属_鬼脸天蛾#幼虫和蛹,
-662,鳞翅目_天蛾科_鹰翅天蛾属,
-663,鳞翅目_天蛾科_黑边天蛾属,
-664,鳞翅目_尖蛾科_橙红离尖蛾,Labdia semicoccinea
-665,鳞翅目_尺蛾科,Geometridae
-666,鳞翅目_尺蛾科_三线沙尺蛾,Sarcinodes aequilinearia
-667,鳞翅目_尺蛾科_丝棉木金星尺蛾,Abraxas suspecta
-668,鳞翅目_尺蛾科_中国虎尺蛾,Xanthabraxas hemionata
-669,鳞翅目_尺蛾科_丸尺蛾属,
-670,鳞翅目_尺蛾科_丸尺蛾属_丸尺蛾,Plutodes flavescens
-671,鳞翅目_尺蛾科_丸尺蛾属_带丸尺蛾,Plutodes exquisita
-672,鳞翅目_尺蛾科_丸尺蛾属_黄缘丸尺蛾,Plutodes costatus
-673,鳞翅目_尺蛾科_亚枯叶尺蛾,Gandaritis fixseni
-674,鳞翅目_尺蛾科_伪钩镰翅绿尺蛾,Tanaorhinus viridiluteata
-675,鳞翅目_尺蛾科_刺尾尺蛾,Semiothisa emersaria
-676,鳞翅目_尺蛾科_双斜线尺蛾,Megaspilates mundataria
-677,鳞翅目_尺蛾科_双目白姬尺蛾,Problepsis albidior
-678,鳞翅目_尺蛾科_双线新青尺蛾,Neohipparchus vallata
-679,鳞翅目_尺蛾科_四眼绿尺蛾,Chlorodontopera discospilata
-680,鳞翅目_尺蛾科_基黄粉尺蛾,Pingasa ruginaria
-681,鳞翅目_尺蛾科_女贞尺蛾,Naxa seriaria
-682,鳞翅目_尺蛾科_宽带峰尺蛾,Dindica polyphaenaria
-683,鳞翅目_尺蛾科_小红姬尺蛾,Idaea muricata
-684,鳞翅目_尺蛾科_尘尺蛾,Hypomecis punctinalis
-685,鳞翅目_尺蛾科_尾尺蛾属_接骨木尾尺蛾,Ourapteryx sambucaria
-686,鳞翅目_尺蛾科_尾尺蛾属_雪尾尺蛾,Ourapteryx nivea
-687,鳞翅目_尺蛾科_折玉臂尺蛾,Xandrames latiferaria
-688,鳞翅目_尺蛾科_斧木纹尺蛾,Plagodis dolabraria
-689,鳞翅目_尺蛾科_星缘锈腰尺蛾,Hemithea tritonaria
-690,鳞翅目_尺蛾科_柿星尺蛾,Percnia giraffata
-691,鳞翅目_尺蛾科_柿星尺蛾#幼虫,
-692,鳞翅目_尺蛾科_核桃四星尺蛾,Ophthalmitis albosignaria
-693,鳞翅目_尺蛾科_格蔗尺蛾,Chiasmia hebesata
-694,鳞翅目_尺蛾科_桑褶翅尺蛾,Apochima excavata
-695,鳞翅目_尺蛾科_桑褶翅尺蛾#幼虫,
-696,鳞翅目_尺蛾科_榛金星尺蛾,Abraxas sylvata
-697,鳞翅目_尺蛾科_樟翠尺蛾属_樟翠尺蛾,Pelagodes antiquadraria
-698,鳞翅目_尺蛾科_樱桃薄尺蛾,Inurois membranaria
-699,鳞翅目_尺蛾科_橄榄绿尾尺蛾,Chiasmia defixaria
-700,鳞翅目_尺蛾科_油茶尺蛾,Biston marginata
-701,鳞翅目_尺蛾科_泉丝尺蛾,Uliocnemis castalaria
-702,鳞翅目_尺蛾科_泼墨尺蛾,Ninodes splendens
-703,鳞翅目_尺蛾科_淡黄突峰尺蛾,Biston perclara
-704,鳞翅目_尺蛾科_清波皎尺蛾,Myrteta tinagmaria
-705,鳞翅目_尺蛾科_焦斑叉线青尺蛾,Tanaoctenia haliaria
-706,鳞翅目_尺蛾科_焦边尺蛾,Bizia aexaria
-707,鳞翅目_尺蛾科_环缘奄尺蛾,Stegania cararia
-708,鳞翅目_尺蛾科_瑞秋尺蛾,Operophtera relegata
-709,鳞翅目_尺蛾科_璃尺蛾属_三角璃尺蛾,Krananda latimarginaria
-710,鳞翅目_尺蛾科_璃尺蛾属_玻璃尺蛾,Krananda semihyalina
-711,鳞翅目_尺蛾科_璃尺蛾属_琉璃尺蛾,Krananda lucidaria
-712,鳞翅目_尺蛾科_白珠鲁尺蛾,Amblychia angeronaria
-713,鳞翅目_尺蛾科_眼尺蛾属,
-714,鳞翅目_尺蛾科_眼尺蛾属_平眼尺蛾,Problepsis vulgaris
-715,鳞翅目_尺蛾科_眼尺蛾属_猫眼尺蛾,Problepsis superans
-716,鳞翅目_尺蛾科_穿孔尺蛾属,Corymica
-717,鳞翅目_尺蛾科_紫带姬尺蛾,Idaea impexa
-718,鳞翅目_尺蛾科_紫片尺蛾,Fascellina chromataria
-719,鳞翅目_尺蛾科_紫片尺蛾#幼虫,
-720,鳞翅目_尺蛾科_线尺蛾属_分紫线尺蛾,Timandra dichela
-721,鳞翅目_尺蛾科_线尺蛾属_同紫线尺蛾,Timandra convectaria
-722,鳞翅目_尺蛾科_线尺蛾属_拟黄缘线尺蛾,Timandra synthaca
-723,鳞翅目_尺蛾科_绿尺蛾属,Comibaena
-724,鳞翅目_尺蛾科_绿尺蛾属_云纹绿尺蛾,Comibaena pictipennis
-725,鳞翅目_尺蛾科_绿尺蛾属_亚四目绿尺蛾,Comostola subtiliaria
-726,鳞翅目_尺蛾科_绿尺蛾属_紫斑绿尺蛾,Comibaena nigromacularia
-727,鳞翅目_尺蛾科_绿尺蛾属_肾纹绿尺蛾,Comibaena procumbaria
-728,鳞翅目_尺蛾科_绿缺口尺蛾,Fascellina plagiata
-729,鳞翅目_尺蛾科_绿蚀尺蛾,Hypochrosis hyadaria
-730,鳞翅目_尺蛾科_缺口姬尺蛾,Gnamptoloma aventiaria
-731,鳞翅目_尺蛾科_缺口姬尺蛾#幼虫,
-732,鳞翅目_尺蛾科_缺口青尺蛾,Timandromorpha discolor
-733,鳞翅目_尺蛾科_艳青尺蛾属,
-734,鳞翅目_尺蛾科_艳青尺蛾属_夹竹桃艳青尺蛾,Agathia lycaenaria
-735,鳞翅目_尺蛾科_艳青尺蛾属_平艳青尺蛾,Agathia hilarata
-736,鳞翅目_尺蛾科_艳青尺蛾属_歪纹艳青尺蛾,Agathia laetata
-737,鳞翅目_尺蛾科_艳青尺蛾属_萝藦艳青尺蛾,Agathia carissima
-738,鳞翅目_尺蛾科_蓝尺蛾属_橙带蓝尺蛾,Milionia basalis
-739,鳞翅目_尺蛾科_蜻蜓尺蛾属,
-740,鳞翅目_尺蛾科_褐斑黄普尺蛾,Pseudomiza aurata
-741,鳞翅目_尺蛾科_豹尺蛾,Dysphania militaris
-742,鳞翅目_尺蛾科_豹纹尺蛾属_大斑豹纹尺蛾(虎纹长翅尺蛾),Obeidia tigrata
-743,鳞翅目_尺蛾科_豹纹尺蛾属_巨豹纹尺蛾,Obeidia gigantearia
-744,鳞翅目_尺蛾科_豹纹尺蛾属_撒旦豹纹尺蛾,Obeidia lucifera
-745,鳞翅目_尺蛾科_辐射尺蛾属,Iotaphora
-746,鳞翅目_尺蛾科_金叉俭尺蛾,Spilopera divaricata
-747,鳞翅目_尺蛾科_金头紫沙尺蛾,Plesiomorpha flaviceps
-748,鳞翅目_尺蛾科_金头紫沙尺蛾#幼虫,
-749,鳞翅目_尺蛾科_金带霓虹尺蛾,Acolutha pulchella subsp. semifulva
-750,鳞翅目_尺蛾科_钩镰翅绿尺蛾,Tanaorhinus rafflesii
-751,鳞翅目_尺蛾科_铃隐尺蛾,Heterolocha aristonaria
-752,鳞翅目_尺蛾科_锯褐缘黄尺蛾,Auaxa cesadaria
-753,鳞翅目_尺蛾科_镰翅绿尺蛾,Tanaorhinus reciprocata
-754,鳞翅目_尺蛾科_阿里山夕尺蛾,Sibatania arizana
-755,鳞翅目_尺蛾科_顶斑内弧尺蛾,Heterolocha coccinea
-756,鳞翅目_尺蛾科_魑尺蛾(透斑钩角尺蛾),Garaeus specularis
-757,鳞翅目_尺蛾科_鹰三角尺蛾,Zanclopera falcata
-758,鳞翅目_尺蛾科_鹰尺蛾属_木橑尺蛾,Biston panterinaria
-759,鳞翅目_尺蛾科_黄缘霞尺蛾,Nothomiza flavicosta
-760,鳞翅目_尺蛾科_黄缘霞尺蛾#幼虫,
-761,鳞翅目_尺蛾科_黄蝶尺蛾属_黄蝶尺蛾,Thinopteryx crocoptera
-762,鳞翅目_尺蛾科_黄蟠尺蛾,Eilicrinia flava
-763,鳞翅目_尺蛾科_黄钩尺蛾,Hyposidra infixaria
-764,鳞翅目_巢蛾科,
-765,鳞翅目_弄蝶科,Hesperiidae
-766,鳞翅目_弄蝶科_伞弄蝶属_白伞弄蝶,Burara gomata
-767,鳞翅目_弄蝶科_姜弄蝶属_姜弄蝶,Udaspes folus
-768,鳞翅目_弄蝶科_尖翅弄蝶属_尖翅弄蝶,Badamia exclamationis
-769,鳞翅目_弄蝶科_旖弄蝶属_旖弄蝶,Isoteinon lamprospilus
-770,鳞翅目_弄蝶科_星弄蝶属_斑星弄蝶,Celaenorrhinus maculosus
-771,鳞翅目_弄蝶科_毛脉弄蝶属_毛脉弄蝶,Mooreana trichoneura
-772,鳞翅目_弄蝶科_玛弄蝶属_玛弄蝶,Matapa aria
-773,鳞翅目_弄蝶科_瑟弄蝶属_锦瑟弄蝶,Seseria dohertyi
-774,鳞翅目_弄蝶科_白弄蝶属_白弄蝶,Abraximorpha davidii
-775,鳞翅目_弄蝶科_稻弄蝶属_么纹稻弄蝶,Parnara naso
-776,鳞翅目_弄蝶科_稻弄蝶属_曲纹稻弄蝶,Parnara ganga
-777,鳞翅目_弄蝶科_稻弄蝶属_直纹稻弄蝶,Parnara guttata
-778,鳞翅目_弄蝶科_绿弄蝶属_绿弄蝶&半黄绿弄蝶,
-779,鳞翅目_弄蝶科_腌翅弄蝶属_腌翅弄蝶,Astictopterus jama
-780,鳞翅目_弄蝶科_蕉弄蝶属_黄斑蕉弄蝶,Erionota torus
-781,鳞翅目_弄蝶科_袖弄蝶属_曲纹袖弄蝶,Notocrypta curvifascia
-782,鳞翅目_弄蝶科_裙弄蝶属_沾边裙弄蝶,Tagiades litigiosa
-783,鳞翅目_弄蝶科_裙弄蝶属_黑边裙弄蝶,Tagiades menaka
-784,鳞翅目_弄蝶科_襟弄蝶属_黄襟弄蝶,Pseudocoladenia dan
-785,鳞翅目_弄蝶科_角翅弄蝶属_角翅弄蝶,Odontoptilum angulatum
-786,鳞翅目_弄蝶科_谷弄蝶属,Pelopidas
-787,鳞翅目_弄蝶科_趾弄蝶属_三斑趾弄蝶,Hasora badra
-788,鳞翅目_弄蝶科_趾弄蝶属_无趾弄蝶,Hasora anura
-789,鳞翅目_弄蝶科_趾弄蝶属_纬带趾弄蝶,Hasora vitta
-790,鳞翅目_弄蝶科_钩弄蝶属_黑色钩弄蝶,Ancistroides nigrita
-791,鳞翅目_弄蝶科_雅弄蝶属_雅弄蝶,Iambrix salsala
-792,鳞翅目_弄蝶科_黄室弄蝶属,Potanthus
-793,鳞翅目_弄蝶科_黄斑弄蝶属_钩形黄斑弄蝶,Ampittia virgata
-794,鳞翅目_弄蝶科_黑弄蝶属_黑弄蝶,Daimio tethys
-795,鳞翅目_斑蛾科,
-796,鳞翅目_斑蛾科_双带透翅锦斑蛾(云南锦斑蛾),
-797,鳞翅目_斑蛾科_双星锦斑蛾(华庆锦斑蛾),Erasmia pulchella
-798,鳞翅目_斑蛾科_双星锦斑蛾(华庆锦斑蛾)#幼虫,
-799,鳞翅目_斑蛾科_带锦斑蛾属_野茶带锦斑蛾,Pidorus glaucopis
-800,鳞翅目_斑蛾科_旭锦斑蛾属,Campylotes
-801,鳞翅目_斑蛾科_朱红毛斑蛾(黑端榕蛾),Phauda flammans
-802,鳞翅目_斑蛾科_朱红毛斑蛾(黑端榕蛾)#幼虫,
-803,鳞翅目_斑蛾科_李拖尾锦斑蛾,Elcysma westwoodi
-804,鳞翅目_斑蛾科_条纹小斑蛾,Thyrassia penangae
-805,鳞翅目_斑蛾科_条纹小斑蛾#幼虫,
-806,鳞翅目_斑蛾科_禾斑蛾属_海南禾斑蛾,Artona hainana
-807,鳞翅目_斑蛾科_网锦斑蛾,Trypanophora semihyalina
-808,鳞翅目_斑蛾科_网锦斑蛾#幼虫,
-809,鳞翅目_斑蛾科_脉锦斑蛾属_茶柄脉锦斑蛾(茶树茶斑蛾),Eterusia aedea
-810,鳞翅目_斑蛾科_脉锦斑蛾属_茶柄脉锦斑蛾(茶树茶斑蛾)#幼虫,
-811,鳞翅目_斑蛾科_蓝宝烂斑蛾,Clelea sapphirina
-812,鳞翅目_斑蛾科_蓝紫锦斑蛾,Cyclosia midama
-813,鳞翅目_斑蛾科_蝶形锦斑蛾,Cyclosia papilionaris
-814,鳞翅目_斑蛾科_蝶形锦斑蛾#幼虫,
-815,鳞翅目_斑蛾科_豹点锦斑蛾,Cyclosia panthona
-816,鳞翅目_斑蛾科_赤眉锦斑蛾属_黑心赤眉锦斑蛾,Rhodopsona rubiginosa
-817,鳞翅目_斑蛾科_重阳木锦斑蛾,Histia rhodope
-818,鳞翅目_斑蝶科_帛斑蝶属_大帛斑蝶,Idea leuconoe
-819,鳞翅目_斑蝶科_斑蝶属_虎斑蝶,Danaus genutia
-820,鳞翅目_斑蝶科_斑蝶属_金斑蝶,Danaus chrysippus
-821,鳞翅目_斑蝶科_斑蝶属_金斑蝶#幼虫,
-822,鳞翅目_斑蝶科_斑蝶属_黑脉金斑蝶,Danaus plexippus
-823,鳞翅目_斑蝶科_旖斑蝶属_拟旖斑蝶,Ideopsis similis
-824,鳞翅目_斑蝶科_旖斑蝶属_旖斑蝶,Ideopsis vulgaris
-825,鳞翅目_斑蝶科_紫斑蝶属,Euploea
-826,鳞翅目_斑蝶科_紫斑蝶属_双标紫斑蝶,Euploea sylvester
-827,鳞翅目_斑蝶科_紫斑蝶属_小紫斑蝶,Euploea tulliolus
-828,鳞翅目_斑蝶科_紫斑蝶属_幻紫斑蝶,Euploea core
-829,鳞翅目_斑蝶科_紫斑蝶属_异型紫斑蝶,Euploea mulciber
-830,鳞翅目_斑蝶科_紫斑蝶属_蓝点紫斑蝶,Euploea midamus
-831,鳞翅目_斑蝶科_绢斑蝶属,Parantica
-832,鳞翅目_斑蝶科_绢斑蝶属_大绢斑蝶,Parantica sita
-833,鳞翅目_斑蝶科_绢斑蝶属_绢斑蝶,Parantica aglea
-834,鳞翅目_斑蝶科_绢斑蝶属_黑绢斑蝶,Parantica melanea
-835,鳞翅目_斑蝶科_青斑蝶属_啬青斑蝶,Tirumala septentrionis
-836,鳞翅目_斑蝶科_青斑蝶属_青斑蝶,Tirumala limniace
-837,鳞翅目_木蠹蛾科,
-838,鳞翅目_木蠹蛾科_豹蠹蛾属_咖啡豹蠹蛾,Zeuzera coffeae
-839,鳞翅目_木蠹蛾科_豹蠹蛾属_大斑点豹蠹蛾,Zeuzera multistrigata
-840,鳞翅目_木蠹蛾科_豹蠹蛾属_梨豹蠹蛾,Zeuzera pyrina
-841,鳞翅目_枯叶蛾科,
-842,鳞翅目_枯叶蛾科_栎黄枯叶蛾,Trabala vishnou
-843,鳞翅目_枯叶蛾科_栎黄枯叶蛾#幼虫,
-844,鳞翅目_枯叶蛾科_竹黄枯叶蛾,Euthrix laeta
-845,鳞翅目_毒蛾科,Lymantriidae
-846,鳞翅目_毒蛾科_古毒蛾属_棉古毒蛾,Orgyia postica
-847,鳞翅目_毒蛾科_古毒蛾属_棉古毒蛾#幼虫,
-848,鳞翅目_毒蛾科_毒蛾属_栎毒蛾,Lymantria mathura
-849,鳞翅目_毒蛾科_毒蛾属_栎毒蛾,Lymantria mathura#幼虫
-850,鳞翅目_毒蛾科_毒蛾属_络毒蛾,Lymantria concolor
-851,鳞翅目_毒蛾科_毒蛾属_舞毒蛾,Lymantria dispar
-852,鳞翅目_毒蛾科_毒蛾属_芒果毒蛾,Lymantria marginata
-853,鳞翅目_毒蛾科_白毒蛾属_白毒蛾,Arctornis l-nigrum
-854,鳞翅目_波纹蛾科_大斑波纹蛾,Thyatira batis
-855,鳞翅目_灯蛾科,Arctiidae
-856,鳞翅目_灯蛾科_乳白斑灯蛾,Areas galactina
-857,鳞翅目_灯蛾科_亚圆拟灯蛾,Peridrome subfascia
-858,鳞翅目_灯蛾科_圆拟灯蛾,Peridrome orbicularis
-859,鳞翅目_灯蛾科_土苔蛾属_缘点土苔蛾,Eilema costipuncta
-860,鳞翅目_灯蛾科_大丽灯蛾属_大丽灯蛾,Aglaomorpha histrio
-861,鳞翅目_灯蛾科_拟三色星灯蛾,Utetheisa lotrix
-862,鳞翅目_灯蛾科_斑灯蛾,Pericallia matronula
-863,鳞翅目_灯蛾科_方斑拟灯蛾,Asota plaginota
-864,鳞翅目_灯蛾科_星白雪灯蛾(黄腹斑灯蛾),Spilosoma lubricipeda
-865,鳞翅目_灯蛾科_榕拟灯蛾,Asota ficus
-866,鳞翅目_灯蛾科_橙拟灯蛾,Asota egens
-867,鳞翅目_灯蛾科_灯蛾属_砌石灯蛾,Arctia flavia
-868,鳞翅目_灯蛾科_灯蛾属_豹灯蛾,Arctia caja
-869,鳞翅目_灯蛾科_灰灯蛾属_八点灰灯蛾,Creatonotus transiens
-870,鳞翅目_灯蛾科_灰灯蛾属_黑条灰灯蛾,Creatonotos gangis
-871,鳞翅目_灯蛾科_点浑黄灯蛾,Rhyparioides metelkana
-872,鳞翅目_灯蛾科_痣苔蛾属_掌痣苔蛾,Stigmatophora palmata
-873,鳞翅目_灯蛾科_红缘灯蛾,Aloa lactinea
-874,鳞翅目_灯蛾科_红腹白灯蛾(人纹污灯蛾),Spilosoma subcarnea
-875,鳞翅目_灯蛾科_红腹白灯蛾(人纹污灯蛾)#幼虫,
-876,鳞翅目_灯蛾科_红裳灯蛾,Tyria jacobaeae
-877,鳞翅目_灯蛾科_红裳灯蛾#幼虫,
-878,鳞翅目_灯蛾科_网苔蛾属_巨网苔蛾,Macrobrochis gigas
-879,鳞翅目_灯蛾科_美苔蛾属,Miltochrista
-880,鳞翅目_灯蛾科_美苔蛾属_之美苔蛾,Miltochrista ziczac
-881,鳞翅目_灯蛾科_美苔蛾属_优美苔蛾&东方美苔蛾,
-882,鳞翅目_灯蛾科_美苔蛾属_俏美苔蛾,Miltochrista convexa
-883,鳞翅目_灯蛾科_美苔蛾属_灰黑美苔蛾,Miltochrista fuscozonata
-884,鳞翅目_灯蛾科_苔蛾亚科,
-885,鳞翅目_灯蛾科_蝶灯蛾属_粉蝶灯蛾,Nyctemera adversata
-886,鳞翅目_灯蛾科_铅拟灯蛾,Euplocia membliaria
-887,鳞翅目_灯蛾科_闪光玫灯蛾,Amerila astreus
-888,鳞翅目_灯蛾科_闪拟灯蛾,Neochera dominia
-889,鳞翅目_灯蛾科_闪网苔蛾属_乌闪网苔蛾,Paraona staudingeri
-890,鳞翅目_灯蛾科_雪苔蛾属,Cyana
-891,鳞翅目_灯蛾科_雪苔蛾属_优雪苔蛾,Cyana hamata
-892,鳞翅目_灯蛾科_黑须污灯蛾,Spilosoma taiwanensis
-893,鳞翅目_灰蝶科,Lycaenidae
-894,鳞翅目_灰蝶科_丫灰蝶属_丫灰蝶,Amblopala_avidiena
-895,鳞翅目_灰蝶科_云灰蝶属_中华云灰蝶,Miletus_chinensis
-896,鳞翅目_灰蝶科_亮灰蝶属_亮灰蝶,Lampides boeticus
-897,鳞翅目_灰蝶科_娆灰蝶属_小娆灰蝶,Arhopala paramuta
-898,鳞翅目_灰蝶科_娆灰蝶属_百娆灰蝶,Arhopala bazala
-899,鳞翅目_灰蝶科_娆灰蝶属_齿翅娆灰蝶,Arhopala rama
-900,鳞翅目_灰蝶科_安灰蝶属_白衬安灰蝶,Ancema blanka
-901,鳞翅目_灰蝶科_异灰蝶属_铁木莱异灰蝶,Iraota timoleon
-902,鳞翅目_灰蝶科_彩灰蝶属,Heliophorus
-903,鳞翅目_灰蝶科_彩灰蝶属_斜斑彩灰蝶,Heliophorus phoenicoparyphus
-904,鳞翅目_灰蝶科_彩灰蝶属_浓紫彩灰蝶,Heliophorus ila
-905,鳞翅目_灰蝶科_斑灰蝶属_斑灰蝶,Horaga onyx
-906,鳞翅目_灰蝶科_斑灰蝶属_白斑灰蝶,Horaga albimacula
-907,鳞翅目_灰蝶科_灰蝶属_橙灰蝶,Lycaena dispar
-908,鳞翅目_灰蝶科_灰蝶属_红灰蝶,Lycaena phlaeas
-909,鳞翅目_灰蝶科_燕灰蝶属,Rapala
-910,鳞翅目_灰蝶科_燕灰蝶属_点染燕灰蝶,Rapala suffusa
-911,鳞翅目_灰蝶科_燕灰蝶属_霓纱燕灰蝶,Rapala nissa
-912,鳞翅目_灰蝶科_玄灰蝶属_波太玄灰蝶,Tongeia potanini
-913,鳞翅目_灰蝶科_玄灰蝶属_点玄灰蝶,Tongeia filicaudis
-914,鳞翅目_灰蝶科_玛灰蝶属_玛灰蝶,Mahathala ameria
-915,鳞翅目_灰蝶科_珍灰蝶属_珍灰蝶,Zeltus amasa
-916,鳞翅目_灰蝶科_琉璃灰蝶属_琉璃灰蝶,Celastrina argiolus
-917,鳞翅目_灰蝶科_紫灰蝶属_曲纹紫灰蝶,Chilades pandava
-918,鳞翅目_灰蝶科_绿灰蝶属_绿灰蝶,Artipe eryx
-919,鳞翅目_灰蝶科_蓝灰蝶属_蓝灰蝶,Everes argiades
-920,鳞翅目_灰蝶科_蚜灰蝶属_蚜灰蝶,Taraka hamada
-921,鳞翅目_灰蝶科_赭灰蝶属_赭灰蝶,Ussuriana michaelis
-922,鳞翅目_灰蝶科_酢浆灰蝶属_酢浆灰蝶,Pseudozizeeria maha
-923,鳞翅目_灰蝶科_钮灰蝶属_钮灰蝶,Acytolepis puspa
-924,鳞翅目_灰蝶科_铁灰蝶属_阿里山铁灰蝶,
-925,鳞翅目_灰蝶科_银灰蝶属_尖翅银灰蝶,Curetis acuta
-926,鳞翅目_灰蝶科_银线灰蝶属,Spindasis
-927,鳞翅目_灰蝶科_银线灰蝶属_豆粒银线灰蝶,Spindasis syama
-928,鳞翅目_灰蝶科_锉灰蝶属_德锉灰蝶,Allotinus_drumila
-929,鳞翅目_灰蝶科_雅灰蝶属_素雅灰蝶,Jamides alecto
-930,鳞翅目_灰蝶科_雅灰蝶属_锡冷雅灰蝶,Jamides celeno
-931,鳞翅目_灰蝶科_雅灰蝶属_雅灰蝶,Jamides bochus
-932,鳞翅目_灰蝶科_鹿灰蝶属_鹿灰蝶,Loxura atymnus
-933,鳞翅目_燕蛾科_大燕蛾,Lyssa zampa
-934,鳞翅目_燕蛾科_微点燕蛾,Acropteris leptaliata
-935,鳞翅目_燕蛾科_斜线燕蛾,Acropteris iphiata
-936,鳞翅目_燕蛾科_月亮燕蛾,Urania leilus
-937,鳞翅目_燕蛾科_马达加斯加日落蛾,Chrysiridia rhipheus
-938,鳞翅目_环蝶科,Amathusiidae
-939,鳞翅目_环蝶科_串珠环蝶属_串珠环蝶,Faunis eumeus
-940,鳞翅目_环蝶科_方环蝶属_凤眼方环蝶,Discophora sondaica
-941,鳞翅目_环蝶科_箭环蝶属_箭环蝶,Stichophthalma howqua
-942,鳞翅目_环蝶科_纹环蝶属_纹环蝶,Aemona amathusia
-943,鳞翅目_珍蝶科_珍蝶属_斑珍蝶,Acraea violae
-944,鳞翅目_珍蝶科_珍蝶属_斑珍蝶2,Acraea terpsicore
-945,鳞翅目_珍蝶科_珍蝶属_苎麻珍蝶,Acraea issoria
-946,鳞翅目_珍蝶科_珍蝶属_苎麻珍蝶#幼虫和蛹,
-947,鳞翅目_瘤蛾科_内黄血斑瘤蛾,Siglophora sanguinolenta
-948,鳞翅目_瘤蛾科_柿癣皮夜蛾,Blenina senex
-949,鳞翅目_眼蝶科,Satyridae
-950,鳞翅目_眼蝶科_斑丽眼蝶属_蓝斑丽眼蝶,Mandarinia regalis
-951,鳞翅目_眼蝶科_斑眼蝶属_台湾斑眼蝶,Penthema formosanum
-952,鳞翅目_眼蝶科_斑眼蝶属_彩裳斑眼蝶,Penthema darlisa
-953,鳞翅目_眼蝶科_斑眼蝶属_白斑眼蝶,Penthema adelma
-954,鳞翅目_眼蝶科_暮眼蝶属_暮眼蝶,Melanitis leda
-955,鳞翅目_眼蝶科_暮眼蝶属_睇暮眼蝶,Melanitis phedima
-956,鳞翅目_眼蝶科_珍眼蝶属_牧女珍眼蝶,Coenonympha amaryllis
-957,鳞翅目_眼蝶科_白眼蝶属,Melanargia
-958,鳞翅目_眼蝶科_白眼蝶属_大理石条纹粉蝶,Melanargia galathea
-959,鳞翅目_眼蝶科_眉眼蝶属,Mycalesis
-960,鳞翅目_眼蝶科_眉眼蝶属_中介眉眼蝶,Mycalesis intermedia
-961,鳞翅目_眼蝶科_眉眼蝶属_稻眉眼蝶,Mycalesis gotama
-962,鳞翅目_眼蝶科_眉眼蝶属_裴斯眉眼蝶,Mycalesis perseus
-963,鳞翅目_眼蝶科_矍眼蝶属,Ypthima
-964,鳞翅目_眼蝶科_矍眼蝶属_前雾矍眼蝶,Ypthima praenubila
-965,鳞翅目_眼蝶科_矍眼蝶属_矍眼蝶,Ypthima baldus
-966,鳞翅目_眼蝶科_艳眼蝶属,Callerebia
-967,鳞翅目_眼蝶科_荫眼蝶属,Neope
-968,鳞翅目_眼蝶科_荫眼蝶属_蒙链荫眼蝶,Neope muirheadi
-969,鳞翅目_眼蝶科_荫眼蝶属_黄斑荫眼蝶,Neope pulaha
-970,鳞翅目_眼蝶科_锯眼蝶属_翠袖锯眼蝶,Elymnias hypermnestra
-971,鳞翅目_眼蝶科_黛眼蝶属,Lethe
-972,鳞翅目_眼蝶科_黛眼蝶属_孪斑黛眼蝶,Lethe gemina
-973,鳞翅目_眼蝶科_黛眼蝶属_曲纹黛眼蝶,Lethe chandica
-974,鳞翅目_眼蝶科_黛眼蝶属_白带黛眼蝶,Lethe confusa
-975,鳞翅目_眼蝶科_黛眼蝶属_直带黛眼蝶,Lethe lanaris
-976,鳞翅目_眼蝶科_黛眼蝶属_连纹黛眼蝶,Lethe syrcis
-977,鳞翅目_箩纹蛾科,
-978,鳞翅目_箩纹蛾科_褐箩纹蛾属_枯球箩纹蛾,Brahmaea wallichii
-979,鳞翅目_箩纹蛾科_褐箩纹蛾属_紫光箩纹蛾,Brahmaea porphyrio
-980,鳞翅目_箩纹蛾科_褐箩纹蛾属_青球箩纹蛾,Brahmaea hearseyi
-981,鳞翅目_箩纹蛾科_褐箩纹蛾属_黄褐箩纹蛾,Brahmaea certhia
-982,鳞翅目_粉蝶科,Pieridae
-983,鳞翅目_粉蝶科_小粉蝶属_小粉蝶,Leptidea sinapis
-984,鳞翅目_粉蝶科_小粉蝶属_突角小粉蝶,Leptidea amurensis
-985,鳞翅目_粉蝶科_小粉蝶属_莫氏小粉蝶,Leptidea morsei
-986,鳞翅目_粉蝶科_斑粉蝶属_优越斑粉蝶,Delias hyparete
-987,鳞翅目_粉蝶科_斑粉蝶属_报喜斑粉蝶,Delias pasithoe
-988,鳞翅目_粉蝶科_斑粉蝶属_红肩斑粉蝶,Delias descombesi
-989,鳞翅目_粉蝶科_斑粉蝶属_红腋斑粉蝶,Delias acalis
-990,鳞翅目_粉蝶科_斑粉蝶属_艳妇斑粉蝶,Delias belladonna
-991,鳞翅目_粉蝶科_橙粉蝶属_橙粉蝶,Ixias pyrene
-992,鳞翅目_粉蝶科_玕黄粉蝶属_玕黄粉蝶,Gandaca harina
-993,鳞翅目_粉蝶科_粉蝶属_东方菜粉蝶,Pieris canidia
-994,鳞翅目_粉蝶科_粉蝶属_暗脉菜粉蝶,Pieris napi
-995,鳞翅目_粉蝶科_粉蝶属_菜粉蝶,Pieris rapae
-996,鳞翅目_粉蝶科_粉蝶属_黑纹粉蝶,Pieris melete
-997,鳞翅目_粉蝶科_绢粉蝶属,Aporia
-998,鳞翅目_粉蝶科_绢粉蝶属_完善绢粉蝶,Aporia agathon
-999,鳞翅目_粉蝶科_绢粉蝶属_绢粉蝶,Aporia crataegi
-1000,鳞翅目_粉蝶科_襟粉蝶属_橙翅襟粉蝶,Anthocharis bambusarum
-1001,鳞翅目_粉蝶科_襟粉蝶属_黄尖襟粉蝶,Anthocharis scolymus
-1002,鳞翅目_粉蝶科_豆粉蝶属_斑缘豆粉蝶,Colias erate
-1003,鳞翅目_粉蝶科_豆粉蝶属_橙黄豆粉蝶,Colias fieldii
-1004,鳞翅目_粉蝶科_豆粉蝶属_豆粉蝶,Colias hyale
-1005,鳞翅目_粉蝶科_豆粉蝶属_黑缘豆粉蝶,Colias palaeno
-1006,鳞翅目_粉蝶科_迁粉蝶属_梨花迁粉蝶,Catopsilia pyranthe
-1007,鳞翅目_粉蝶科_迁粉蝶属_迁粉蝶,Catopsilia pomona
-1008,鳞翅目_粉蝶科_迁粉蝶属_镉黄迁粉蝶,Catopsilia scylla
-1009,鳞翅目_粉蝶科_钩粉蝶属_圆翅钩粉蝶,Gonepteryx amintha
-1010,鳞翅目_粉蝶科_钩粉蝶属_钩粉蝶,Gonepteryx rhamni
-1011,鳞翅目_粉蝶科_青粉蝶属_青粉蝶,Pareronia valeria
-1012,鳞翅目_粉蝶科_鹤顶粉蝶属_鹤顶粉蝶,Hebomoia glaucippe
-1013,鳞翅目_粉蝶科_黄粉蝶属_北黄粉蝶,Eurema mandarina
-1014,鳞翅目_粉蝶科_黄粉蝶属_安迪黄粉蝶,Eurema andersoni
-1015,鳞翅目_粉蝶科_黄粉蝶属_宽边黄粉蝶,Eurema hecabe
-1016,鳞翅目_粉蝶科_黄粉蝶属_尖角黄粉蝶,Eurema laeta
-1017,鳞翅目_粉蝶科_黄粉蝶属_无标黄粉蝶,Eurema brigitta
-1018,鳞翅目_粉蝶科_黄粉蝶属_檗黄粉蝶,Eurema blanda
-1019,鳞翅目_粉蝶科_黑脉园粉蝶属_黑脉园粉蝶,Cepora nerissa
-1020,鳞翅目_绢蝶科_绢蝶属,Parnassius
-1021,鳞翅目_绢蝶科_绢蝶属_冰清绢蝶,Parnassius citrinarius
-1022,鳞翅目_绢蝶科_绢蝶属_小红珠绢蝶,Parnassius nomion
-1023,鳞翅目_绢蝶科_绢蝶属_福布绢蝶,Parnassius phoebus
-1024,鳞翅目_绢蝶科_绢蝶属_阿波罗绢蝶,Parnassius apollo
-1025,鳞翅目_网蛾科,Thyrididae
-1026,鳞翅目_网蛾科_一点斜线网蛾,Striglina scitaria
-1027,鳞翅目_网蛾科_尖尾网蛾,Thyris fenestrella
-1028,鳞翅目_羽蛾科,
-1029,鳞翅目_舟蛾科,
-1030,鳞翅目_舟蛾科_三线雪舟蛾,Gazalina chrysolopha
-1031,鳞翅目_舟蛾科_二尾舟蛾属_杨二尾舟蛾,Cerura menciana
-1032,鳞翅目_舟蛾科_二尾舟蛾属_黑带二尾舟蛾,Cerura vinula
-1033,鳞翅目_舟蛾科_二尾舟蛾属_黑带二尾舟蛾#幼虫,
-1034,鳞翅目_舟蛾科_亚红胯舟蛾,Syntypistis subgeneris
-1035,鳞翅目_舟蛾科_凹缘黄星舟蛾,Shachihoka formosana
-1036,鳞翅目_舟蛾科_圆纷舟蛾,Formofentonia orbifer
-1037,鳞翅目_舟蛾科_基青舟蛾,Quadricalcarifera viridipicta
-1038,鳞翅目_舟蛾科_掌舟蛾属,Phalera
-1039,鳞翅目_舟蛾科_掌舟蛾属_刺槐掌舟蛾,Phalera grotei
-1040,鳞翅目_舟蛾科_掌舟蛾属_圆掌舟蛾,Phalera bucephala
-1041,鳞翅目_舟蛾科_掌舟蛾属_栎掌舟蛾,Phalera assimilis
-1042,鳞翅目_舟蛾科_掌舟蛾属_苹掌舟蛾,Phalera flavescens
-1043,鳞翅目_舟蛾科_杨剑舟蛾,Pheosia rimosa
-1044,鳞翅目_舟蛾科_白斑胯舟蛾,Syntypistis comatus
-1045,鳞翅目_舟蛾科_纹峭舟蛾,Rachia striata
-1046,鳞翅目_舟蛾科_绚羽齿舟蛾,Ptilodon saturata
-1047,鳞翅目_舟蛾科_美舟蛾属_核桃美舟蛾,Uropyia meticulodina
-1048,鳞翅目_舟蛾科_艳金舟蛾,Spatalia doerriesi
-1049,鳞翅目_舟蛾科_褐丸胯舟蛾,Syntypistis pallidifascia
-1050,鳞翅目_舟蛾科_银二星舟蛾,Euhampsonia splendida
-1051,鳞翅目_舟蛾科_银纹舟蛾,Ginshachia elongata
-1052,鳞翅目_舟蛾科_黑蕊尾舟蛾,Dudusa sphingiformis
-1053,鳞翅目_蚕蛾科_蚕,
-1054,鳞翅目_蚬蝶科,Riodinidae
-1055,鳞翅目_蚬蝶科_尾蚬蝶属,Dodona
-1056,鳞翅目_蚬蝶科_尾蚬蝶属_大斑尾蚬蝶,Dodona egeon
-1057,鳞翅目_蚬蝶科_尾蚬蝶属_无尾蚬蝶,Dodona durga
-1058,鳞翅目_蚬蝶科_尾蚬蝶属_银纹尾蚬蝶,Dodona eugenes
-1059,鳞翅目_蚬蝶科_波蚬蝶属_波蚬蝶,Zemeros flegyas
-1060,鳞翅目_蚬蝶科_白蚬蝶属_白蚬蝶,Stiboges nymphidia
-1061,鳞翅目_蚬蝶科_褐蚬蝶属_白点褐蚬蝶,Abisara burnii
-1062,鳞翅目_蚬蝶科_褐蚬蝶属_蛇目褐蚬蝶,Abisara echerius
-1063,鳞翅目_蚬蝶科_褐蚬蝶属_锯白带褐蚬蝶,Abisara bifasciata
-1064,鳞翅目_蛱蝶科,Nymphalidae
-1065,鳞翅目_蛱蝶科_丝蛱蝶属_网丝蛱蝶,Cyrestis thyodamas
-1066,鳞翅目_蛱蝶科_丽蛱蝶属_丽蛱蝶云南亚种,Parthenos syvia gambrisius
-1067,鳞翅目_蛱蝶科_坎蛱蝶属_黄绢坎蛱蝶,Chersonesia risa
-1068,鳞翅目_蛱蝶科_姹蛱蝶属,Chalinga
-1069,鳞翅目_蛱蝶科_婀蛱蝶属_婀蛱蝶,Abrota ganga
-1070,鳞翅目_蛱蝶科_宝蛱蝶属_提珍蛱蝶,Boloria titania
-1071,鳞翅目_蛱蝶科_尾蛱蝶属_二尾蛱蝶,Polyura narcaea
-1072,鳞翅目_蛱蝶科_尾蛱蝶属_大二尾蛱蝶,Polyura eudamippus
-1073,鳞翅目_蛱蝶科_尾蛱蝶属_忘忧尾蛱蝶,Polyura nepenthes
-1074,鳞翅目_蛱蝶科_尾蛱蝶属_窄斑凤尾蛱蝶,Polyura athamas
-1075,鳞翅目_蛱蝶科_帅蛱蝶属_帅蛱蝶,Sephisa chandra
-1076,鳞翅目_蛱蝶科_帅蛱蝶属_黄帅蛱蝶,Sephisa princeps
-1077,鳞翅目_蛱蝶科_帖蛱蝶属_钩翅帖蛱蝶,Terinos atlita
-1078,鳞翅目_蛱蝶科_带蛱蝶属,Athyma
-1079,鳞翅目_蛱蝶科_带蛱蝶属_孤斑带蛱蝶,Athyma zeroca
-1080,鳞翅目_蛱蝶科_带蛱蝶属_新月带蛱蝶,Athyma selenophora
-1081,鳞翅目_蛱蝶科_带蛱蝶属_玄珠带蛱蝶,Athyma perius
-1082,鳞翅目_蛱蝶科_带蛱蝶属_珠履带蛱蝶,Athyma asura
-1083,鳞翅目_蛱蝶科_带蛱蝶属_离斑带蛱蝶,Athyma ranga
-1084,鳞翅目_蛱蝶科_彩蛱蝶属_彩蛱蝶,Vagrans egista
-1085,鳞翅目_蛱蝶科_律蛱蝶属_小豹律蛱蝶,Lexias pardalis
-1086,鳞翅目_蛱蝶科_文蛱蝶属_文蛱蝶,Vindula erota
-1087,鳞翅目_蛱蝶科_斐豹蛱蝶属_斐豹蛱蝶,Argyreus hyperbius
-1088,鳞翅目_蛱蝶科_斑蛱蝶属_幻紫斑蛱蝶,Hypolimnas bolina
-1089,鳞翅目_蛱蝶科_枯叶蛱蝶属_枯叶蛱蝶,Kallima inachus
-1090,鳞翅目_蛱蝶科_栎蛱蝶属_绿裙栎蛱蝶,Euphaedra themis
-1091,鳞翅目_蛱蝶科_波蛱蝶属_波蛱蝶,Ariadne ariadne
-1092,鳞翅目_蛱蝶科_波蛱蝶属_细纹波蛱蝶,Ariadne merione
-1093,鳞翅目_蛱蝶科_涡蛱蝶属,Diaethria
-1094,鳞翅目_蛱蝶科_猫蛱蝶属,Timelaea
-1095,鳞翅目_蛱蝶科_猫蛱蝶属_白裳猫蛱蝶,Timelaea albescens
-1096,鳞翅目_蛱蝶科_环蛱蝶属,Neptis
-1097,鳞翅目_蛱蝶科_环蛱蝶属_中环蛱蝶,Neptis hylas
-1098,鳞翅目_蛱蝶科_环蛱蝶属_娜巴环蛱蝶,Neptis namba
-1099,鳞翅目_蛱蝶科_环蛱蝶属_娜环蛱蝶(细带环蛱蝶),Neptis nata
-1100,鳞翅目_蛱蝶科_环蛱蝶属_弥环蛱蝶,Neptis miah
-1101,鳞翅目_蛱蝶科_珍蛱蝶属_佛珍蛱蝶,Clossiana freija
-1102,鳞翅目_蛱蝶科_珍蛱蝶属_卵珍蛱蝶,Clossiana euphrosyne
-1103,鳞翅目_蛱蝶科_珍蛱蝶属_女神珍蛱蝶,Clossiana dia
-1104,鳞翅目_蛱蝶科_珠蛱蝶属_曲斑珠蛱蝶,Issoria eugenia
-1105,鳞翅目_蛱蝶科_珠蛱蝶属_珠蛱蝶,Issoria lathonia
-1106,鳞翅目_蛱蝶科_琉璃蛱蝶属_琉璃蛱蝶,Kaniska canace
-1107,鳞翅目_蛱蝶科_电蛱蝶属_电蛱蝶,Dichorragia nesimachus
-1108,鳞翅目_蛱蝶科_白蛱蝶属_银白蛱蝶,Helcyra subalba
-1109,鳞翅目_蛱蝶科_盛蛱蝶属_散纹盛蛱蝶,Symbrenthia lilaea
-1110,鳞翅目_蛱蝶科_盛蛱蝶属_黄豹盛蛱蝶,Symbrenthia brabira
-1111,鳞翅目_蛱蝶科_眼蛱蝶属_波纹眼蛱蝶,Junonia atlites
-1112,鳞翅目_蛱蝶科_眼蛱蝶属_美眼蛱蝶,Junonia almana
-1113,鳞翅目_蛱蝶科_眼蛱蝶属_翠蓝眼蛱蝶,Junonia orithya
-1114,鳞翅目_蛱蝶科_眼蛱蝶属_蛇眼蛱蝶,Junonia lemonias
-1115,鳞翅目_蛱蝶科_眼蛱蝶属_钩翅眼蛱蝶,Junonia iphita
-1116,鳞翅目_蛱蝶科_眼蛱蝶属_鹿眼蛱蝶,Junonia coenia
-1117,鳞翅目_蛱蝶科_眼蛱蝶属_黄裳眼蛱蝶,Junonia hierta
-1118,鳞翅目_蛱蝶科_福蛱蝶属_灿福蛱蝶,Fabriciana adippe
-1119,鳞翅目_蛱蝶科_秀蛱蝶属_秀蛱蝶,Pseudergolis wedah
-1120,鳞翅目_蛱蝶科_穆蛱蝶属_穆蛱蝶,Moduza procris
-1121,鳞翅目_蛱蝶科_窗蛱蝶属_明窗蛱蝶,Dilipa fenestra
-1122,鳞翅目_蛱蝶科_紫蛱蝶属_大紫蛱蝶,Sasakia charonda
-1123,鳞翅目_蛱蝶科_紫蛱蝶属_黑紫蛱蝶,Sasakia funebris
-1124,鳞翅目_蛱蝶科_红蛱蝶属_优红蛱蝶,Vanessa atalanta
-1125,鳞翅目_蛱蝶科_红蛱蝶属_大红蛱蝶,Vanessa indica
-1126,鳞翅目_蛱蝶科_红蛱蝶属_小红蛱蝶,Vanessa cardui
-1127,鳞翅目_蛱蝶科_线蛱蝶属,Limenitis
-1128,鳞翅目_蛱蝶科_线蛱蝶属_残锷线蛱蝶,Limenitis sulpitia
-1129,鳞翅目_蛱蝶科_线蛱蝶属_红线蛱蝶,Limenitis populi
-1130,鳞翅目_蛱蝶科_绢蛱蝶属_绢蛱蝶,Calinaga buddha
-1131,鳞翅目_蛱蝶科_网蛱蝶属_斑网蛱蝶,Melitaea
-1132,鳞翅目_蛱蝶科_罗蛱蝶属_罗蛱蝶,Rohana parisatis
-1133,鳞翅目_蛱蝶科_翠蛱蝶属,Euthalia
-1134,鳞翅目_蛱蝶科_翠蛱蝶属_尖翅翠蛱蝶,Euthalia phemius
-1135,鳞翅目_蛱蝶科_翠蛱蝶属_珀翠蛱蝶,Euthalia pratti
-1136,鳞翅目_蛱蝶科_翠蛱蝶属_红斑翠蛱蝶,Euthalia lubentna
-1137,鳞翅目_蛱蝶科_翠蛱蝶属_绿裙边翠蛱蝶,Euthalia niepelti
-1138,鳞翅目_蛱蝶科_老豹蛱蝶属_老豹蛱蝶,Argyronome laodice
-1139,鳞翅目_蛱蝶科_耙蛱蝶属_耙蛱蝶,Bhagadatta austenia
-1140,鳞翅目_蛱蝶科_脉蛱蝶属_拟斑脉蛱蝶,Hestina persimilis
-1141,鳞翅目_蛱蝶科_脉蛱蝶属_蒺藜纹脉蛱蝶,Hestina nama
-1142,鳞翅目_蛱蝶科_脉蛱蝶属_黑脉蛱蝶,Hestina assimilis
-1143,鳞翅目_蛱蝶科_蛤蟆蛱蝶属,Hamadryas
-1144,鳞翅目_蛱蝶科_蛱蝶属_白矩朱蛱蝶,Nymphalis vau-album
-1145,鳞翅目_蛱蝶科_蛱蝶属_黄缘蛱蝶,Nymphalis antiopa
-1146,鳞翅目_蛱蝶科_蛱蝶属_黄缘蛱蝶#幼虫,
-1147,鳞翅目_蛱蝶科_蜘蛱蝶属_曲纹蜘蛱蝶,Araschnia doris
-1148,鳞翅目_蛱蝶科_蜘蛱蝶属_直纹蜘蛱蝶,Araschnia prorsoides
-1149,鳞翅目_蛱蝶科_蜘蛱蝶属_蜘蛱蝶,Araschnia levana
-1150,鳞翅目_蛱蝶科_螯蛱蝶属_白带螯蛱蝶,Charaxes bernardus
-1151,鳞翅目_蛱蝶科_螯蛱蝶属_白带螯蛱蝶#幼虫,
-1152,鳞翅目_蛱蝶科_蠹叶蛱蝶属_蠹叶蛱蝶,Doleschallia bisaltide
-1153,鳞翅目_蛱蝶科_袖蝶属_艺神袖蝶,Heliconius erato
-1154,鳞翅目_蛱蝶科_袖蝶属_黄条袖蝶,Heliconius charithonia
-1155,鳞翅目_蛱蝶科_襟蛱蝶属_黄襟蛱蝶,Cupha erymanthis
-1156,鳞翅目_蛱蝶科_豹蛱蝶属_绿豹蛱蝶,Argynnis paphia
-1157,鳞翅目_蛱蝶科_迷蛱蝶属_白斑迷蛱蝶,Mimathyma schrenckii
-1158,鳞翅目_蛱蝶科_钩蛱蝶属_白钩蛱蝶,Polygonia c-album
-1159,鳞翅目_蛱蝶科_钩蛱蝶属_黄钩蛱蝶,Polygonia c-aureum
-1160,鳞翅目_蛱蝶科_铂蛱蝶属_铂蛱蝶,Proclossiana eunomia
-1161,鳞翅目_蛱蝶科_铠蛱蝶属_武铠蛱蝶,Chitoria ulupi
-1162,鳞翅目_蛱蝶科_锯蛱蝶属_白带锯蛱蝶,Cethosia cyane
-1163,鳞翅目_蛱蝶科_锯蛱蝶属_红锯蛱蝶,Cethosia biblis
-1164,鳞翅目_蛱蝶科_闪蛱蝶属_柳紫闪蛱蝶,Apatura ilia
-1165,鳞翅目_蛱蝶科_闪蛱蝶属_紫闪蛱蝶,Apatura iris
-1166,鳞翅目_蛱蝶科_青豹蛱蝶属_青豹蛱蝶,Damora sagana
-1167,鳞翅目_蛱蝶科_饰蛱蝶属_素饰蛱蝶,Stibochiona nicea
-1168,鳞翅目_蛱蝶科_麻蛱蝶属_孔雀蛱蝶,Aglais io
-1169,鳞翅目_蛱蝶科_麻蛱蝶属_荨麻蛱蝶,Aglais urticae
-1170,鳞翅目_螟蛾科,
-1171,鳞翅目_螟蛾科_三环须野螟,Mabra charonialis
-1172,鳞翅目_螟蛾科_六斑蓝水螟,Talanga sexpunctalis
-1173,鳞翅目_螟蛾科_四斑绢野螟,Glyphodes quadrimaculalis
-1174,鳞翅目_螟蛾科_圆斑水螟,Eoophyla gibbosalis
-1175,鳞翅目_螟蛾科_奇异野螟属_火红奇异野螟,Aethaloessa calidalis
-1176,鳞翅目_螟蛾科_桑绢丝野螟(桑绢野螟),Glyphodes pyloalis
-1177,鳞翅目_螟蛾科_橄绿歧角螟,Endotricha olivacealis
-1178,鳞翅目_螟蛾科_玉米螟,Ostrinia palustralis
-1179,鳞翅目_螟蛾科_瓜绢野螟,Diaphania indica
-1180,鳞翅目_螟蛾科_甜菜白带野螟,Spoladea recurvalis
-1181,鳞翅目_螟蛾科_白斑翅野螟,Bocchoris inspersalis
-1182,鳞翅目_螟蛾科_稻巢草螟,Ancylolomia japonica
-1183,鳞翅目_螟蛾科_竹金黄镰翅野螟,Circobotys aurealis
-1184,鳞翅目_螟蛾科_细纹黛齿螟,Heortia vitessoides
-1185,鳞翅目_螟蛾科_缘斑须野螟,Nosophora insignis
-1186,鳞翅目_螟蛾科_艳瘦翅野螟,Rhectothyris gratiosalis
-1187,鳞翅目_螟蛾科_茄白翅野螟,Leucinodes orbonalis
-1188,鳞翅目_螟蛾科_葡萄切叶野螟,Herpetogramma luctuosalis
-1189,鳞翅目_螟蛾科_蛀野螟属_桃蛀野螟,Conogethes punctiferalis
-1190,鳞翅目_螟蛾科_褐纹翅野螟,Diasemia accalis
-1191,鳞翅目_螟蛾科_褐萍水螟,Cyrtogramme turbata
-1192,鳞翅目_螟蛾科_豆啮叶野螟,Omiodes indicata
-1193,鳞翅目_螟蛾科_豆荚野螟属_豆荚野螟,Maruca testulalis
-1194,鳞翅目_螟蛾科_连斑水螟,Eoophyla conjunctalis
-1195,鳞翅目_螟蛾科_金双斑螟蛾,Orybina flaviplaga
-1196,鳞翅目_螟蛾科_金黄螟,Pyralis regalis
-1197,鳞翅目_螟蛾科_黄斑紫翅野螟,Rehimena phrynealis
-1198,鳞翅目_螟蛾科_黄杨绢野螟,Cydalima perspectalis
-1199,鳞翅目_螟蛾科_黄杨绢野螟#幼虫,
-1200,鳞翅目_螟蛾科_黄黑纹野螟,Tyspanodes hypsalis
-1201,鳞翅目_螟蛾科_黑点蚀叶野螟,Lamprosema commixta
-1202,鳞翅目_螟蛾科_齿斑绢丝野螟,Bocchoris onychinalis
-1203,鳞翅目_裳蛾科_中南裳蛾,Ericeia inangulata
-1204,鳞翅目_裳蛾科_偶双点裳蛾,Gesonia obeditalis
-1205,鳞翅目_裳蛾科_回猎裳蛾,Eublemma anachoresis
-1206,鳞翅目_裳蛾科_小奈眉裳蛾,Nagadeba indecoralis
-1207,鳞翅目_裳蛾科_庸肖毛翅裳蛾,Lagoptera juno
-1208,鳞翅目_裳蛾科_斜线关裳蛾,Artena dotata
-1209,鳞翅目_裳蛾科_枯肖毛翅裳蛾,Anua coronata
-1210,鳞翅目_裳蛾科_涓猎裳蛾,Eublemma cochylioides
-1211,鳞翅目_裳蛾科_白缘巧裳蛾,Oruza glaucotorna
-1212,鳞翅目_裳蛾科_粒裳蛾,Autoba tristalis
-1213,鳞翅目_裳蛾科_紫黑奴裳蛾,Paracolax pryeri
-1214,鳞翅目_裳蛾科_阴耳裳蛾,Ercheia umbrosa
-1215,鳞翅目_裳蛾科_饰筑裳蛾,Cruxoruza decorata
-1216,鳞翅目_透翅蛾科,Sesiidae
-1217,鳞翅目_钩蛾科,Drepanidae
-1218,鳞翅目_钩蛾科_三线钩蛾属_三线钩蛾,Pseudalbara parvula
-1219,鳞翅目_钩蛾科_圆钩蛾属_洋麻圆钩蛾,Cyclidia substigmaria
-1220,鳞翅目_钩蛾科_圆钩蛾属_赭圆钩蛾,Cyclidia orciferaria
-1221,鳞翅目_钩蛾科_接骨木山钩蛾,Oreta loochooana
-1222,鳞翅目_钩蛾科_接骨木山钩蛾#幼虫,
-1223,鳞翅目_钩蛾科_日本双线钩蛾,Nordstromia japonica
-1224,鳞翅目_钩蛾科_短铃钩蛾(哑铃带钩蛾),Macrocilix mysticata
-1225,鳞翅目_钩蛾科_距钩蛾属_栎距钩蛾,Agnidra scabiosa
-1226,鳞翅目_钩蛾科_铃钩蛾属_宽铃钩蛾,Macrocilix maia
-1227,鳞翅目_钩蛾科_黄钩蛾属_细纹黄钩蛾,Drapetodes mitaria
-1228,鳞翅目_钩蛾科_黄钩蛾属_细纹黄钩蛾#幼虫,
-1229,鳞翅目_长角蛾科,Adelidae
-1230,鳞翅目_雕蛾科_银点雕蛾,Lepidotarphius perornatellus
-1231,鳞翅目_鹿蛾科,
-1232,鳞翅目_鹿蛾科_南鹿蛾,Amata sperbius
-1233,鳞翅目_鹿蛾科_蕾鹿蛾,Amata germana
+7,半翅目_叶蝉科_窗翅叶蝉属,Mileewa
+8,半翅目_叶蝉科_耳叶蝉属,
+9,半翅目_叶蝉科_黑颜单突叶蝉,Olidiana brevis
+10,半翅目_同蝽科_伊锥同蝽,Sastragala esakii
+11,半翅目_广翅蜡蝉科,
+12,半翅目_广翅蜡蝉科#若虫,
+13,半翅目_广翅蜡蝉科_丽纹广翅蜡蝉,Ricanula pulverosa
+14,半翅目_广翅蜡蝉科_八点广翅蜡蝉,Ricania speculum
+15,半翅目_广翅蜡蝉科_带纹疏广翅蜡蝉,Euricania facialis
+16,半翅目_广翅蜡蝉科_斑点广翅蜡蝉,Ricania guttata
+17,半翅目_广翅蜡蝉科_柿广翅蜡蝉,Ricania sublimbata
+18,半翅目_广翅蜡蝉科_白痣广翅蜡蝉,Ricanula sublimata
+19,半翅目_广翅蜡蝉科_眼纹疏广翅蜡蝉,Euricania ocella
+20,半翅目_广翅蜡蝉科_褐带广翅蜡蝉,Ricania taeniata
+21,半翅目_广翅蜡蝉科_透明疏广翅蜡蝉,Euricania clara
+22,半翅目_广翅蜡蝉科_钩纹广翅蜡蝉,Ricania simulans
+23,半翅目_异蝽科_红足壮异蝽,Urochela quadrinotata
+24,半翅目_沫蝉科,Cercopidae
+25,半翅目_沫蝉科_丽沫蝉属,Cosmoscarta
+26,半翅目_沫蝉科_丽沫蝉属_东方丽沫蝉,Cosmoscarta abdominalis
+27,半翅目_沫蝉科_丽沫蝉属_紫胸丽沫蝉,Cosmoscarta exultans
+28,半翅目_沫蝉科_丽沫蝉属_迪丽沫蝉,Cosmoscarta dimidiata
+29,半翅目_沫蝉科_丽沫蝉属_黑斑丽沫蝉,Cosmoscarta dorsimacula
+30,半翅目_沫蝉科_稻赤斑黑沫蝉,Callitettix versicolor
+31,半翅目_沫蝉科_黄尖胸沫蝉,Omalophora pectoralis
+32,半翅目_猎蝽科,
+33,半翅目_猎蝽科_二色赤猎蝽,Haematoloecha nigrorufa
+34,半翅目_猎蝽科_双斑猎蝽属,
+35,半翅目_猎蝽科_多氏田猎蝽,Agriosphodrus dohrni
+36,半翅目_猎蝽科_彩纹猎蝽,Euagoras plagiatus
+37,半翅目_猎蝽科_淡裙猎蝽,Yolinus albopustulatus
+38,半翅目_猎蝽科_犀猎蝽属_黄带犀猎蝽,Sycanus croceovittatus
+39,半翅目_猎蝽科_素猎蝽属,Epidaus
+40,半翅目_猎蝽科_黄足直头猎蝽(黄足猎蝽),Sirthenea flavipes
+41,半翅目_猎蝽科_齿缘刺猎蝽,Sclomina erinacea
+42,半翅目_瓢蜡蝉科,
+43,半翅目_瘤蝽科,
+44,半翅目_盲蝽科,Miridae
+45,半翅目_盲蝽科_绿盲蝽,Apolygus lucorum
+46,半翅目_盾蝽科_丽盾蝽,Eucorysses grandis
+47,半翅目_盾蝽科_半球盾蝽,Hyperoncus lateritius
+48,半翅目_盾蝽科_宽盾蝽属_尼泊尔宽盾蝽,Poecilocoris nepalensis
+49,半翅目_盾蝽科_宽盾蝽属_山字宽盾蝽,Poecilocoris sanszeusignatus
+50,半翅目_盾蝽科_宽盾蝽属_桑宽盾蝽,Poecilocoris druraei
+51,半翅目_盾蝽科_宽盾蝽属_油茶宽盾蝽,Poecilocoris latus
+52,半翅目_盾蝽科_宽盾蝽属_油茶宽盾蝽#若虫,
+53,半翅目_盾蝽科_宽盾蝽属_金绿宽盾蝽,Poecilocoris lewisi
+54,半翅目_盾蝽科_宽盾蝽属_金绿宽盾蝽#若虫,
+55,半翅目_盾蝽科_毕加索盾蝽,Sphaerocoris annulus
+56,半翅目_盾蝽科_米字长盾蝽,Scutellera fasciata
+57,半翅目_盾蝽科_紫蓝丽盾蝽,Chrysocoris stollii
+58,半翅目_盾蝽科_红缘亮盾蝽,Lamprocoris lateralis
+59,半翅目_盾蝽科_蓝美盾蝽,Calliphara nobilis
+60,半翅目_盾蝽科_角盾蝽,Cantao ocellatus
+61,半翅目_红蝽科,Pyrrhocoridae
+62,半翅目_红蝽科_地红蝽,Pyrrhocoris sibiricus
+63,半翅目_红蝽科_巨红蝽,Macroceroea grandis
+64,半翅目_红蝽科_斑红蝽属_四斑红蝽,Physopelta quadriguttata
+65,半翅目_红蝽科_斑红蝽属_突背斑红蝽,Physopelta gutta
+66,半翅目_红蝽科_斑红蝽属_突背斑红蝽#若虫,
+67,半翅目_红蝽科_棉红蝽属_叉带棉红蝽,Dysdercus decussatus
+68,半翅目_红蝽科_棉红蝽属_棉红蝽(离斑棉红蝽),Dysdercus cingulatus
+69,半翅目_红蝽科_棉红蝽属_联斑棉红蝽,Dysdercus poecilus
+70,半翅目_红蝽科_泛光红蝽,Dindymus rubiginosus
+71,半翅目_红蝽科_短胸光红蝽,Dindymus brevis
+72,半翅目_缘蝽科,Coreidae
+73,半翅目_缘蝽科_二色普缘蝽,Plinachtus bicoloripes
+74,半翅目_缘蝽科_侎缘蝽属,
+75,半翅目_缘蝽科_奇缘蝽属,
+76,半翅目_缘蝽科_奇缘蝽属_月肩奇缘蝽,Molipteryx lunata
+77,半翅目_缘蝽科_棘缘蝽属,Cletus
+78,半翅目_缘蝽科_瘤缘蝽属_瘤缘蝽,Acanthocoris scaber
+79,半翅目_缘蝽科_蜂缘蝽属,
+80,半翅目_缘蝽科_蜂缘蝽属_点蜂缘蝽,Riptortus pedestris
+81,半翅目_缘蝽科_黑竹缘蝽,Notobitus meleagris
+82,半翅目_网蝽科,
+83,半翅目_网蝽科_悬铃木方翅网蝽,Corythucha ciliate
+84,半翅目_荔蝽科_荔枝蝽,Tessaratoma papillosa
+85,半翅目_荔蝽科_荔枝蝽#若虫,
+86,半翅目_蛾蜡蝉科,
+87,半翅目_蛾蜡蝉科_彩蛾蜡蝉,Cerynia maria
+88,半翅目_蛾蜡蝉科_白蛾蜡蝉,Lawana imitata
+89,半翅目_蛾蜡蝉科_碧蛾蜡蝉,Geisha distinctissima
+90,半翅目_蛾蜡蝉科_褐缘蛾蜡蝉,Salurnis marginella
+91,半翅目_蜡蝉科_东方蜡蝉属,Pyrops
+92,半翅目_蜡蝉科_东方蜡蝉属_弧头蜡蝉,Pyrops spinolae
+93,半翅目_蜡蝉科_东方蜡蝉属_渡边氏东方蜡蝉,Pyrops watanabei
+94,半翅目_蜡蝉科_东方蜡蝉属_渡边氏东方蜡蝉#幼虫,
+95,半翅目_蜡蝉科_东方蜡蝉属_龙眼鸡,Pyrops candelaria
+96,半翅目_蜡蝉科_斑衣蜡蝉,Lycorma delicatula
+97,半翅目_蜡蝉科_斑衣蜡蝉#若虫,
+98,半翅目_蜡蝉科_锥头蜡蝉,Saiva bullata
+99,半翅目_蝉科,
+100,半翅目_蝉科#幼虫和蝉蜕,
+101,半翅目_蝉科_中华红眼蝉,Talainga chinensis
+102,半翅目_蝉科_寒蝉属,
+103,半翅目_蝉科_斑蝉属_黄点斑蝉,Gaeana maculata
+104,半翅目_蝉科_暗翅蝉属,
+105,半翅目_蝉科_程氏网翅蝉,Polymeura chenni
+106,半翅目_蝉科_薄翅蝉,Chremistica ochracea
+107,半翅目_蝉科_蟪蛄,Platypleura kaempferi
+108,半翅目_蝉科_黑翅红蝉,Huechys sanguinea
+109,半翅目_蝉科_黑蚱蝉,Cryptotympana atrata
+110,半翅目_蝎蝽科,
+111,半翅目_蝽科_二星蝽属,
+112,半翅目_蝽科_大臭蝽,Metonymia glandulosa
+113,半翅目_蝽科_尖角普蝽,Priassus spiniger
+114,半翅目_蝽科_弯角蝽,Lelia decempunctata
+115,半翅目_蝽科_斑须蝽,Dolycoris baccarum
+116,半翅目_蝽科_横纹菜蝽,Eurydema gebleri
+117,半翅目_蝽科_硕蝽属,Eurostus
+118,半翅目_蝽科_硕蝽属#若虫,
+119,半翅目_蝽科_紫翅果蝽,Carpocoris purpureipennis
+120,半翅目_蝽科_紫蓝曼蝽,Menida violacea
+121,半翅目_蝽科_红显蝽,Catacanthus incarnatus
+122,半翅目_蝽科_绿岱蝽&珀蝽,
+123,半翅目_蝽科_羚蝽属,
+124,半翅目_蝽科_茶翅蝽,Halyomorpha halys
+125,半翅目_蝽科_菜蝽,Eurydema dominulus
+126,半翅目_蝽科_蓝蝽属_蓝蝽,Zicrona caerulea
+127,半翅目_蝽科_蓝蝽属_蓝蝽#若虫,
+128,半翅目_蝽科_赤条蝽,Graphosoma rubrolineatum
+129,半翅目_蝽科_麻皮蝽,Erthesina fullo
+130,半翅目_蝽科_麻皮蝽#若虫,
+131,半翅目_袖蜡蝉科,
+132,半翅目_袖蜡蝉科_红袖蜡蝉,
+133,半翅目_角蝉科,
+134,半翅目_象蜡蝉科,
+135,半翅目_负子蝽科_大田鳖,Kirkaldyia deyrollei
+136,半翅目_跷蝽科,
+137,半翅目_长蝽科_横带红长蝽,Lygaeus equestris
+138,半翅目_长蝽科_红脊长蝽,Tropidothorax elegans
+139,半翅目_黾蝽科,
+140,半翅目_龟蝽科,
+141,双翅目_大蚊科,
+142,双翅目_大蚊科_栉大蚊属,
+143,双翅目_实蝇科,
+144,双翅目_寄蝇科,
+145,双翅目_摇蚊科,
+146,双翅目_水虻科,Stratiomyidae
+147,双翅目_水虻科_指突水虻属_金黄指突水虻,Ptecticus aurifer
+148,双翅目_蚊科,
+149,双翅目_蛾蠓科,
+150,双翅目_蜂虻科,
+151,双翅目_蝇科,
+152,双翅目_食虫虻科,
+153,双翅目_食蚜蝇科,Syrphidae
+154,双翅目_食蚜蝇科_大灰优蚜蝇,Eupeodes corollae
+155,双翅目_食蚜蝇科_棕腿斑眼食蚜蝇,Eristalinus arvorum
+156,双翅目_食蚜蝇科_灰带管食蚜蝇,Eristalis cerealis
+157,双翅目_食蚜蝇科_短刺刺腿蚜蝇,Ischiodon scutellaris
+158,双翅目_食蚜蝇科_短腹管蚜蝇,Eristalis arbustorum
+159,双翅目_食蚜蝇科_羽芒宽盾蚜蝇,Phytomia zonata
+160,双翅目_食蚜蝇科_裸芒宽盾蚜蝇,Phytomia errans
+161,双翅目_食蚜蝇科_野食蚜蝇,Syrphus torvus
+162,双翅目_食蚜蝇科_锯盾小蚜蝇,Paragus crenulatus
+163,双翅目_食蚜蝇科_黄腿食蚜蝇,Syrphus ribesii
+164,双翅目_食蚜蝇科_黑带食蚜蝇,Episyrphus balteatus
+165,双翅目_食蚜蝇科_黑角条胸蚜蝇,Helophilus pendulus
+166,寄螨目,
+167,广翅目_齿蛉科,
+168,广翅目_齿蛉科_巨齿蛉属,
+169,柄眼目_蛞蝓科,
+170,柄眼目_蜗牛科,
+171,毛翅目,
+172,盲蛛目,
+173,直翅目_拟叶螽科,
+174,直翅目_拟叶螽科_巨拟叶螽,Pseudophyllus titan
+175,直翅目_拟叶螽科_黄斑珊螽,Sanaa intermedia
+176,直翅目_斑翅蝗科_小车蝗属_黄胫小车蝗,Oedaleus infernalis
+177,直翅目_斑腿蝗科_稻蝗属_中华稻蝗,Oxya chinensis
+178,直翅目_蜢科_多恩乌蜢,Erianthus dohrni
+179,直翅目_蝗科_剑角蝗属_中华剑角蝗,Acrida cinerea
+180,直翅目_蝗科_棉蝗属,
+181,直翅目_蝗科_青脊竹蝗,Ceracris nigricornis
+182,直翅目_蝗科_飞蝗属_东亚飞蝗,Locusta migratoria
+183,直翅目_蝗科_黄星蝗属_黄星蝗,Aularches miliaris
+184,直翅目_蝗科_黄脊蝗属,Patanga
+185,直翅目_蝼蛄科,
+186,直翅目_螽斯科,Tettigoniidae
+187,直翅目_螽斯科_日本条螽,Ducetia japonica
+188,直翅目_螽斯科_素色似织螽,Hexacentrus unicolor
+189,直翅目_螽斯科_织娘属,
+190,直翅目_螽斯科_草螽属_悦鸣草螽,Conocephalus melaenus
+191,直翅目_螽斯科_蝈螽属,
+192,直翅目_螽斯科_蝈螽属_暗褐蝈螽,Gampsocleis sedakovii
+193,直翅目_螽斯科_镰尾露螽,Phaneroptera falcata
+194,直翅目_蟋蟀科_双斑蟋(黄斑黑蟋蟀),Gryllus bimaculatus
+195,直翅目_锥头蝗科_负蝗属_短额负蝗,Atractomorpha sinensis
+196,直翅目_露螽科,
+197,直翅目_露螽科_覆翅螽属,
+198,直翅目_驼螽总科_突灶螽,
+199,竹节虫目,
+200,等足目_潮虫科_鼠妇属,
+201,缨尾目_衣鱼科,
+202,脉翅目_旌蛉科,Nemopteridae
+203,脉翅目_草蛉科,Chrysopidae
+204,脉翅目_蚁蛉科,Myrmeleontidae
+205,脉翅目_蝶蛉科,Psychopsidae
+206,脉翅目_蝶角蛉科,Ascalaphidae
+207,脉翅目_蝶角蛉科_黄花蝶角蛉,Ascalaphus sibiricus
+208,脉翅目_螳蛉科,Mantispidae
+209,脉翅目_褐蛉科,Hemerobiidae
+210,膜翅目_叶蜂科,
+211,膜翅目_土蜂科_橙头土蜂,Scolia superciliaris
+212,膜翅目_姬蜂科,
+213,膜翅目_姬蜂科_马尾姬蜂,
+214,膜翅目_泥蜂总科,
+215,膜翅目_泥蜂科_扁头泥蜂,Ampulex compressa
+216,膜翅目_泥蜂科_黄柄壁泥蜂,Sceliphron madraspatanum
+217,膜翅目_泥蜂科_黑盾壁泥蜂,Sceliphron javanum
+218,膜翅目_胡蜂科,Vespidae
+219,膜翅目_胡蜂科_斯马蜂,Polistes snelleni
+220,膜翅目_胡蜂科_日本马蜂,Polistes japonicus
+221,膜翅目_胡蜂科_胡蜂属_金环胡蜂,Vespa mandarinia
+222,膜翅目_胡蜂科_胡蜂属_黄腰胡蜂,Vespa affinis
+223,膜翅目_胡蜂科_马蜂亚科,
+224,膜翅目_胡蜂科_黄胡蜂属_细黄胡蜂,Vespula flaviceps
+225,膜翅目_蚁科,
+226,膜翅目_蚁科_修猛蚁属_红足修猛蚁,Pseudoneoponera rufipes
+227,膜翅目_蚁蜂科,
+228,膜翅目_蛛蜂科,
+229,膜翅目_蜜蜂科,
+230,膜翅目_蜜蜂科_木蜂属,
+231,膜翅目_蜜蜂科_熊蜂属,Bombus
+232,膜翅目_蜜蜂科_熊蜂属_火红熊蜂雄峰,Bombus pyrosoma
+233,膜翅目_蜜蜂科_熊蜂属_重黄熊蜂,Bombus picipes
+234,膜翅目_蜜蜂科_青条花蜂,Amegilla calceifera
+235,膜翅目_青蜂科,
+236,蚰蜒目_蚰蜒科_蚰蜒属,
+237,蜈蚣目_蜈蚣科,
+238,蜉蝣目,
+239,蜘蛛目,
+240,蜘蛛目_圆蛛科_大腹圆蛛,
+241,蜘蛛目_圆蛛科_弓长棘蛛,
+242,蜘蛛目_圆蛛科_新圆蛛属_绿腹新圆蛛(梅氏新圆蛛),Neoscona mellotteei
+243,蜘蛛目_圆蛛科_棘腹蛛属,
+244,蜘蛛目_圆蛛科_络新妇属_斑络新妇,
+245,蜘蛛目_圆蛛科_络新妇属_棒络新妇,
+246,蜘蛛目_圆蛛科_金蛛属,
+247,蜘蛛目_圆蛛科_金蛛属_悦目金蛛,
+248,蜘蛛目_异纺蛛科_大疣蛛属_雷氏大疣蛛,Macrothele raveni
+249,蜘蛛目_肖蛸科,
+250,蜘蛛目_蟹蛛科_绿蟹蛛属_绿蟹蛛,
+251,蜘蛛目_跳蛛科,
+252,蜘蛛目_跳蛛科_艾普蛛属,
+253,蜘蛛目_转蛛科_扁蛛属,
+254,蜘蛛目_隆头蛛科_隆头蛛,
+255,蜘蛛目_高脚蛛科_高脚蛛属_白额高脚蛛,
+256,蜚蠊目,
+257,蜚蠊目_地鳖蠊科,
+258,蜚蠊目_地鳖蠊科_真鳖蠊属,
+259,蜚蠊目_蜚蠊科_大蠊属_澳洲大蠊,Periplaneta australasiae
+260,蜚蠊目_蜚蠊科_大蠊属_黑胸大蠊,Periplaneta fuliginosa
+261,蜚蠊目_蜚蠊科_小蠊属_德国小蠊,Blattella germanica
+262,蜻蜓目_丝蟌科_奇印丝蟌,Indolestes peregrinus
+263,蜻蜓目_丝蟌科_蓝印丝蟌,Indolestes cyaneus
+264,蜻蜓目_大蜓科_裂唇蜓属_蝴蝶裂唇蜓,Chlorogomphus papilio
+265,蜻蜓目_差翅亚目,
+266,蜻蜓目_扇蟌科,
+267,蜻蜓目_扇蟌科_狭扇蟌属_白狭扇蟌,Copera annulata
+268,蜻蜓目_扇蟌科_黄纹长腹扇蟌,Coeliccia cyanomelas
+269,蜻蜓目_拟丝蟌科_拟丝蟌属_丽拟丝蟌,Pseudolestes mirabilis
+270,蜻蜓目_春蜓科,
+271,蜻蜓目_春蜓科_大团扇春蜓&小团扇春蜓,
+272,蜻蜓目_春蜓科_霸王叶春蜓,
+273,蜻蜓目_束翅亚目,
+274,蜻蜓目_溪蟌科_方带暗溪蟌,Euphaea decorata
+275,蜻蜓目_色蟌科,
+276,蜻蜓目_色蟌科_华丽色蟌,Calopteryx splendens
+277,蜻蜓目_色蟌科_单脉色蟌属_透顶单脉色蟌,Matrona basilaris
+278,蜻蜓目_色蟌科_条纹色蟌,Calopteryx virgo
+279,蜻蜓目_色蟌科_绿色蟌属,Mnais
+280,蜻蜓目_色蟌科_绿色蟌属_烟翅绿色蟌,Mnais mneme
+281,蜻蜓目_色蟌科_赤基色蟌属_赤基色蟌,Archineura incarnata
+282,蜻蜓目_色蟌科_黑暗色蟌,Atrocalopteryx atrata
+283,蜻蜓目_蜓科_伟蜓属_斑伟蜓,Anax guttatus
+284,蜻蜓目_蜓科_伟蜓属_碧伟蜓,Anax parthenope
+285,蜻蜓目_蜓科_伟蜓属_黄伟蜓,Anax immaculifrons
+286,蜻蜓目_蜓科_伟蜓属_黑纹伟蜓,Anax nigrofasciatus
+287,蜻蜓目_蜻科_丽翅蜻属,
+288,蜻蜓目_蜻科_丽翅蜻属_斑丽翅蜻,Rhyothemis variegata
+289,蜻蜓目_蜻科_丽翅蜻属_黑丽翅蜻,Rhyothemis fuliginosa
+290,蜻蜓目_蜻科_六斑曲缘蜻,Palpopleura sexmaculata
+291,蜻蜓目_蜻科_华斜痣蜻,Trithemis aurora
+292,蜻蜓目_蜻科_善变蜻蜓,
+293,蜻蜓目_蜻科_异色多纹蜻,Deielia phaon
+294,蜻蜓目_蜻科_方蜻属_宽翅方蜻,Tetrathemis platyptera
+295,蜻蜓目_蜻科_深蓝印蜻,Indothemis carnatica
+296,蜻蜓目_蜻科_湿地狭翅蜻(溪神蜻蜓),Potamarcha congener
+297,蜻蜓目_蜻科_灰蜻属,Orthetrum
+298,蜻蜓目_蜻科_灰蜻属_吕宋灰蜻,Orthetrum luzonicum
+299,蜻蜓目_蜻科_灰蜻属_斑灰蜻,Orthetrum poecilops
+300,蜻蜓目_蜻科_灰蜻属_狭腹灰蜻,Orthetrum sabina
+301,蜻蜓目_蜻科_灰蜻属_白尾灰蜻,Orthetrum albistylum
+302,蜻蜓目_蜻科_灰蜻属_粗灰蜻,Orthetrum cancellatum
+303,蜻蜓目_蜻科_灰蜻属_赤褐灰蜻,Orthetrum pruinosum
+304,蜻蜓目_蜻科_灰蜻属_黑尾灰蜻,Orthetrum glaucum
+305,蜻蜓目_蜻科_玉带蜻,Pseudothemis zonata
+306,蜻蜓目_蜻科_红蜻,
+307,蜻蜓目_蜻科_脉蜻属_截斑脉蜻,Neurothemis tullia
+308,蜻蜓目_蜻科_脉蜻属_网脉蜻,Neurothemis fulvia
+309,蜻蜓目_蜻科_蓝小蜻属_纹蓝小蜻,Diplacodes trivialis
+310,蜻蜓目_蜻科_蓝额疏脉蜻,Brachydiplax chalybea
+311,蜻蜓目_蜻科_褐蜻属_庆褐蜻,Trithemis festiva
+312,蜻蜓目_蜻科_褐蜻属_晓褐蜻,Trithemis aurora
+313,蜻蜓目_蜻科_赤蜻属,Sympetrum
+314,蜻蜓目_蜻科_锥腹蜻,Acisoma panorpoides
+315,蜻蜓目_蜻科_闪绿宽腹蜻,Lyriothemis pachygastra
+316,蜻蜓目_蜻科_闪蓝丽大伪蜻,Epophthalmia elegans
+317,蜻蜓目_蜻科_黄翅蜻,Brachythemis contaminata
+318,蜻蜓目_蜻科_黄蜻,Pantala flavescens
+319,蜻蜓目_蟌科_尾黄蟌属_长尾黄蟌,Ceriagrion fallax
+320,蜻蜓目_蟌科_杯斑小蟌,Agriocnemis femina
+321,蜻蜓目_蟌科_绿蟌属_心斑绿蟌,Enallagma cyathigerum
+322,蜻蜓目_蟌科_蓝纹尾蟌,Paracercion calamorum
+323,蜻蜓目_蟌科_褐斑异痣蟌,Ischnura senegalensis
+324,蜻蜓目_蟌科_赤黄蟌(日本黄蟌),Ceriagrion nipponicum
+325,蜻蜓目_鼻蟌科,
+326,蝎目,
+327,螳螂目,
+328,螳螂目_花螳科_刺花螳属_刺花螳螂,Pseudocreobotra wahlbergi
+329,螳螂目_花螳科_幽灵螳螂,Phyllocrania paradoxa
+330,螳螂目_花螳科_日本姬螳,
+331,螳螂目_花螳科_眼斑螳属,
+332,螳螂目_花螳科_神隐螳螂,Sibylla pretiosa
+333,螳螂目_花螳科_花螳属_兰花螳螂,Hymenopus coronatus
+334,螳螂目_螳科_斧螳属_广斧螳,Hierodula patellifera
+335,螳螂目_螳螂科_大刀螳螂属_中华大刀螳,Tenodera Sinensis
+336,螳螂目_螳螂科_薄翅螳,Mantis religiosa
+337,螳螂目_静螳科_棕静螳,Statilia maculata
+338,襀翅目,
+339,长翅目(蝎蛉),
+340,革翅目_蠼螋,
+341,鞘翅目_三栉牛科_大卫三栉牛,
+342,鞘翅目_卷象科,
+343,鞘翅目_卷象科_长颈鹿象鼻虫,
+344,鞘翅目_叩甲科,
+345,鞘翅目_叩甲科_丽叩甲属,
+346,鞘翅目_叩甲科_丽叩甲属_朱肩丽叩甲,Campsosternus gemma
+347,鞘翅目_叶甲科,
+348,鞘翅目_叶甲科_二纹柱萤叶甲,Gallerucida bifasciata
+349,鞘翅目_叶甲科_四斑长跗萤叶甲,Monolepta quadriguttata
+350,鞘翅目_叶甲科_瓢萤叶甲属_十星瓢萤叶甲,Oides decempunctata
+351,鞘翅目_叶甲科_瓢萤叶甲属_蓝翅瓢萤叶甲,Oides bowringii
+352,鞘翅目_叶甲科_瘦跗叶甲属_马铃薯叶甲,Leptinotarsa decemlineata
+353,鞘翅目_叶甲科_莲草直胸跳甲,Agasicles hygrophila
+354,鞘翅目_叶甲科_跳甲亚科,
+355,鞘翅目_叶甲科_铜绿金叶甲,Chrysolina polita
+356,鞘翅目_叶甲科_黄守瓜,Aulacophora indica
+357,鞘翅目_叶甲科_黄斑长跗萤叶甲,Monolepta signata
+358,鞘翅目_叶甲科_黄曲条跳甲,Phyllotreta striolata
+359,鞘翅目_吉丁科,
+360,鞘翅目_吉丁科_脊吉丁属,
+361,鞘翅目_天牛科,
+362,鞘翅目_天牛科_丛角天牛属,
+363,鞘翅目_天牛科_合欢双条天牛,Xystrocera globosa
+364,鞘翅目_天牛科_土天牛属,
+365,鞘翅目_天牛科_多带天牛,Polyzonus fasciatus
+366,鞘翅目_天牛科_多节天牛属_苜蓿多节天牛,Agapanthia amurensis
+367,鞘翅目_天牛科_星天牛属,
+368,鞘翅目_天牛科_星天牛属_楝星天牛,Anoplophora horsfieldi
+369,鞘翅目_天牛科_杉天牛属_双条杉天牛,Semanotus bifasciatus
+370,鞘翅目_天牛科_毛簇天牛,Aristobia horridula
+371,鞘翅目_天牛科_珊瑚天牛(红艳天牛),Dicelosternus corallinus
+372,鞘翅目_天牛科_白条天牛属,
+373,鞘翅目_天牛科_白条天牛属_云斑白条天牛&密点白条天牛,
+374,鞘翅目_天牛科_白条天牛属_黄八星白条天牛,Batocera rubus
+375,鞘翅目_天牛科_眉斑并脊天牛,Glenea cantor
+376,鞘翅目_天牛科_筒天牛属,
+377,鞘翅目_天牛科_粉天牛属,
+378,鞘翅目_天牛科_粒肩天牛属_皱胸粒肩天牛(桑天牛),Apriona rugicollis
+379,鞘翅目_天牛科_粒肩天牛属_锈色粒肩天牛,Apriona swainson
+380,鞘翅目_天牛科_紫天牛属_竹紫天牛,Purpuricenus temminckii
+381,鞘翅目_天牛科_绿虎天牛属,Chlorophorus
+382,鞘翅目_天牛科_绿虎天牛属_多氏绿虎天牛,Chlorophorus douei
+383,鞘翅目_天牛科_绿虎天牛属_竹绿虎天牛,Chlorophorus annularis
+384,鞘翅目_天牛科_绿虎天牛属_黄毛绿虎天牛,Chlorophorus signaticollis
+385,鞘翅目_天牛科_脊虎天牛属,Xylotrechus
+386,鞘翅目_天牛科_脊虎天牛属_宽带脊虎天牛,Xylotrechus yanoi
+387,鞘翅目_天牛科_苎麻双脊天牛,Paraglenea fortunei
+388,鞘翅目_天牛科_蓝丽天牛&茶丽天牛,
+389,鞘翅目_天牛科_裸角天牛属,
+390,鞘翅目_天牛科_长颈鹿天牛,Macrochenus guerini
+391,鞘翅目_天牛科_阔嘴天牛属,
+392,鞘翅目_天牛科_颈天牛属_桃红颈天牛,Aromia bungii
+393,鞘翅目_天牛科_麻竖毛天牛,Thyestilla gebleri
+394,鞘翅目_天牛科_黄星天牛属,
+395,鞘翅目_天牛科_齿胫天牛属_眼斑齿胫天牛,Paraleprodera diophthalma
+396,鞘翅目_天牛科_龟背天牛&桔斑簇天牛,
+397,鞘翅目_拟叩甲科,
+398,鞘翅目_拟步甲科,
+399,鞘翅目_拟步甲科_伪叶甲亚科,
+400,鞘翅目_拟步甲科_喙尾琵琶甲,
+401,鞘翅目_拟步甲科_朽木甲亚科,
+402,鞘翅目_拟花萤科,
+403,鞘翅目_步甲科,
+404,鞘翅目_步甲科_屁步甲属,Pheropsophus
+405,鞘翅目_步甲科_拉步甲,Carabus lafossei
+406,鞘翅目_步甲科_疑步甲,
+407,鞘翅目_步甲科_绿步甲,
+408,鞘翅目_步甲科_蝼步甲属,
+409,鞘翅目_步甲科_蠋步甲,Dolichus halensis
+410,鞘翅目_步甲科_青步甲属,Chlaenius
+411,鞘翅目_步甲科_麻步甲,
+412,鞘翅目_犀金龟科,
+413,鞘翅目_犀金龟科_叉犀金龟属_双叉犀金龟,Allomyrina dichotoma
+414,鞘翅目_犀金龟科_大兜虫属_长戟大兜虫,
+415,鞘翅目_犀金龟科_姬兜,
+416,鞘翅目_犀金龟科_毛象大兜虫,
+417,鞘翅目_犀金龟科_细角疣犀金龟,
+418,鞘翅目_犀金龟科_蒙瘤犀金龟,
+419,鞘翅目_瓢甲科,
+420,鞘翅目_瓢甲科#幼虫,
+421,鞘翅目_瓢甲科_七星瓢虫,Coccinella septempunctata
+422,鞘翅目_瓢甲科_六斑异瓢虫,Aiolocaria hexaspilota
+423,鞘翅目_瓢甲科_六斑月瓢虫,Cheilomenes sexmaculata
+424,鞘翅目_瓢甲科_六星瓢虫,Oenopia formosana
+425,鞘翅目_瓢甲科_十二斑褐菌瓢虫,Vibidia duodecimguttata
+426,鞘翅目_瓢甲科_双七星瓢虫,Coccinula quatuordecimpustulata
+427,鞘翅目_瓢甲科_柯氏素菌瓢虫,Illeis koebelei
+428,鞘翅目_瓢甲科_茄二十八星瓢虫,Henosepilachna vigintioctopunctata
+429,鞘翅目_瓢甲科_马铃薯瓢虫,Henosepilachna vigintioctomaculata
+430,鞘翅目_瓢甲科_龟纹瓢虫,Propylea japonica
+431,鞘翅目_窃蠹科_烟草甲,Lasioderma serricorne
+432,鞘翅目_肖叶甲科,
+433,鞘翅目_肖叶甲科_绿缘扁角叶甲,Platycorynus parryi
+434,鞘翅目_肖叶甲科_黑额光叶甲,Smaragdina nigrifrons
+435,鞘翅目_臂金龟科,
+436,鞘翅目_臂金龟科_格彩臂金龟,Cheirotonus gestroi
+437,鞘翅目_臂金龟科_阳彩臂金龟,Cheirotonus jansoni
+438,鞘翅目_芫菁科,
+439,鞘翅目_芫菁科_斑蝥,
+440,鞘翅目_芫菁科_绿芫菁,
+441,鞘翅目_芫菁科_豆芫菁,Epicauta gorhami
+442,鞘翅目_花萤总科,
+443,鞘翅目_花萤科_丽花萤属,
+444,鞘翅目_花金龟科_鹿花金龟属_宽带鹿花金龟,Dicronocephalus adamsi
+445,鞘翅目_花金龟科_鹿花金龟属_弯角鹿花金龟,Dicronocephalus wallichii
+446,鞘翅目_花金龟科_鹿花金龟属_黄粉鹿花金龟,Dicronocephalus bowringi
+447,鞘翅目_萤科_窗萤属,Pyrocoelia
+448,鞘翅目_萤科_窗萤属_金边窗萤,Pyrocoelia analis
+449,鞘翅目_葬甲科,
+450,鞘翅目_虎甲科_树栖虎甲属,Collyris
+451,鞘翅目_虎甲科_缺翅虎甲属,Tricondyla
+452,鞘翅目_虎甲科_虎甲属,Cicindela
+453,鞘翅目_虎甲科_虎甲属_中华虎甲,Cicindela chinenesis
+454,鞘翅目_虎甲科_虎甲属_离斑虎甲,Cicindela separata
+455,鞘翅目_虎甲科_虎甲属_芽斑虎甲,Cicindela gemmata
+456,鞘翅目_虎甲科_虎甲属_金斑虎甲,Cicindela aurulenta
+457,鞘翅目_豆象科,
+458,鞘翅目_象甲科,
+459,鞘翅目_象甲科_松瘤象甲,Sipalus gigas
+460,鞘翅目_象甲科_棕榈象,
+461,鞘翅目_象甲科_沟眶象属,
+462,鞘翅目_象甲科_甘薯蚁象,
+463,鞘翅目_象甲科_竹象,
+464,鞘翅目_象甲科_米象,
+465,鞘翅目_象甲科_绿磷象甲,
+466,鞘翅目_负泥虫科,
+467,鞘翅目_负泥虫科_紫茎甲,
+468,鞘翅目_赤翅甲科,
+469,鞘翅目_郭公虫科,
+470,鞘翅目_郭公虫科_中华毛郭公,
+471,鞘翅目_金龟科,
+472,鞘翅目_金龟科_大王花金龟,
+473,鞘翅目_金龟科_异丽金龟属,Anomala
+474,鞘翅目_金龟科_弧丽金龟属,Popillia
+475,鞘翅目_金龟科_星花金龟属,Protaetia
+476,鞘翅目_金龟科_白斑跗花金龟,Clinterocera mandarina
+477,鞘翅目_金龟科_白条绿花金龟,
+478,鞘翅目_金龟科_绿奇花金龟,Agestrata orichalca
+479,鞘翅目_金龟科_罗花金龟属,Rhomborhina
+480,鞘翅目_金龟科_蜣螂属,
+481,鞘翅目_铁甲科,
+482,鞘翅目_铁甲科_梳龟甲属,
+483,鞘翅目_铁甲科_梳龟甲属_金梳龟甲,Aspidimorpha sanctaecrucis
+484,鞘翅目_铁甲科_甘薯台龟甲,Taiwania circumdata
+485,鞘翅目_铁甲科_甘薯蜡龟甲,Laccoptera quadrimaculata
+486,鞘翅目_锹甲科,
+487,鞘翅目_锹甲科_中华奥锹甲,
+488,鞘翅目_锹甲科_中国扁锹,
+489,鞘翅目_锹甲科_刀锹属_中国大锹,
+490,鞘翅目_锹甲科_彩虹锹甲属_彩虹锹甲,
+491,鞘翅目_锹甲科_褐黄前锹甲(两点赤锯锹),Prosopocoilus astacoides
+492,鞘翅目_锹甲科_鬼艳锹甲,
+493,鞘翅目_隐翅虫科,
+494,鞘翅目_鳃金龟科,Melolonthidae
+495,鞘翅目_鳃金龟科_云鳃金龟属,Polyphylla
+496,鞘翅目_鳃金龟科_十线云斑鳃金龟,Polyphylla decemlineata
+497,鞘翅目_鳃金龟科_大栗鳃金龟,Melolontha hippocastani
+498,鞘翅目_龙虱科,
+499,鞭蝎目,
+500,马陆,
+501,鳞翅目_凤蛾科_榆凤蛾,Epicopeia mencia
+502,鳞翅目_凤蝶科,Papilionidae
+503,鳞翅目_凤蝶科_丝带凤蝶属_丝带凤蝶,Sericinus montelus
+504,鳞翅目_凤蝶科_凤蝶属_克里翠凤蝶,Papilio krishna
+505,鳞翅目_凤蝶科_凤蝶属_北美大黄凤蝶,Papilio glaucus
+506,鳞翅目_凤蝶科_凤蝶属_北美大黄凤蝶#幼虫,
+507,鳞翅目_凤蝶科_凤蝶属_双尾凤蝶,Papilio multicaudata
+508,鳞翅目_凤蝶科_凤蝶属_台湾琉璃翠凤蝶,Papilio hermosanus
+509,鳞翅目_凤蝶科_凤蝶属_宽带美凤蝶(宽带凤蝶),Papilio nephelus
+510,鳞翅目_凤蝶科_凤蝶属_巴黎翠凤蝶,Papilio paris
+511,鳞翅目_凤蝶科_凤蝶属_德罕翠凤蝶,Papilio dehaanii
+512,鳞翅目_凤蝶科_凤蝶属_普瑞凤蝶,Papilio prexaspes
+513,鳞翅目_凤蝶科_凤蝶属_柑橘凤蝶,Papilio xuthus
+514,鳞翅目_凤蝶科_凤蝶属_柑橘凤蝶#幼虫和蛹,
+515,鳞翅目_凤蝶科_凤蝶属_玉带美凤蝶(玉带凤蝶),Papilio polytes
+516,鳞翅目_凤蝶科_凤蝶属_玉斑凤蝶,Papilio helenus
+517,鳞翅目_凤蝶科_凤蝶属_碧翠凤蝶(碧凤蝶),Papilio bianor
+518,鳞翅目_凤蝶科_凤蝶属_穹翠凤蝶,Papilio dialis
+519,鳞翅目_凤蝶科_凤蝶属_窄斑翠凤蝶,Papilio arcturus
+520,鳞翅目_凤蝶科_凤蝶属_红基美凤蝶,Papilio alcmenor
+521,鳞翅目_凤蝶科_凤蝶属_绿带翠凤蝶,Papilio maackii
+522,鳞翅目_凤蝶科_凤蝶属_美凤蝶,Papilio memnon
+523,鳞翅目_凤蝶科_凤蝶属_美洲大芷凤蝶,Papilio cresphontes
+524,鳞翅目_凤蝶科_凤蝶属_蓝美凤蝶(蓝凤蝶),Papilio protenor
+525,鳞翅目_凤蝶科_凤蝶属_达摩凤蝶,Papilio demoleus
+526,鳞翅目_凤蝶科_凤蝶属_重帏翠凤蝶,Papilio hoppo
+527,鳞翅目_凤蝶科_凤蝶属_金凤蝶,Papilio machaon
+528,鳞翅目_凤蝶科_凤蝶属_金凤蝶#幼虫和蛹,
+529,鳞翅目_凤蝶科_凤蝶属_银月豹凤蝶,Papilio troilus
+530,鳞翅目_凤蝶科_剑凤蝶属,Pazala
+531,鳞翅目_凤蝶科_剑凤蝶属_升天剑凤蝶,Pazala eurous
+532,鳞翅目_凤蝶科_剑凤蝶属_铁木剑凤蝶,Pazala mullah
+533,鳞翅目_凤蝶科_喙凤蝶属_喙凤蝶,Teinopalpus imperialis
+534,鳞翅目_凤蝶科_喙凤蝶属_金斑喙凤蝶,Teinopalpus aureus
+535,鳞翅目_凤蝶科_宽尾凤蝶属_宽尾凤蝶,Agehana elwesi
+536,鳞翅目_凤蝶科_尾凤蝶属_三尾凤蝶,Bhutanitis thaidina
+537,鳞翅目_凤蝶科_尾凤蝶属_不丹尾凤蝶,Bhutanitis ludlowi
+538,鳞翅目_凤蝶科_尾凤蝶属_多尾凤蝶,Bhutanitis lidderdalii
+539,鳞翅目_凤蝶科_斑凤蝶属_斑凤蝶,Chilasa clytia
+540,鳞翅目_凤蝶科_旖凤蝶属_旖凤蝶,Iphiclides podalirius
+541,鳞翅目_凤蝶科_曙凤蝶属_曙凤蝶,Atrophaneura horishana
+542,鳞翅目_凤蝶科_曙凤蝶属_瓦曙凤蝶,Atrophaneura varuna
+543,鳞翅目_凤蝶科_燕凤蝶属_燕凤蝶,Lamproptera curius
+544,鳞翅目_凤蝶科_燕凤蝶属_绿带燕凤蝶,Lamproptera meges
+545,鳞翅目_凤蝶科_珠凤蝶属_红珠凤蝶,Pachliopta aristolochiae
+546,鳞翅目_凤蝶科_红颈凤蝶属_红颈鸟翼凤蝶,Trogonoptera brookiana
+547,鳞翅目_凤蝶科_绿凤蝶属_斜纹绿凤蝶,Pathysa agetes
+548,鳞翅目_凤蝶科_绿凤蝶属_绿凤蝶,Pathysa_antiphates
+549,鳞翅目_凤蝶科_虎凤蝶属_中华虎凤蝶,Luehdorfia chinensis
+550,鳞翅目_凤蝶科_裳凤蝶属_荧光裳凤蝶,Troides magellanus
+551,鳞翅目_凤蝶科_裳凤蝶属_裳凤蝶,Troides helena
+552,鳞翅目_凤蝶科_裳凤蝶属_金裳凤蝶,Troides aeacus
+553,鳞翅目_凤蝶科_钩凤蝶属_褐钩凤蝶,Meandrusa sciron
+554,鳞翅目_凤蝶科_钩凤蝶属_钩凤蝶,Meandrusa payeni
+555,鳞翅目_凤蝶科_锤尾凤蝶属_锤尾凤蝶,Losaria coon
+556,鳞翅目_凤蝶科_青凤蝶属,Graphium
+557,鳞翅目_凤蝶科_青凤蝶属_宽带青凤蝶,Graphium cloanthus
+558,鳞翅目_凤蝶科_青凤蝶属_木兰青凤蝶,Graphium doson
+559,鳞翅目_凤蝶科_青凤蝶属_碎斑青凤蝶,Graphium chironides
+560,鳞翅目_凤蝶科_青凤蝶属_红绶绿凤蝶(红绶青凤蝶),Graphium nomius
+561,鳞翅目_凤蝶科_青凤蝶属_统帅青凤蝶,Graphium agamemnon
+562,鳞翅目_凤蝶科_青凤蝶属_青凤蝶,Graphium sarpedon
+563,鳞翅目_凤蝶科_青凤蝶属_黎氏青凤蝶,Graphium leechi
+564,鳞翅目_凤蝶科_鸢凤蝶属_长尾玳瑁凤蝶,Eurytides marcellus
+565,鳞翅目_凤蝶科_麝凤蝶属,Byasa
+566,鳞翅目_凤蝶科_麝凤蝶属_中华麝凤蝶,Byasa confusa
+567,鳞翅目_凤蝶科_麝凤蝶属_云南麝凤蝶,Byasa hedistus
+568,鳞翅目_凤蝶科_麝凤蝶属_多姿麝凤蝶,Byasa polyeuctes
+569,鳞翅目_凤蝶科_麝凤蝶属_白斑麝凤蝶,Byasa dasarada
+570,鳞翅目_凤蝶科_麝凤蝶属_长尾麝凤蝶,Byasa impediens
+571,鳞翅目_凤蝶科_麝凤蝶属_麝凤蝶,Byasa alcinous
+572,鳞翅目_刺蛾科,Limacodidae
+573,鳞翅目_刺蛾科#幼虫和蛹,
+574,鳞翅目_刺蛾科_仿姹刺蛾,Chalcoscelides castaneipars
+575,鳞翅目_刺蛾科_扁刺蛾属,
+576,鳞翅目_刺蛾科_显脉球须刺蛾,Scopelodes venosa
+577,鳞翅目_刺蛾科_枣奕刺蛾,Iragoides conjuncta
+578,鳞翅目_刺蛾科_枣奕刺蛾#幼虫,
+579,鳞翅目_刺蛾科_桑褐刺蛾属_桑褐刺蛾,Setora postornata
+580,鳞翅目_刺蛾科_桑褐刺蛾属_桑褐刺蛾#幼虫,
+581,鳞翅目_刺蛾科_绿刺蛾属,Parasa
+582,鳞翅目_刺蛾科_绿刺蛾属_丽绿刺蛾,Parasa lepida
+583,鳞翅目_刺蛾科_绿刺蛾属_胆绿刺蛾,Parasa darma
+584,鳞翅目_刺蛾科_绿刺蛾属_褐边绿刺蛾,Parasa consocia
+585,鳞翅目_刺蛾科_绿刺蛾属_褐边绿刺蛾#幼虫,
+586,鳞翅目_刺蛾科_绿刺蛾属_迹斑绿刺蛾,Parasa pastoralis
+587,鳞翅目_刺蛾科_闪银纹刺蛾,Miresa fulgida
+588,鳞翅目_刺蛾科_黄刺蛾,Cnidocampa flavescens
+589,鳞翅目_卷蛾科,Tortricidae
+590,鳞翅目_卷蛾科_楝小卷蛾属_苦楝小卷蛾,Loboschiza koenigiana
+591,鳞翅目_卷蛾科_白钩小卷蛾,Epiblema foenella
+592,鳞翅目_卷蛾科_豹裳卷蛾,Cerace xanthocosma
+593,鳞翅目_喙蝶科_喙蝶属_朴喙蝶,Libythea lepita
+594,鳞翅目_喙蝶科_喙蝶属_棒纹喙蝶,Libythea myrrha
+595,鳞翅目_夜蛾科,Noctuidae
+596,鳞翅目_夜蛾科_三角夜蛾属_中带三角夜蛾,Chalciope geometrica
+597,鳞翅目_夜蛾科_三角夜蛾属_斜带三角夜蛾,Chalciope mygdon
+598,鳞翅目_夜蛾科_三角夜蛾属_短带三角夜蛾,Chalciope hyppasia
+599,鳞翅目_夜蛾科_中赫夜蛾,Hadjina chinensis
+600,鳞翅目_夜蛾科_丹日明夜蛾,Sphragifera sigillata
+601,鳞翅目_夜蛾科_冬夜蛾属_莴苣冬夜蛾,Cucullia fraterna
+602,鳞翅目_夜蛾科_凤凰木夜蛾,Pericyma cruegeri
+603,鳞翅目_夜蛾科_单析夜蛾,Supersypnoides simplex
+604,鳞翅目_夜蛾科_奴裳蛾属_小奴裳蛾,Paracolax fentoni
+605,鳞翅目_夜蛾科_奴裳蛾属_杉氏奴裳蛾,Paracolax sugii
+606,鳞翅目_夜蛾科_安钮夜蛾属_枯安钮夜蛾,Ophiusa coronata
+607,鳞翅目_夜蛾科_安钮夜蛾属_青安钮夜蛾,Ophiusa tirhaca
+608,鳞翅目_夜蛾科_宽胫夜蛾,Protoschinia scutosa
+609,鳞翅目_夜蛾科_巧夜蛾属_白点巧夜蛾,Oruza albigutta
+610,鳞翅目_夜蛾科_巾夜蛾属_玫瑰巾夜蛾,Parallelia arctotaenia
+611,鳞翅目_夜蛾科_巾夜蛾属_石榴巾夜蛾,Parallelia stuposa
+612,鳞翅目_夜蛾科_巾夜蛾属_霉巾夜蛾,Parallelia maturata
+613,鳞翅目_夜蛾科_帝王枯叶蛾,Phyllodes imperialis
+614,鳞翅目_夜蛾科_散纹夜蛾属_小红晕散纹夜蛾,Callopistria nobilior
+615,鳞翅目_夜蛾科_散纹夜蛾属_红晕散纹夜蛾,Callopistria repleta
+616,鳞翅目_夜蛾科_斜纹夜蛾属,Spodoptera
+617,鳞翅目_夜蛾科_旋夜蛾属_臭椿皮蛾(旋皮夜蛾),Eligma narcissus
+618,鳞翅目_夜蛾科_旋夜蛾属_臭椿皮蛾(旋皮夜蛾)#幼虫,
+619,鳞翅目_夜蛾科_旋目夜蛾,Spirama retorta
+620,鳞翅目_夜蛾科_日月明夜蛾,Sphragifera biplagiata
+621,鳞翅目_夜蛾科_枝夜蛾,Ramadasa pavo
+622,鳞翅目_夜蛾科_枯叶夜蛾,Adris tyrannus
+623,鳞翅目_夜蛾科_毛胫夜蛾属_实毛胫裳蛾,Mocis frugalis
+624,鳞翅目_夜蛾科_毛胫夜蛾属_毛胫夜蛾,Mocis undata
+625,鳞翅目_夜蛾科_淡剑纹灰翅夜蛾,Spodoptera depravata
+626,鳞翅目_夜蛾科_点委夜蛾,Athetis lepigone
+627,鳞翅目_夜蛾科_甘蓝夜蛾,Mamestra brassicae
+628,鳞翅目_夜蛾科_白斑烦夜蛾,Aedia leucomelas
+629,鳞翅目_夜蛾科_目夜蛾属_卷裳目夜蛾,Erebus macrops
+630,鳞翅目_夜蛾科_目夜蛾属_毛目夜蛾,Erebus pilosa
+631,鳞翅目_夜蛾科_目夜蛾属_玉边魔目夜蛾,Erebus albicincta
+632,鳞翅目_夜蛾科_目夜蛾属_羊魔目夜蛾,Erebus caprimulgus
+633,鳞翅目_夜蛾科_目夜蛾属_魔目夜蛾,Erebus crepuscularis
+634,鳞翅目_夜蛾科_目夜蛾属_魔目夜蛾,Erebus ephesperis
+635,鳞翅目_夜蛾科_瞳裳蛾,Ommatophora luminosa
+636,鳞翅目_夜蛾科_碎斑虎蛾,Cruriopsis funebris
+637,鳞翅目_夜蛾科_窄蓝条夜蛾,Ischyja ferrifracta
+638,鳞翅目_夜蛾科_绿斑枯叶夜蛾,Adris okurai
+639,鳞翅目_夜蛾科_艳叶夜蛾属_艳叶夜蛾,Eudocima salaminia
+640,鳞翅目_夜蛾科_艳叶夜蛾属_艳叶夜蛾#幼虫,
+641,鳞翅目_夜蛾科_艳叶夜蛾属_落叶夜蛾,Eudocima phalonia
+642,鳞翅目_夜蛾科_苎麻夜蛾,Arcte coerula
+643,鳞翅目_夜蛾科_苎麻夜蛾#幼虫,
+644,鳞翅目_夜蛾科_葱兰夜蛾,
+645,鳞翅目_夜蛾科_蓖麻夜蛾(飞扬阿夜蛾),Achaea janata
+646,鳞翅目_夜蛾科_蓝条夜蛾,Ischyja manlia
+647,鳞翅目_夜蛾科_象形文夜蛾,Baorisa hieroglyphica
+648,鳞翅目_夜蛾科_豹夜蛾属_胡桃豹夜蛾,Sinna extrema
+649,鳞翅目_夜蛾科_镶落叶夜蛾,Othreis homaena
+650,鳞翅目_夜蛾科_镶落叶夜蛾#幼虫,
+651,鳞翅目_天蚕蛾科,Saturniidae
+652,鳞翅目_天蚕蛾科_乌桕大蚕蛾,Attacus atlas
+653,鳞翅目_天蚕蛾科_伊莎贝拉大蚕蛾,Graellsia isabellae
+654,鳞翅目_天蚕蛾科_华尾天蚕蛾,Actias sinensis
+655,鳞翅目_天蚕蛾科_后目天蚕蛾,Caligula simla
+656,鳞翅目_天蚕蛾科_大尾天蚕蛾,Actias maenas
+657,鳞翅目_天蚕蛾科_小字大蚕蛾属_点目大蚕蛾,Cricula andrei
+658,鳞翅目_天蚕蛾科_彗星蛾,Argema mittrei
+659,鳞翅目_天蚕蛾科_月尾天蚕蛾,Actias luna
+660,鳞翅目_天蚕蛾科_柞天蚕蛾(姬透目天蚕蛾),Antheraea pernyi
+661,鳞翅目_天蚕蛾科_樗蚕蛾属,Samia
+662,鳞翅目_天蚕蛾科_樟天蚕蛾,
+663,鳞翅目_天蚕蛾科_玉米天蚕蛾,Automeris io
+664,鳞翅目_天蚕蛾科_红尾大蚕蛾&长尾大蚕蛾,
+665,鳞翅目_天蚕蛾科_绿尾大蚕蛾&宁波尾大蚕蛾,
+666,鳞翅目_天蚕蛾科_藏珠天蚕蛾,Saturnia thibeta
+667,鳞翅目_天蚕蛾科_豹天蚕蛾属,Loepa
+668,鳞翅目_天蚕蛾科_豹天蚕蛾属_红豹天蚕蛾,Loepa oberthuri
+669,鳞翅目_天蚕蛾科_豹天蚕蛾属_黄豹天蚕蛾,Loepa megacore
+670,鳞翅目_天蚕蛾科_钩翅天蚕蛾,Antheraea assamensis
+671,鳞翅目_天蚕蛾科_银杏大蚕蛾,Dictyoploca japonica
+672,鳞翅目_天蚕蛾科_黄珠天蚕蛾,
+673,鳞翅目_天蛾科,Sphingidae
+674,鳞翅目_天蛾科_六点天蛾属_台湾六点天蛾(黑角六点天蛾),Marumba saishiuana
+675,鳞翅目_天蛾科_六点天蛾属_栗六点天蛾,Marumba sperchius
+676,鳞翅目_天蛾科_六点天蛾属_椴六点天蛾,Marumba dyras
+677,鳞翅目_天蛾科_六点天蛾属_楠六点天蛾,Marumba cristata
+678,鳞翅目_天蛾科_大背天蛾,Meganoton analis
+679,鳞翅目_天蛾科_斑天蛾属_银斑天蛾,Hayesiana triopus
+680,鳞翅目_天蛾科_斜纹天蛾属_凤仙花天蛾(芋双线天蛾),Theretra oldenlandiae
+681,鳞翅目_天蛾科_斜纹天蛾属_凤仙花天蛾(芋双线天蛾)#幼虫,
+682,鳞翅目_天蛾科_斜纹天蛾属_后红斜纹天蛾,Theretra alecto subsp. cretica
+683,鳞翅目_天蛾科_斜纹天蛾属_芋单线斜纹天蛾,Theretra silhetensis
+684,鳞翅目_天蛾科_斜纹天蛾属_赭斜纹天蛾,Theretra pallicosta
+685,鳞翅目_天蛾科_斜纹天蛾属_雀纹天蛾,Theretra japonica
+686,鳞翅目_天蛾科_斜纹天蛾属_青背斜纹天蛾(黄腹斜纹天蛾),Theretra nessus
+687,鳞翅目_天蛾科_斜线天蛾属_后红斜线天蛾,Hippotion rafflesii
+688,鳞翅目_天蛾科_斜线天蛾属_茜草后红斜线天蛾,Hippotion rosetta
+689,鳞翅目_天蛾科_斜线天蛾属_银条斜线天蛾,Hippotion celerio
+690,鳞翅目_天蛾科_斜绿天蛾,Pergesa acteus
+691,鳞翅目_天蛾科_斜绿天蛾#幼虫,
+692,鳞翅目_天蛾科_星天蛾属_大星天蛾,Dolbina inexacta
+693,鳞翅目_天蛾科_星天蛾属_绒星天蛾,Dolbina tancrei
+694,鳞翅目_天蛾科_昼天蛾属_葡萄昼天蛾,Sphecodina caudata
+695,鳞翅目_天蛾科_月天蛾属_构月天蛾,Parum colligata
+696,鳞翅目_天蛾科_枫天蛾属,Cypoides
+697,鳞翅目_天蛾科_榆绿天蛾,Callambulyx tatarinovi
+698,鳞翅目_天蛾科_甘薯天蛾,Agrius convolvuli
+699,鳞翅目_天蛾科_甘薯天蛾#幼虫,
+700,鳞翅目_天蛾科_白肩天蛾属,Rhagastis
+701,鳞翅目_天蛾科_白腰天蛾属_夹竹桃天蛾,Daphnis nerii
+702,鳞翅目_天蛾科_白腰天蛾属_夹竹桃天蛾#幼虫,
+703,鳞翅目_天蛾科_白腰天蛾属_茜草白腰天蛾,Daphnis hypothous
+704,鳞翅目_天蛾科_目天蛾属_杨目天蛾,Smerinthus caecus
+705,鳞翅目_天蛾科_目天蛾属_蓝目天蛾,Smerinthus planus
+706,鳞翅目_天蛾科_盾天蛾属,Phyllosphingia
+707,鳞翅目_天蛾科_红天蛾,Deilephila elpenor
+708,鳞翅目_天蛾科_绒绿天蛾,Angonyx testacea
+709,鳞翅目_天蛾科_缺角天蛾属_台湾缺角天蛾,Acosmeryx formosana
+710,鳞翅目_天蛾科_缺角天蛾属_缺角天蛾,Acosmeryx castanea
+711,鳞翅目_天蛾科_缺角天蛾属_葡萄缺角天蛾,Acosmeryx naga
+712,鳞翅目_天蛾科_缺角天蛾属_黄点缺角天蛾,Acosmeryx miskini
+713,鳞翅目_天蛾科_背天蛾属_平背天蛾,Cechenena minor
+714,鳞翅目_天蛾科_背天蛾属_条背天蛾,Cechenena lineosa
+715,鳞翅目_天蛾科_背天蛾属_绿条背天蛾,Cechenena subangustata
+716,鳞翅目_天蛾科_芒果天蛾,Amplypterus panopus
+717,鳞翅目_天蛾科_葡萄天蛾,Ampelophaga rubiginosa
+718,鳞翅目_天蛾科_豆天蛾属,Clanis
+719,鳞翅目_天蛾科_透翅天蛾属_咖啡透翅天蛾,
+720,鳞翅目_天蛾科_银纹天蛾属_银纹天蛾,Nephele hespera
+721,鳞翅目_天蛾科_锯翅天蛾属,
+722,鳞翅目_天蛾科_长喙天蛾属,
+723,鳞翅目_天蛾科_霜天蛾属_丁香天蛾,Psilogramma increta
+724,鳞翅目_天蛾科_霜天蛾属_霜天蛾,Psilogramma menephron
+725,鳞翅目_天蛾科_鬼脸天蛾属_芝麻鬼脸天蛾,Acherontia styx
+726,鳞翅目_天蛾科_鬼脸天蛾属_赭带鬼脸天蛾,Acherontia atropos
+727,鳞翅目_天蛾科_鬼脸天蛾属_赭带鬼脸天蛾#幼虫,
+728,鳞翅目_天蛾科_鬼脸天蛾属_鬼脸天蛾,Acherontia lachesis
+729,鳞翅目_天蛾科_鬼脸天蛾属_鬼脸天蛾#幼虫和蛹,
+730,鳞翅目_天蛾科_鹰翅天蛾属,
+731,鳞翅目_天蛾科_黑边天蛾属,
+732,鳞翅目_尖蛾科_橙红离尖蛾,Labdia semicoccinea
+733,鳞翅目_尺蛾科,Geometridae
+734,鳞翅目_尺蛾科_三线沙尺蛾,Sarcinodes aequilinearia
+735,鳞翅目_尺蛾科_丝棉木金星尺蛾,Abraxas suspecta
+736,鳞翅目_尺蛾科_中国虎尺蛾,Xanthabraxas hemionata
+737,鳞翅目_尺蛾科_丸尺蛾属,Plutodes
+738,鳞翅目_尺蛾科_丸尺蛾属_丸尺蛾,Plutodes flavescens
+739,鳞翅目_尺蛾科_丸尺蛾属_带丸尺蛾,Plutodes exquisita
+740,鳞翅目_尺蛾科_丸尺蛾属_黄缘丸尺蛾,Plutodes costatus
+741,鳞翅目_尺蛾科_亚枯叶尺蛾,Gandaritis fixseni
+742,鳞翅目_尺蛾科_伪钩镰翅绿尺蛾,Tanaorhinus viridiluteata
+743,鳞翅目_尺蛾科_刺尾尺蛾,Semiothisa emersaria
+744,鳞翅目_尺蛾科_双斜线尺蛾,Megaspilates mundataria
+745,鳞翅目_尺蛾科_双目白姬尺蛾,Problepsis albidior
+746,鳞翅目_尺蛾科_双线新青尺蛾,Neohipparchus vallata
+747,鳞翅目_尺蛾科_四眼绿尺蛾,Chlorodontopera discospilata
+748,鳞翅目_尺蛾科_基黄粉尺蛾,Pingasa ruginaria
+749,鳞翅目_尺蛾科_女贞尺蛾,Naxa seriaria
+750,鳞翅目_尺蛾科_宽带峰尺蛾,Dindica polyphaenaria
+751,鳞翅目_尺蛾科_小红姬尺蛾,Idaea muricata
+752,鳞翅目_尺蛾科_尘尺蛾,Hypomecis punctinalis
+753,鳞翅目_尺蛾科_尾尺蛾属_接骨木尾尺蛾,Ourapteryx sambucaria
+754,鳞翅目_尺蛾科_尾尺蛾属_点尾尺蛾,Ourapteryx nigrociliaris
+755,鳞翅目_尺蛾科_尾尺蛾属_雪尾尺蛾,Ourapteryx nivea
+756,鳞翅目_尺蛾科_折玉臂尺蛾,Xandrames latiferaria
+757,鳞翅目_尺蛾科_斧木纹尺蛾,Plagodis dolabraria
+758,鳞翅目_尺蛾科_星缘锈腰尺蛾,Hemithea tritonaria
+759,鳞翅目_尺蛾科_柿星尺蛾,Percnia giraffata
+760,鳞翅目_尺蛾科_柿星尺蛾#幼虫,
+761,鳞翅目_尺蛾科_树形尺蛾,Erebomorpha fulguraria
+762,鳞翅目_尺蛾科_核桃四星尺蛾,Ophthalmitis albosignaria
+763,鳞翅目_尺蛾科_格蔗尺蛾,Chiasmia hebesata
+764,鳞翅目_尺蛾科_桑褶翅尺蛾,Apochima excavata
+765,鳞翅目_尺蛾科_桑褶翅尺蛾#幼虫,
+766,鳞翅目_尺蛾科_榛金星尺蛾,Abraxas sylvata
+767,鳞翅目_尺蛾科_樟翠尺蛾属_樟翠尺蛾,Pelagodes antiquadraria
+768,鳞翅目_尺蛾科_樱桃薄尺蛾,Inurois membranaria
+769,鳞翅目_尺蛾科_橄榄绿尾尺蛾,Chiasmia defixaria
+770,鳞翅目_尺蛾科_油茶尺蛾,Biston marginata
+771,鳞翅目_尺蛾科_泉丝尺蛾,Uliocnemis castalaria
+772,鳞翅目_尺蛾科_泼墨尺蛾,Ninodes splendens
+773,鳞翅目_尺蛾科_淡黄突峰尺蛾,Biston perclara
+774,鳞翅目_尺蛾科_清波皎尺蛾,Myrteta tinagmaria
+775,鳞翅目_尺蛾科_焦斑叉线青尺蛾,Tanaoctenia haliaria
+776,鳞翅目_尺蛾科_焦边尺蛾,Bizia aexaria
+777,鳞翅目_尺蛾科_环缘奄尺蛾,Stegania cararia
+778,鳞翅目_尺蛾科_瑞秋尺蛾,Operophtera relegata
+779,鳞翅目_尺蛾科_璃尺蛾属_三角璃尺蛾,Krananda latimarginaria
+780,鳞翅目_尺蛾科_璃尺蛾属_玻璃尺蛾,Krananda semihyalina
+781,鳞翅目_尺蛾科_璃尺蛾属_琉璃尺蛾,Krananda lucidaria
+782,鳞翅目_尺蛾科_白珠鲁尺蛾,Amblychia angeronaria
+783,鳞翅目_尺蛾科_眼尺蛾属,Problepsis
+784,鳞翅目_尺蛾科_眼尺蛾属_平眼尺蛾,Problepsis vulgaris
+785,鳞翅目_尺蛾科_眼尺蛾属_猫眼尺蛾,Problepsis superans
+786,鳞翅目_尺蛾科_穿孔尺蛾属,Corymica
+787,鳞翅目_尺蛾科_紫带姬尺蛾,Idaea impexa
+788,鳞翅目_尺蛾科_紫片尺蛾,Fascellina chromataria
+789,鳞翅目_尺蛾科_紫片尺蛾#幼虫,
+790,鳞翅目_尺蛾科_线尺蛾属_分紫线尺蛾,Timandra dichela
+791,鳞翅目_尺蛾科_线尺蛾属_同紫线尺蛾,Timandra convectaria
+792,鳞翅目_尺蛾科_线尺蛾属_拟黄缘线尺蛾,Timandra synthaca
+793,鳞翅目_尺蛾科_线尺蛾属_曲紫线尺蛾,Timandra comptaria
+794,鳞翅目_尺蛾科_绿尺蛾属,Comibaena
+795,鳞翅目_尺蛾科_绿尺蛾属_云纹绿尺蛾,Comibaena pictipennis
+796,鳞翅目_尺蛾科_绿尺蛾属_亚四目绿尺蛾,Comostola subtiliaria
+797,鳞翅目_尺蛾科_绿尺蛾属_紫斑绿尺蛾,Comibaena nigromacularia
+798,鳞翅目_尺蛾科_绿尺蛾属_肾纹绿尺蛾,Comibaena procumbaria
+799,鳞翅目_尺蛾科_绿缺口尺蛾(灰绿片尺蛾),Fascellina plagiata
+800,鳞翅目_尺蛾科_绿蚀尺蛾,Hypochrosis hyadaria
+801,鳞翅目_尺蛾科_缺口姬尺蛾,Gnamptoloma aventiaria
+802,鳞翅目_尺蛾科_缺口姬尺蛾#幼虫,
+803,鳞翅目_尺蛾科_缺口青尺蛾,Timandromorpha discolor
+804,鳞翅目_尺蛾科_艳青尺蛾属,Agathia
+805,鳞翅目_尺蛾科_艳青尺蛾属_夹竹桃艳青尺蛾,Agathia lycaenaria
+806,鳞翅目_尺蛾科_艳青尺蛾属_平艳青尺蛾,Agathia hilarata
+807,鳞翅目_尺蛾科_艳青尺蛾属_歪纹艳青尺蛾,Agathia laetata
+808,鳞翅目_尺蛾科_艳青尺蛾属_萝藦艳青尺蛾,Agathia carissima
+809,鳞翅目_尺蛾科_蓝尺蛾属_橙带蓝尺蛾,Milionia basalis
+810,鳞翅目_尺蛾科_蜻蜓尺蛾属,Cystidia
+811,鳞翅目_尺蛾科_褐斑黄普尺蛾,Pseudomiza aurata
+812,鳞翅目_尺蛾科_豹尺蛾,Dysphania militaris
+813,鳞翅目_尺蛾科_豹纹尺蛾属_大斑豹纹尺蛾(虎纹长翅尺蛾),Obeidia tigrata
+814,鳞翅目_尺蛾科_豹纹尺蛾属_巨豹纹尺蛾,Obeidia gigantearia
+815,鳞翅目_尺蛾科_豹纹尺蛾属_撒旦豹纹尺蛾,Obeidia lucifera
+816,鳞翅目_尺蛾科_辐射尺蛾属,Iotaphora
+817,鳞翅目_尺蛾科_金叉俭尺蛾,Spilopera divaricata
+818,鳞翅目_尺蛾科_金头紫沙尺蛾,Plesiomorpha flaviceps
+819,鳞翅目_尺蛾科_金头紫沙尺蛾#幼虫,
+820,鳞翅目_尺蛾科_金带霓虹尺蛾,Acolutha pulchella subsp. semifulva
+821,鳞翅目_尺蛾科_钩镰翅绿尺蛾,Tanaorhinus rafflesii
+822,鳞翅目_尺蛾科_铃隐尺蛾,Heterolocha aristonaria
+823,鳞翅目_尺蛾科_锯褐缘黄尺蛾,Auaxa cesadaria
+824,鳞翅目_尺蛾科_镰翅绿尺蛾,Tanaorhinus reciprocata
+825,鳞翅目_尺蛾科_阿里山夕尺蛾,Sibatania arizana
+826,鳞翅目_尺蛾科_顶斑内弧尺蛾,Heterolocha coccinea
+827,鳞翅目_尺蛾科_魑尺蛾(透斑钩角尺蛾),Garaeus specularis
+828,鳞翅目_尺蛾科_鹰三角尺蛾,Zanclopera falcata
+829,鳞翅目_尺蛾科_鹰尺蛾属_木橑尺蛾,Biston panterinaria
+830,鳞翅目_尺蛾科_黄缘霞尺蛾,Nothomiza flavicosta
+831,鳞翅目_尺蛾科_黄缘霞尺蛾#幼虫,
+832,鳞翅目_尺蛾科_黄蝶尺蛾属_黄蝶尺蛾,Thinopteryx crocoptera
+833,鳞翅目_尺蛾科_黄蟠尺蛾,Eilicrinia flava
+834,鳞翅目_尺蛾科_黄钩尺蛾,Hyposidra infixaria
+835,鳞翅目_巢蛾科,Yponomeutidae
+836,鳞翅目_弄蝶科,Hesperiidae
+837,鳞翅目_弄蝶科_伞弄蝶属_白伞弄蝶,Burara gomata
+838,鳞翅目_弄蝶科_姜弄蝶属_姜弄蝶,Udaspes folus
+839,鳞翅目_弄蝶科_尖翅弄蝶属_尖翅弄蝶,Badamia exclamationis
+840,鳞翅目_弄蝶科_旖弄蝶属_旖弄蝶,Isoteinon lamprospilus
+841,鳞翅目_弄蝶科_星弄蝶属_斑星弄蝶,Celaenorrhinus maculosus
+842,鳞翅目_弄蝶科_毛脉弄蝶属_毛脉弄蝶,Mooreana trichoneura
+843,鳞翅目_弄蝶科_玛弄蝶属_玛弄蝶,Matapa aria
+844,鳞翅目_弄蝶科_珠弄蝶属_深山珠弄蝶,Erynnis montanus
+845,鳞翅目_弄蝶科_珠弄蝶属_珠弄蝶,Erynnis tages
+846,鳞翅目_弄蝶科_瑟弄蝶属_锦瑟弄蝶,Seseria dohertyi
+847,鳞翅目_弄蝶科_白弄蝶属_白弄蝶,Abraximorpha davidii
+848,鳞翅目_弄蝶科_稻弄蝶属_么纹稻弄蝶,Parnara naso
+849,鳞翅目_弄蝶科_稻弄蝶属_曲纹稻弄蝶,Parnara ganga
+850,鳞翅目_弄蝶科_稻弄蝶属_直纹稻弄蝶,Parnara guttata
+851,鳞翅目_弄蝶科_绿弄蝶属_绿弄蝶&半黄绿弄蝶,
+852,鳞翅目_弄蝶科_腌翅弄蝶属_腌翅弄蝶,Astictopterus jama
+853,鳞翅目_弄蝶科_蕉弄蝶属_黄斑蕉弄蝶,Erionota torus
+854,鳞翅目_弄蝶科_袖弄蝶属_曲纹袖弄蝶,Notocrypta curvifascia
+855,鳞翅目_弄蝶科_裙弄蝶属_沾边裙弄蝶,Tagiades litigiosa
+856,鳞翅目_弄蝶科_裙弄蝶属_黑边裙弄蝶,Tagiades menaka
+857,鳞翅目_弄蝶科_襟弄蝶属_黄襟弄蝶,Pseudocoladenia dan
+858,鳞翅目_弄蝶科_角翅弄蝶属_角翅弄蝶,Odontoptilum angulatum
+859,鳞翅目_弄蝶科_谷弄蝶属,Pelopidas
+860,鳞翅目_弄蝶科_趾弄蝶属_三斑趾弄蝶,Hasora badra
+861,鳞翅目_弄蝶科_趾弄蝶属_无趾弄蝶,Hasora anura
+862,鳞翅目_弄蝶科_趾弄蝶属_纬带趾弄蝶,Hasora vitta
+863,鳞翅目_弄蝶科_钩弄蝶属_黑色钩弄蝶,Ancistroides nigrita
+864,鳞翅目_弄蝶科_雅弄蝶属_雅弄蝶,Iambrix salsala
+865,鳞翅目_弄蝶科_黄室弄蝶属,Potanthus
+866,鳞翅目_弄蝶科_黄斑弄蝶属_钩形黄斑弄蝶,Ampittia virgata
+867,鳞翅目_弄蝶科_黑弄蝶属_黑弄蝶,Daimio tethys
+868,鳞翅目_斑蛾科,Zygaenidae
+869,鳞翅目_斑蛾科_双带透翅锦斑蛾(云南锦斑蛾),
+870,鳞翅目_斑蛾科_双星锦斑蛾(华庆锦斑蛾),Erasmia pulchella
+871,鳞翅目_斑蛾科_双星锦斑蛾(华庆锦斑蛾)#幼虫,
+872,鳞翅目_斑蛾科_带锦斑蛾属_野茶带锦斑蛾,Pidorus glaucopis
+873,鳞翅目_斑蛾科_旭锦斑蛾属,Campylotes
+874,鳞翅目_斑蛾科_朱红毛斑蛾(黑端榕蛾),Phauda flammans
+875,鳞翅目_斑蛾科_朱红毛斑蛾(黑端榕蛾)#幼虫,
+876,鳞翅目_斑蛾科_李拖尾锦斑蛾,Elcysma westwoodi
+877,鳞翅目_斑蛾科_条纹小斑蛾,Thyrassia penangae
+878,鳞翅目_斑蛾科_条纹小斑蛾#幼虫,
+879,鳞翅目_斑蛾科_禾斑蛾属_海南禾斑蛾,Artona hainana
+880,鳞翅目_斑蛾科_网锦斑蛾,Trypanophora semihyalina
+881,鳞翅目_斑蛾科_网锦斑蛾#幼虫,
+882,鳞翅目_斑蛾科_脉锦斑蛾属_茶柄脉锦斑蛾(茶树茶斑蛾),Eterusia aedea
+883,鳞翅目_斑蛾科_脉锦斑蛾属_茶柄脉锦斑蛾(茶树茶斑蛾)#幼虫,
+884,鳞翅目_斑蛾科_蓝宝烂斑蛾,Clelea sapphirina
+885,鳞翅目_斑蛾科_蓝紫锦斑蛾,Cyclosia midama
+886,鳞翅目_斑蛾科_蝶形锦斑蛾,Cyclosia papilionaris
+887,鳞翅目_斑蛾科_蝶形锦斑蛾#幼虫,
+888,鳞翅目_斑蛾科_豹点锦斑蛾,Cyclosia panthona
+889,鳞翅目_斑蛾科_重阳木锦斑蛾,Histia rhodope
+890,鳞翅目_斑蛾科_黑心赤眉锦斑蛾,Rhodopsona rubiginosa
+891,鳞翅目_斑蝶科_帛斑蝶属_大帛斑蝶,Idea leuconoe
+892,鳞翅目_斑蝶科_斑蝶属_虎斑蝶,Danaus genutia
+893,鳞翅目_斑蝶科_斑蝶属_金斑蝶,Danaus chrysippus
+894,鳞翅目_斑蝶科_斑蝶属_金斑蝶#幼虫,
+895,鳞翅目_斑蝶科_斑蝶属_黑脉金斑蝶,Danaus plexippus
+896,鳞翅目_斑蝶科_旖斑蝶属_拟旖斑蝶,Ideopsis similis
+897,鳞翅目_斑蝶科_旖斑蝶属_旖斑蝶,Ideopsis vulgaris
+898,鳞翅目_斑蝶科_紫斑蝶属,Euploea
+899,鳞翅目_斑蝶科_紫斑蝶属_双标紫斑蝶,Euploea sylvester
+900,鳞翅目_斑蝶科_紫斑蝶属_小紫斑蝶,Euploea tulliolus
+901,鳞翅目_斑蝶科_紫斑蝶属_幻紫斑蝶,Euploea core
+902,鳞翅目_斑蝶科_紫斑蝶属_异型紫斑蝶,Euploea mulciber
+903,鳞翅目_斑蝶科_紫斑蝶属_蓝点紫斑蝶,Euploea midamus
+904,鳞翅目_斑蝶科_绢斑蝶属,Parantica
+905,鳞翅目_斑蝶科_绢斑蝶属_大绢斑蝶,Parantica sita
+906,鳞翅目_斑蝶科_绢斑蝶属_绢斑蝶,Parantica aglea
+907,鳞翅目_斑蝶科_绢斑蝶属_黑绢斑蝶,Parantica melanea
+908,鳞翅目_斑蝶科_青斑蝶属_啬青斑蝶,Tirumala septentrionis
+909,鳞翅目_斑蝶科_青斑蝶属_青斑蝶,Tirumala limniace
+910,鳞翅目_木蠹蛾科,Cossidae
+911,鳞翅目_木蠹蛾科_豹蠹蛾属_咖啡豹蠹蛾,Zeuzera coffeae
+912,鳞翅目_木蠹蛾科_豹蠹蛾属_大斑点豹蠹蛾,Zeuzera multistrigata
+913,鳞翅目_木蠹蛾科_豹蠹蛾属_梨豹蠹蛾,Zeuzera pyrina
+914,鳞翅目_枯叶蛾科,Lasiocampidae
+915,鳞翅目_枯叶蛾科_栎黄枯叶蛾,Trabala vishnou
+916,鳞翅目_枯叶蛾科_栎黄枯叶蛾#幼虫,
+917,鳞翅目_枯叶蛾科_竹黄枯叶蛾,Euthrix laeta
+918,鳞翅目_毒蛾科,Lymantriidae
+919,鳞翅目_毒蛾科_古毒蛾属_棉古毒蛾,Orgyia postica
+920,鳞翅目_毒蛾科_古毒蛾属_棉古毒蛾#幼虫,
+921,鳞翅目_毒蛾科_无忧花丽毒蛾,Calliteara horsfieldii
+922,鳞翅目_毒蛾科_毒蛾属_栎毒蛾,Lymantria mathura
+923,鳞翅目_毒蛾科_毒蛾属_栎毒蛾,Lymantria mathura#幼虫
+924,鳞翅目_毒蛾科_毒蛾属_络毒蛾,Lymantria concolor
+925,鳞翅目_毒蛾科_毒蛾属_舞毒蛾,Lymantria dispar
+926,鳞翅目_毒蛾科_毒蛾属_芒果毒蛾,Lymantria marginata
+927,鳞翅目_毒蛾科_白毒蛾属_白毒蛾,Arctornis l-nigrum
+928,鳞翅目_波纹蛾科_大斑波纹蛾,Thyatira batis
+929,鳞翅目_灯蛾科,Arctiidae
+930,鳞翅目_灯蛾科_乳白斑灯蛾,Areas galactina
+931,鳞翅目_灯蛾科_亚圆拟灯蛾,Peridrome subfascia
+932,鳞翅目_灯蛾科_台放射雅苔蛾,Ammatho tairadiata
+933,鳞翅目_灯蛾科_圆拟灯蛾,Peridrome orbicularis
+934,鳞翅目_灯蛾科_土苔蛾属_缘点土苔蛾,Eilema costipuncta
+935,鳞翅目_灯蛾科_地苔蛾属_冉地苔蛾,Nudaria ranruna
+936,鳞翅目_灯蛾科_大丽灯蛾属_大丽灯蛾,Aglaomorpha histrio
+937,鳞翅目_灯蛾科_拟三色星灯蛾,Utetheisa lotrix
+938,鳞翅目_灯蛾科_斑灯蛾,Pericallia matronula
+939,鳞翅目_灯蛾科_方斑拟灯蛾,Asota plaginota
+940,鳞翅目_灯蛾科_星白雪灯蛾(黄腹斑灯蛾),Spilosoma lubricipeda
+941,鳞翅目_灯蛾科_榕拟灯蛾,Asota ficus
+942,鳞翅目_灯蛾科_橙拟灯蛾,Asota egens
+943,鳞翅目_灯蛾科_灯蛾属_砌石灯蛾,Arctia flavia
+944,鳞翅目_灯蛾科_灯蛾属_豹灯蛾,Arctia caja
+945,鳞翅目_灯蛾科_灰灯蛾属_八点灰灯蛾,Creatonotus transiens
+946,鳞翅目_灯蛾科_灰灯蛾属_黑条灰灯蛾,Creatonotos gangis
+947,鳞翅目_灯蛾科_灰褐苔蛾,Stictane rectilinea
+948,鳞翅目_灯蛾科_点浑黄灯蛾,Rhyparioides metelkana
+949,鳞翅目_灯蛾科_痣苔蛾属_掌痣苔蛾,Stigmatophora palmata
+950,鳞翅目_灯蛾科_红缘灯蛾,Aloa lactinea
+951,鳞翅目_灯蛾科_红腹白灯蛾(人纹污灯蛾),Spilosoma subcarnea
+952,鳞翅目_灯蛾科_红腹白灯蛾(人纹污灯蛾)#幼虫,
+953,鳞翅目_灯蛾科_红裳灯蛾,Tyria jacobaeae
+954,鳞翅目_灯蛾科_红裳灯蛾#幼虫,
+955,鳞翅目_灯蛾科_网苔蛾属_巨网苔蛾,Macrobrochis gigas
+956,鳞翅目_灯蛾科_美苔蛾属,Miltochrista
+957,鳞翅目_灯蛾科_美苔蛾属_之美苔蛾,Miltochrista ziczac
+958,鳞翅目_灯蛾科_美苔蛾属_优美苔蛾&东方美苔蛾,
+959,鳞翅目_灯蛾科_美苔蛾属_俏美苔蛾,Miltochrista convexa
+960,鳞翅目_灯蛾科_美苔蛾属_灰黑美苔蛾,Miltochrista fuscozonata
+961,鳞翅目_灯蛾科_美苔蛾属_美苔蛾,Miltochrista miniata
+962,鳞翅目_灯蛾科_膨图苔蛾,Teulisna tumida
+963,鳞翅目_灯蛾科_良苔蛾属_灰良苔蛾(双点良苔蛾),Eugoa grisea
+964,鳞翅目_灯蛾科_苔蛾亚科,
+965,鳞翅目_灯蛾科_蝶灯蛾属_粉蝶灯蛾,Nyctemera adversata
+966,鳞翅目_灯蛾科_铅拟灯蛾,Euplocia membliaria
+967,鳞翅目_灯蛾科_闪光玫灯蛾,Amerila astreus
+968,鳞翅目_灯蛾科_闪拟灯蛾,Neochera dominia
+969,鳞翅目_灯蛾科_闪网苔蛾属_乌闪网苔蛾,Paraona staudingeri
+970,鳞翅目_灯蛾科_雪苔蛾属,Cyana
+971,鳞翅目_灯蛾科_雪苔蛾属_优雪苔蛾(二斑叉纹苔蛾),Cyana hamata
+972,鳞翅目_灯蛾科_雪苔蛾属_普雪苔蛾,Cyana propinqua
+973,鳞翅目_灯蛾科_黑须污灯蛾,Spilosoma taiwanensis
+974,鳞翅目_灰蝶科,Lycaenidae
+975,鳞翅目_灰蝶科_三滴灰蝶属_三滴灰蝶,Ticherra acte
+976,鳞翅目_灰蝶科_丫灰蝶属_丫灰蝶,Amblopala_avidiena
+977,鳞翅目_灰蝶科_云灰蝶属_中华云灰蝶,Miletus_chinensis
+978,鳞翅目_灰蝶科_亮灰蝶属_亮灰蝶,Lampides boeticus
+979,鳞翅目_灰蝶科_克灰蝶属_克灰蝶,Creon cleobis
+980,鳞翅目_灰蝶科_娆灰蝶属_小娆灰蝶,Arhopala paramuta
+981,鳞翅目_灰蝶科_娆灰蝶属_百娆灰蝶,Arhopala bazala
+982,鳞翅目_灰蝶科_娆灰蝶属_齿翅娆灰蝶,Arhopala rama
+983,鳞翅目_灰蝶科_婀灰蝶属_婀灰蝶,Plebejus orbitulus
+984,鳞翅目_灰蝶科_安灰蝶属_白衬安灰蝶,Ancema blanka
+985,鳞翅目_灰蝶科_异灰蝶属_铁木莱异灰蝶,Iraota timoleon
+986,鳞翅目_灰蝶科_彩灰蝶属,Heliophorus
+987,鳞翅目_灰蝶科_彩灰蝶属_古铜彩灰蝶,Heliophorus brahma
+988,鳞翅目_灰蝶科_彩灰蝶属_斜斑彩灰蝶,Heliophorus phoenicoparyphus
+989,鳞翅目_灰蝶科_彩灰蝶属_浓紫彩灰蝶,Heliophorus ila
+990,鳞翅目_灰蝶科_彩灰蝶属_莎菲彩灰蝶,heliophorus saphir
+991,鳞翅目_灰蝶科_斑灰蝶属_斑灰蝶,Horaga onyx
+992,鳞翅目_灰蝶科_斑灰蝶属_白斑灰蝶,Horaga albimacula
+993,鳞翅目_灰蝶科_桠灰蝶属_三点桠灰蝶,Yasoda tripunctata
+994,鳞翅目_灰蝶科_灰蝶属_橙灰蝶,Lycaena dispar
+995,鳞翅目_灰蝶科_灰蝶属_红灰蝶,Lycaena phlaeas
+996,鳞翅目_灰蝶科_燕灰蝶属,Rapala
+997,鳞翅目_灰蝶科_燕灰蝶属_点染燕灰蝶,Rapala suffusa
+998,鳞翅目_灰蝶科_燕灰蝶属_霓纱燕灰蝶,Rapala nissa
+999,鳞翅目_灰蝶科_玄灰蝶属_波太玄灰蝶,Tongeia potanini
+1000,鳞翅目_灰蝶科_玄灰蝶属_点玄灰蝶,Tongeia filicaudis
+1001,鳞翅目_灰蝶科_玛灰蝶属_玛灰蝶,Mahathala ameria
+1002,鳞翅目_灰蝶科_珍灰蝶属_珍灰蝶,Zeltus amasa
+1003,鳞翅目_灰蝶科_琉璃灰蝶属_琉璃灰蝶,Celastrina argiolus
+1004,鳞翅目_灰蝶科_紫灰蝶属_曲纹紫灰蝶,Chilades pandava
+1005,鳞翅目_灰蝶科_绿灰蝶属_绿灰蝶,Artipe eryx
+1006,鳞翅目_灰蝶科_莱灰蝶属_莱灰蝶,Remelana jangala
+1007,鳞翅目_灰蝶科_蓝灰蝶属_蓝灰蝶,Everes argiades
+1008,鳞翅目_灰蝶科_蚜灰蝶属_蚜灰蝶,Taraka hamada
+1009,鳞翅目_灰蝶科_赭灰蝶属_赭灰蝶,Ussuriana michaelis
+1010,鳞翅目_灰蝶科_酢浆灰蝶属_酢浆灰蝶,Pseudozizeeria maha
+1011,鳞翅目_灰蝶科_钮灰蝶属_钮灰蝶,Acytolepis puspa
+1012,鳞翅目_灰蝶科_铁灰蝶属_阿里山铁灰蝶,
+1013,鳞翅目_灰蝶科_银灰蝶属_尖翅银灰蝶,Curetis acuta
+1014,鳞翅目_灰蝶科_银线灰蝶属,Spindasis
+1015,鳞翅目_灰蝶科_银线灰蝶属_豆粒银线灰蝶,Spindasis syama
+1016,鳞翅目_灰蝶科_锉灰蝶属_德锉灰蝶,Allotinus_drumila
+1017,鳞翅目_灰蝶科_锷弄蝶属_侏儒锷弄蝶,Aeromachus pygmaeus
+1018,鳞翅目_灰蝶科_锷弄蝶属_河伯锷弄蝶,Aeromachus inachus
+1019,鳞翅目_灰蝶科_长腹灰蝶属_长腹灰蝶,Zizula hylax
+1020,鳞翅目_灰蝶科_雅灰蝶属_素雅灰蝶,Jamides alecto
+1021,鳞翅目_灰蝶科_雅灰蝶属_锡冷雅灰蝶,Jamides celeno
+1022,鳞翅目_灰蝶科_雅灰蝶属_雅灰蝶,Jamides bochus
+1023,鳞翅目_灰蝶科_饰弄蝶属_黄饰弄蝶,Spialia galba
+1024,鳞翅目_灰蝶科_鹿灰蝶属_鹿灰蝶,Loxura atymnus
+1025,鳞翅目_灰蝶科_黑灰蝶属_黑灰蝶,Niphanda fusca
+1026,鳞翅目_燕蛾科_大燕蛾,Lyssa zampa
+1027,鳞翅目_燕蛾科_微点燕蛾,Acropteris leptaliata
+1028,鳞翅目_燕蛾科_斜线燕蛾,Acropteris iphiata
+1029,鳞翅目_燕蛾科_暗带双尾蛾,Warreniplema fumicosta
+1030,鳞翅目_燕蛾科_月亮燕蛾,Urania leilus
+1031,鳞翅目_燕蛾科_马达加斯加日落蛾,Chrysiridia rhipheus
+1032,鳞翅目_环蝶科,Amathusiidae
+1033,鳞翅目_环蝶科_串珠环蝶属_串珠环蝶,Faunis eumeus
+1034,鳞翅目_环蝶科_串珠环蝶属_褐串珠环蝶,Faunis canens
+1035,鳞翅目_环蝶科_方环蝶属_凤眼方环蝶,Discophora sondaica
+1036,鳞翅目_环蝶科_箭环蝶属_箭环蝶,Stichophthalma howqua
+1037,鳞翅目_环蝶科_纹环蝶属_纹环蝶,Aemona amathusia
+1038,鳞翅目_珍蝶科_珍蝶属_斑珍蝶,Acraea violae
+1039,鳞翅目_珍蝶科_珍蝶属_斑珍蝶2,Acraea terpsicore
+1040,鳞翅目_珍蝶科_珍蝶属_苎麻珍蝶,Acraea issoria
+1041,鳞翅目_珍蝶科_珍蝶属_苎麻珍蝶#幼虫和蛹,
+1042,鳞翅目_瘤蛾科_内黄血斑瘤蛾,Siglophora sanguinolenta
+1043,鳞翅目_瘤蛾科_圆俊瘤蛾,Westermannia elliptica
+1044,鳞翅目_瘤蛾科_柿癣皮夜蛾,Blenina senex
+1045,鳞翅目_眼蝶科,Satyridae
+1046,鳞翅目_眼蝶科_斑丽眼蝶属_蓝斑丽眼蝶,Mandarinia regalis
+1047,鳞翅目_眼蝶科_斑眼蝶属_台湾斑眼蝶,Penthema formosanum
+1048,鳞翅目_眼蝶科_斑眼蝶属_彩裳斑眼蝶,Penthema darlisa
+1049,鳞翅目_眼蝶科_斑眼蝶属_白斑眼蝶,Penthema adelma
+1050,鳞翅目_眼蝶科_暮眼蝶属_暮眼蝶,Melanitis leda
+1051,鳞翅目_眼蝶科_暮眼蝶属_睇暮眼蝶,Melanitis phedima
+1052,鳞翅目_眼蝶科_珍眼蝶属_牧女珍眼蝶,Coenonympha amaryllis
+1053,鳞翅目_眼蝶科_白眼蝶属,Melanargia
+1054,鳞翅目_眼蝶科_白眼蝶属_大理石条纹粉蝶,Melanargia galathea
+1055,鳞翅目_眼蝶科_眉眼蝶属,Mycalesis
+1056,鳞翅目_眼蝶科_眉眼蝶属_中介眉眼蝶,Mycalesis intermedia
+1057,鳞翅目_眼蝶科_眉眼蝶属_小眉眼蝶,Mycalesis mineus
+1058,鳞翅目_眼蝶科_眉眼蝶属_稻眉眼蝶,Mycalesis gotama
+1059,鳞翅目_眼蝶科_眉眼蝶属_裴斯眉眼蝶,Mycalesis perseus
+1060,鳞翅目_眼蝶科_矍眼蝶属,Ypthima
+1061,鳞翅目_眼蝶科_矍眼蝶属_前雾矍眼蝶,Ypthima praenubila
+1062,鳞翅目_眼蝶科_矍眼蝶属_矍眼蝶,Ypthima baldus
+1063,鳞翅目_眼蝶科_艳眼蝶属,Callerebia
+1064,鳞翅目_眼蝶科_荫眼蝶属,Neope
+1065,鳞翅目_眼蝶科_荫眼蝶属_蒙链荫眼蝶,Neope muirheadi
+1066,鳞翅目_眼蝶科_荫眼蝶属_黄斑荫眼蝶,Neope pulaha
+1067,鳞翅目_眼蝶科_锯眼蝶属_翠袖锯眼蝶,Elymnias hypermnestra
+1068,鳞翅目_眼蝶科_黛眼蝶属,Lethe
+1069,鳞翅目_眼蝶科_黛眼蝶属_三楔黛眼蝶,Lethe mekara
+1070,鳞翅目_眼蝶科_黛眼蝶属_孪斑黛眼蝶,Lethe gemina
+1071,鳞翅目_眼蝶科_黛眼蝶属_尖尾黛眼蝶,Lethe sinorix
+1072,鳞翅目_眼蝶科_黛眼蝶属_曲纹黛眼蝶,Lethe chandica
+1073,鳞翅目_眼蝶科_黛眼蝶属_白带黛眼蝶,Lethe confusa
+1074,鳞翅目_眼蝶科_黛眼蝶属_直带黛眼蝶,Lethe lanaris
+1075,鳞翅目_眼蝶科_黛眼蝶属_连纹黛眼蝶,Lethe syrcis
+1076,鳞翅目_箩纹蛾科,Brahmaeidae
+1077,鳞翅目_箩纹蛾科_褐箩纹蛾属_枯球箩纹蛾,Brahmaea wallichii
+1078,鳞翅目_箩纹蛾科_褐箩纹蛾属_紫光箩纹蛾,Brahmaea porphyrio
+1079,鳞翅目_箩纹蛾科_褐箩纹蛾属_青球箩纹蛾,Brahmaea hearseyi
+1080,鳞翅目_箩纹蛾科_褐箩纹蛾属_黄褐箩纹蛾,Brahmaea certhia
+1081,鳞翅目_粉蝶科,Pieridae
+1082,鳞翅目_粉蝶科_云粉蝶属_云粉蝶,Pontia daplidice
+1083,鳞翅目_粉蝶科_小粉蝶属_小粉蝶,Leptidea sinapis
+1084,鳞翅目_粉蝶科_小粉蝶属_突角小粉蝶,Leptidea amurensis
+1085,鳞翅目_粉蝶科_小粉蝶属_莫氏小粉蝶,Leptidea morsei
+1086,鳞翅目_粉蝶科_尖粉蝶属_白翅尖粉蝶,Appias albina
+1087,鳞翅目_粉蝶科_斑粉蝶属_优越斑粉蝶,Delias hyparete
+1088,鳞翅目_粉蝶科_斑粉蝶属_报喜斑粉蝶,Delias pasithoe
+1089,鳞翅目_粉蝶科_斑粉蝶属_红肩斑粉蝶,Delias descombesi
+1090,鳞翅目_粉蝶科_斑粉蝶属_红腋斑粉蝶,Delias acalis
+1091,鳞翅目_粉蝶科_斑粉蝶属_艳妇斑粉蝶,Delias belladonna
+1092,鳞翅目_粉蝶科_方粉蝶属_檀方粉蝶,Dercas verhuelli
+1093,鳞翅目_粉蝶科_橙粉蝶属_橙粉蝶,Ixias pyrene
+1094,鳞翅目_粉蝶科_玕黄粉蝶属_玕黄粉蝶,Gandaca harina
+1095,鳞翅目_粉蝶科_粉蝶属_东方菜粉蝶,Pieris canidia
+1096,鳞翅目_粉蝶科_粉蝶属_暗脉菜粉蝶,Pieris napi
+1097,鳞翅目_粉蝶科_粉蝶属_菜粉蝶,Pieris rapae
+1098,鳞翅目_粉蝶科_粉蝶属_黑纹粉蝶,Pieris melete
+1099,鳞翅目_粉蝶科_纤粉蝶(黑点粉蝶),Leptosia nina
+1100,鳞翅目_粉蝶科_绢粉蝶属,Aporia
+1101,鳞翅目_粉蝶科_绢粉蝶属_完善绢粉蝶,Aporia agathon
+1102,鳞翅目_粉蝶科_绢粉蝶属_绢粉蝶,Aporia crataegi
+1103,鳞翅目_粉蝶科_襟粉蝶属_橙翅襟粉蝶,Anthocharis bambusarum
+1104,鳞翅目_粉蝶科_襟粉蝶属_黄尖襟粉蝶,Anthocharis scolymus
+1105,鳞翅目_粉蝶科_豆粉蝶属_斑缘豆粉蝶,Colias erate
+1106,鳞翅目_粉蝶科_豆粉蝶属_橙黄豆粉蝶,Colias fieldii
+1107,鳞翅目_粉蝶科_豆粉蝶属_豆粉蝶,Colias hyale
+1108,鳞翅目_粉蝶科_豆粉蝶属_黑缘豆粉蝶,Colias palaeno
+1109,鳞翅目_粉蝶科_迁粉蝶属_梨花迁粉蝶,Catopsilia pyranthe
+1110,鳞翅目_粉蝶科_迁粉蝶属_迁粉蝶,Catopsilia pomona
+1111,鳞翅目_粉蝶科_迁粉蝶属_镉黄迁粉蝶,Catopsilia scylla
+1112,鳞翅目_粉蝶科_钩粉蝶属_圆翅钩粉蝶,Gonepteryx amintha
+1113,鳞翅目_粉蝶科_钩粉蝶属_钩粉蝶,Gonepteryx rhamni
+1114,鳞翅目_粉蝶科_青粉蝶属_青粉蝶,Pareronia valeria
+1115,鳞翅目_粉蝶科_鹤顶粉蝶属_鹤顶粉蝶,Hebomoia glaucippe
+1116,鳞翅目_粉蝶科_黄粉蝶属_北黄粉蝶,Eurema mandarina
+1117,鳞翅目_粉蝶科_黄粉蝶属_安迪黄粉蝶,Eurema andersoni
+1118,鳞翅目_粉蝶科_黄粉蝶属_宽边黄粉蝶,Eurema hecabe
+1119,鳞翅目_粉蝶科_黄粉蝶属_尖角黄粉蝶,Eurema laeta
+1120,鳞翅目_粉蝶科_黄粉蝶属_无标黄粉蝶,Eurema brigitta
+1121,鳞翅目_粉蝶科_黄粉蝶属_檗黄粉蝶,Eurema blanda
+1122,鳞翅目_粉蝶科_黑脉园粉蝶属_黑脉园粉蝶,Cepora nerissa
+1123,鳞翅目_绢蝶科_绢蝶属,Parnassius
+1124,鳞翅目_绢蝶科_绢蝶属_冰清绢蝶,Parnassius citrinarius
+1125,鳞翅目_绢蝶科_绢蝶属_小红珠绢蝶,Parnassius nomion
+1126,鳞翅目_绢蝶科_绢蝶属_福布绢蝶,Parnassius phoebus
+1127,鳞翅目_绢蝶科_绢蝶属_阿波罗绢蝶,Parnassius apollo
+1128,鳞翅目_网蛾科,Thyrididae
+1129,鳞翅目_网蛾科_一点斜线网蛾,Striglina scitaria
+1130,鳞翅目_网蛾科_尖尾网蛾,Thyris fenestrella
+1131,鳞翅目_羽蛾科,Pterophoridae
+1132,鳞翅目_舟蛾科,Notodontidae
+1133,鳞翅目_舟蛾科_三线雪舟蛾,Gazalina chrysolopha
+1134,鳞翅目_舟蛾科_二尾舟蛾属_杨二尾舟蛾,Cerura menciana
+1135,鳞翅目_舟蛾科_二尾舟蛾属_黑带二尾舟蛾,Cerura vinula
+1136,鳞翅目_舟蛾科_二尾舟蛾属_黑带二尾舟蛾#幼虫,
+1137,鳞翅目_舟蛾科_亚红胯舟蛾,Syntypistis subgeneris
+1138,鳞翅目_舟蛾科_凹缘黄星舟蛾,Shachihoka formosana
+1139,鳞翅目_舟蛾科_圆纷舟蛾,Formofentonia orbifer
+1140,鳞翅目_舟蛾科_基青舟蛾,Quadricalcarifera viridipicta
+1141,鳞翅目_舟蛾科_掌舟蛾属,Phalera
+1142,鳞翅目_舟蛾科_掌舟蛾属_刺槐掌舟蛾,Phalera grotei
+1143,鳞翅目_舟蛾科_掌舟蛾属_圆掌舟蛾,Phalera bucephala
+1144,鳞翅目_舟蛾科_掌舟蛾属_栎掌舟蛾,Phalera assimilis
+1145,鳞翅目_舟蛾科_掌舟蛾属_苹掌舟蛾,Phalera flavescens
+1146,鳞翅目_舟蛾科_杨剑舟蛾,Pheosia rimosa
+1147,鳞翅目_舟蛾科_白斑胯舟蛾,Syntypistis comatus
+1148,鳞翅目_舟蛾科_纹峭舟蛾,Rachia striata
+1149,鳞翅目_舟蛾科_绚羽齿舟蛾,Ptilodon saturata
+1150,鳞翅目_舟蛾科_美舟蛾属_核桃美舟蛾,Uropyia meticulodina
+1151,鳞翅目_舟蛾科_艳金舟蛾,Spatalia doerriesi
+1152,鳞翅目_舟蛾科_苹蚁舟蛾,Stauropus fagi
+1153,鳞翅目_舟蛾科_褐丸胯舟蛾,Syntypistis pallidifascia
+1154,鳞翅目_舟蛾科_钩翅舟蛾属,Gangarides
+1155,鳞翅目_舟蛾科_银二星舟蛾,Euhampsonia splendida
+1156,鳞翅目_舟蛾科_银纹舟蛾,Ginshachia elongata
+1157,鳞翅目_舟蛾科_黑蕊尾舟蛾,Dudusa sphingiformis
+1158,鳞翅目_草螟科_六斑蓝水螟,Talanga sexpunctalis
+1159,鳞翅目_草螟科_圆斑黄缘野螟蛾,Cirrhochrista brizoalis
+1160,鳞翅目_草螟科_斑水螟属_圆斑水螟,Eoophyla gibbosalis
+1161,鳞翅目_草螟科_斑水螟属_连斑水螟,Eoophyla conjunctalis
+1162,鳞翅目_草螟科_早熟禾拟茎草螟,Parapediasia teterrellus
+1163,鳞翅目_草螟科_油桐纹野螟,Pachynoa sabelialis
+1164,鳞翅目_草螟科_稻纵卷叶螟,Cnaphalocrocis medinalis
+1165,鳞翅目_草螟科_筒水螟属_三点筒水螟,Parapoynx stagnalis
+1166,鳞翅目_草螟科_筒水螟属_稻筒水螟,Parapoynx fluctuosalis
+1167,鳞翅目_草螟科_筒水螟属_稻黄筒水螟(小筒水螟),Parapoynx vittalis
+1168,鳞翅目_草螟科_筒水螟属_菱角水螟(壮筒水螟),Parapoynx crisonalis
+1169,鳞翅目_草螟科_筒水螟属_黄带纹筒水螟,Parapoynx villidalis
+1170,鳞翅目_草螟科_筒水螟属_黑点筒水螟,Parapoynx diminutalis
+1171,鳞翅目_草螟科_蓝灰野螟,Poliobotys ablactalis
+1172,鳞翅目_草螟科_褐萍水螟,Cyrtogramme turbata
+1173,鳞翅目_草螟科_豆野螟属_豆野螟,Maruca vitrata
+1174,鳞翅目_草螟科_黄纹银草螟,Pseudargyria interruptella
+1175,鳞翅目_虎蛾科_豪虎蛾属,Scrobigera
+1176,鳞翅目_蚕蛾科_桑蟥属_桑蟥,Rondotia menciana
+1177,鳞翅目_蚕蛾科_蚕,
+1178,鳞翅目_蚬蝶科,Riodinidae
+1179,鳞翅目_蚬蝶科_尾蚬蝶属,Dodona
+1180,鳞翅目_蚬蝶科_尾蚬蝶属_大斑尾蚬蝶,Dodona egeon
+1181,鳞翅目_蚬蝶科_尾蚬蝶属_无尾蚬蝶,Dodona durga
+1182,鳞翅目_蚬蝶科_尾蚬蝶属_银纹尾蚬蝶,Dodona eugenes
+1183,鳞翅目_蚬蝶科_波蚬蝶属_波蚬蝶,Zemeros flegyas
+1184,鳞翅目_蚬蝶科_白蚬蝶属_白蚬蝶,Stiboges nymphidia
+1185,鳞翅目_蚬蝶科_褐蚬蝶属_白带褐蚬蝶,Abisara fylloides
+1186,鳞翅目_蚬蝶科_褐蚬蝶属_白点褐蚬蝶,Abisara burnii
+1187,鳞翅目_蚬蝶科_褐蚬蝶属_蛇目褐蚬蝶,Abisara echerius
+1188,鳞翅目_蚬蝶科_褐蚬蝶属_锯白带褐蚬蝶,Abisara bifasciata
+1189,鳞翅目_蚬蝶科_褐蚬蝶属_长尾褐蚬蝶,Abisara neophron
+1190,鳞翅目_蚬蝶科_褐蚬蝶属_黄带褐蚬蝶,Abisara fylla
+1191,鳞翅目_蛱蝶科,Nymphalidae
+1192,鳞翅目_蛱蝶科_丝蛱蝶属_八目丝蛱蝶,Cyrestis cocles
+1193,鳞翅目_蛱蝶科_丝蛱蝶属_网丝蛱蝶,Cyrestis thyodamas
+1194,鳞翅目_蛱蝶科_丝蛱蝶属_雪白丝蛱蝶,Cyrestis nivea
+1195,鳞翅目_蛱蝶科_丽蛱蝶属_丽蛱蝶,Parthenos syvia
+1196,鳞翅目_蛱蝶科_俳蛱蝶属_丫纹俳蛱蝶,Parasarpa dudu
+1197,鳞翅目_蛱蝶科_坎蛱蝶属_黄绢坎蛱蝶,Chersonesia risa
+1198,鳞翅目_蛱蝶科_姹蛱蝶属,Chalinga
+1199,鳞翅目_蛱蝶科_婀蛱蝶属_婀蛱蝶,Abrota ganga
+1200,鳞翅目_蛱蝶科_孔雀石蛱蝶,Siproeta stelenes
+1201,鳞翅目_蛱蝶科_宝蛱蝶属_提珍蛱蝶,Boloria titania
+1202,鳞翅目_蛱蝶科_尾蛱蝶属_二尾蛱蝶,Polyura narcaea
+1203,鳞翅目_蛱蝶科_尾蛱蝶属_大二尾蛱蝶,Polyura eudamippus
+1204,鳞翅目_蛱蝶科_尾蛱蝶属_忘忧尾蛱蝶,Polyura nepenthes
+1205,鳞翅目_蛱蝶科_尾蛱蝶属_窄斑凤尾蛱蝶,Polyura athamas
+1206,鳞翅目_蛱蝶科_帅蛱蝶属_帅蛱蝶,Sephisa chandra
+1207,鳞翅目_蛱蝶科_帅蛱蝶属_黄帅蛱蝶,Sephisa princeps
+1208,鳞翅目_蛱蝶科_帖蛱蝶属_钩翅帖蛱蝶,Terinos atlita
+1209,鳞翅目_蛱蝶科_带蛱蝶属,Athyma
+1210,鳞翅目_蛱蝶科_带蛱蝶属_孤斑带蛱蝶,Athyma zeroca
+1211,鳞翅目_蛱蝶科_带蛱蝶属_新月带蛱蝶,Athyma selenophora
+1212,鳞翅目_蛱蝶科_带蛱蝶属_玄珠带蛱蝶,Athyma perius
+1213,鳞翅目_蛱蝶科_带蛱蝶属_珠履带蛱蝶,Athyma asura
+1214,鳞翅目_蛱蝶科_带蛱蝶属_离斑带蛱蝶,Athyma ranga
+1215,鳞翅目_蛱蝶科_彩蛱蝶属_彩蛱蝶,Vagrans egista
+1216,鳞翅目_蛱蝶科_律蛱蝶属_小豹律蛱蝶,Lexias pardalis
+1217,鳞翅目_蛱蝶科_文蛱蝶属_文蛱蝶,Vindula erota
+1218,鳞翅目_蛱蝶科_斐豹蛱蝶属_斐豹蛱蝶,Argyreus hyperbius
+1219,鳞翅目_蛱蝶科_斑蛱蝶属_幻紫斑蛱蝶,Hypolimnas bolina
+1220,鳞翅目_蛱蝶科_斑蛱蝶属_金斑蛱蝶,Hypolimnas missipus
+1221,鳞翅目_蛱蝶科_枯叶蛱蝶属_枯叶蛱蝶,Kallima inachus
+1222,鳞翅目_蛱蝶科_栎蛱蝶属_绿裙栎蛱蝶,Euphaedra themis
+1223,鳞翅目_蛱蝶科_波蛱蝶属_波蛱蝶,Ariadne ariadne
+1224,鳞翅目_蛱蝶科_波蛱蝶属_细纹波蛱蝶,Ariadne merione
+1225,鳞翅目_蛱蝶科_涡蛱蝶属,Diaethria
+1226,鳞翅目_蛱蝶科_爻蛱蝶属_爻蛱蝶,Herona marathus
+1227,鳞翅目_蛱蝶科_猫蛱蝶属,Timelaea
+1228,鳞翅目_蛱蝶科_猫蛱蝶属_白裳猫蛱蝶,Timelaea albescens
+1229,鳞翅目_蛱蝶科_环蛱蝶属,Neptis
+1230,鳞翅目_蛱蝶科_环蛱蝶属_中环蛱蝶,Neptis hylas
+1231,鳞翅目_蛱蝶科_环蛱蝶属_娜巴环蛱蝶,Neptis namba
+1232,鳞翅目_蛱蝶科_环蛱蝶属_娜环蛱蝶(细带环蛱蝶),Neptis nata
+1233,鳞翅目_蛱蝶科_环蛱蝶属_弥环蛱蝶,Neptis miah
+1234,鳞翅目_蛱蝶科_玳蛱蝶属_绿裙玳蛱蝶,Tanaecia julii
+1235,鳞翅目_蛱蝶科_玳蛱蝶属_褐裙玳蛱蝶,Tanaecia jahnu
+1236,鳞翅目_蛱蝶科_珍蛱蝶属_佛珍蛱蝶,Clossiana freija
+1237,鳞翅目_蛱蝶科_珍蛱蝶属_卵珍蛱蝶,Clossiana euphrosyne
+1238,鳞翅目_蛱蝶科_珍蛱蝶属_女神珍蛱蝶,Clossiana dia
+1239,鳞翅目_蛱蝶科_珐蛱蝶_珐蛱蝶,Phalanta phalantha
+1240,鳞翅目_蛱蝶科_珠蛱蝶属_曲斑珠蛱蝶,Issoria eugenia
+1241,鳞翅目_蛱蝶科_珠蛱蝶属_珠蛱蝶,Issoria lathonia
+1242,鳞翅目_蛱蝶科_琉璃蛱蝶属_琉璃蛱蝶,Kaniska canace
+1243,鳞翅目_蛱蝶科_电蛱蝶属_电蛱蝶,Dichorragia nesimachus
+1244,鳞翅目_蛱蝶科_白蛱蝶属_银白蛱蝶,Helcyra subalba
+1245,鳞翅目_蛱蝶科_盛蛱蝶属_散纹盛蛱蝶,Symbrenthia lilaea
+1246,鳞翅目_蛱蝶科_盛蛱蝶属_黄豹盛蛱蝶,Symbrenthia brabira
+1247,鳞翅目_蛱蝶科_眼蛱蝶属_波纹眼蛱蝶,Junonia atlites
+1248,鳞翅目_蛱蝶科_眼蛱蝶属_美眼蛱蝶,Junonia almana
+1249,鳞翅目_蛱蝶科_眼蛱蝶属_翠蓝眼蛱蝶,Junonia orithya
+1250,鳞翅目_蛱蝶科_眼蛱蝶属_蛇眼蛱蝶,Junonia lemonias
+1251,鳞翅目_蛱蝶科_眼蛱蝶属_钩翅眼蛱蝶,Junonia iphita
+1252,鳞翅目_蛱蝶科_眼蛱蝶属_鹿眼蛱蝶,Junonia coenia
+1253,鳞翅目_蛱蝶科_眼蛱蝶属_黄裳眼蛱蝶,Junonia hierta
+1254,鳞翅目_蛱蝶科_福蛱蝶属_灿福蛱蝶,Fabriciana adippe
+1255,鳞翅目_蛱蝶科_秀蛱蝶属_秀蛱蝶,Pseudergolis wedah
+1256,鳞翅目_蛱蝶科_穆蛱蝶属_穆蛱蝶,Moduza procris
+1257,鳞翅目_蛱蝶科_窗蛱蝶属_明窗蛱蝶,Dilipa fenestra
+1258,鳞翅目_蛱蝶科_紫蛱蝶属_大紫蛱蝶,Sasakia charonda
+1259,鳞翅目_蛱蝶科_紫蛱蝶属_黑紫蛱蝶,Sasakia funebris
+1260,鳞翅目_蛱蝶科_红蛱蝶属_优红蛱蝶,Vanessa atalanta
+1261,鳞翅目_蛱蝶科_红蛱蝶属_大红蛱蝶,Vanessa indica
+1262,鳞翅目_蛱蝶科_红蛱蝶属_小红蛱蝶,Vanessa cardui
+1263,鳞翅目_蛱蝶科_红蛱蝶属_弗吉尼亚赤蛱蝶,Vanessa virginiensis
+1264,鳞翅目_蛱蝶科_线蛱蝶属,Limenitis
+1265,鳞翅目_蛱蝶科_线蛱蝶属_残锷线蛱蝶,Limenitis sulpitia
+1266,鳞翅目_蛱蝶科_线蛱蝶属_红线蛱蝶,Limenitis populi
+1267,鳞翅目_蛱蝶科_绢蛱蝶属_绢蛱蝶,Calinaga buddha
+1268,鳞翅目_蛱蝶科_绿翠蝶属_绿蛱蝶,Dophla evelina
+1269,鳞翅目_蛱蝶科_网蛱蝶属_斑网蛱蝶,Melitaea
+1270,鳞翅目_蛱蝶科_罗蛱蝶属_罗蛱蝶,Rohana parisatis
+1271,鳞翅目_蛱蝶科_翠蛱蝶属,Euthalia
+1272,鳞翅目_蛱蝶科_翠蛱蝶属_尖翅翠蛱蝶,Euthalia phemius
+1273,鳞翅目_蛱蝶科_翠蛱蝶属_珀翠蛱蝶,Euthalia pratti
+1274,鳞翅目_蛱蝶科_翠蛱蝶属_红斑翠蛱蝶,Euthalia lubentna
+1275,鳞翅目_蛱蝶科_翠蛱蝶属_绿裙边翠蛱蝶,Euthalia niepelti
+1276,鳞翅目_蛱蝶科_老豹蛱蝶属_老豹蛱蝶,Argyronome laodice
+1277,鳞翅目_蛱蝶科_耙蛱蝶属_耙蛱蝶,Bhagadatta austenia
+1278,鳞翅目_蛱蝶科_脉蛱蝶属_拟斑脉蛱蝶,Hestina persimilis
+1279,鳞翅目_蛱蝶科_脉蛱蝶属_蒺藜纹脉蛱蝶,Hestina nama
+1280,鳞翅目_蛱蝶科_脉蛱蝶属_黑脉蛱蝶,Hestina assimilis
+1281,鳞翅目_蛱蝶科_蛤蟆蛱蝶属,Hamadryas
+1282,鳞翅目_蛱蝶科_蛱蝶_朱蛱蝶,Nymphalis xanthomelas
+1283,鳞翅目_蛱蝶科_蛱蝶属_白矩朱蛱蝶,Nymphalis vau-album
+1284,鳞翅目_蛱蝶科_蛱蝶属_黄缘蛱蝶,Nymphalis antiopa
+1285,鳞翅目_蛱蝶科_蛱蝶属_黄缘蛱蝶#幼虫,
+1286,鳞翅目_蛱蝶科_蜘蛱蝶属_曲纹蜘蛱蝶,Araschnia doris
+1287,鳞翅目_蛱蝶科_蜘蛱蝶属_直纹蜘蛱蝶,Araschnia prorsoides
+1288,鳞翅目_蛱蝶科_蜘蛱蝶属_蜘蛱蝶,Araschnia levana
+1289,鳞翅目_蛱蝶科_螯蛱蝶属_白带螯蛱蝶,Charaxes bernardus
+1290,鳞翅目_蛱蝶科_螯蛱蝶属_白带螯蛱蝶#幼虫,
+1291,鳞翅目_蛱蝶科_蟠蛱蝶属_金蟠蛱蝶,Pantoporia hordonia
+1292,鳞翅目_蛱蝶科_蠹叶蛱蝶属_蠹叶蛱蝶,Doleschallia bisaltide
+1293,鳞翅目_蛱蝶科_袖蝶属_艺神袖蝶,Heliconius erato
+1294,鳞翅目_蛱蝶科_袖蝶属_黄条袖蝶,Heliconius charithonia
+1295,鳞翅目_蛱蝶科_襟蛱蝶属_黄襟蛱蝶,Cupha erymanthis
+1296,鳞翅目_蛱蝶科_豹蛱蝶属_绿豹蛱蝶,Argynnis paphia
+1297,鳞翅目_蛱蝶科_迷蛱蝶属_白斑迷蛱蝶,Mimathyma schrenckii
+1298,鳞翅目_蛱蝶科_钩蛱蝶属_白钩蛱蝶,Polygonia c-album
+1299,鳞翅目_蛱蝶科_钩蛱蝶属_黄钩蛱蝶,Polygonia c-aureum
+1300,鳞翅目_蛱蝶科_铂蛱蝶属_铂蛱蝶,Proclossiana eunomia
+1301,鳞翅目_蛱蝶科_铠蛱蝶属_武铠蛱蝶,Chitoria ulupi
+1302,鳞翅目_蛱蝶科_锯蛱蝶属_白带锯蛱蝶,Cethosia cyane
+1303,鳞翅目_蛱蝶科_锯蛱蝶属_红锯蛱蝶,Cethosia biblis
+1304,鳞翅目_蛱蝶科_闪蛱蝶属_柳紫闪蛱蝶,Apatura ilia
+1305,鳞翅目_蛱蝶科_闪蛱蝶属_紫闪蛱蝶,Apatura iris
+1306,鳞翅目_蛱蝶科_青豹蛱蝶属_青豹蛱蝶,Damora sagana
+1307,鳞翅目_蛱蝶科_饰蛱蝶属_素饰蛱蝶,Stibochiona nicea
+1308,鳞翅目_蛱蝶科_麻蛱蝶属_孔雀蛱蝶,Aglais io
+1309,鳞翅目_蛱蝶科_麻蛱蝶属_荨麻蛱蝶,Aglais urticae
+1310,鳞翅目_蛱蝶科_黎蛱蝶属_黎蛱蝶,Lebadea martha
+1311,鳞翅目_螟蛾科,Pyralidae
+1312,鳞翅目_螟蛾科_三环须野螟,Mabra charonialis
+1313,鳞翅目_螟蛾科_四斑绢野螟,Glyphodes quadrimaculalis
+1314,鳞翅目_螟蛾科_奇异野螟属_火红奇异野螟,Aethaloessa calidalis
+1315,鳞翅目_螟蛾科_桑绢丝野螟(桑绢野螟),Glyphodes pyloalis
+1316,鳞翅目_螟蛾科_橄绿歧角螟,Endotricha olivacealis
+1317,鳞翅目_螟蛾科_玉米螟,Ostrinia palustralis
+1318,鳞翅目_螟蛾科_瓜绢野螟,Diaphania indica
+1319,鳞翅目_螟蛾科_甜菜白带野螟,Spoladea recurvalis
+1320,鳞翅目_螟蛾科_白斑翅野螟,Bocchoris inspersalis
+1321,鳞翅目_螟蛾科_盐肤木黑条枹螟,Arippara indicator
+1322,鳞翅目_螟蛾科_稻巢草螟,Ancylolomia japonica
+1323,鳞翅目_螟蛾科_竹金黄镰翅野螟,Circobotys aurealis
+1324,鳞翅目_螟蛾科_细纹黛齿螟(黄野螟),Heortia vitessoides
+1325,鳞翅目_螟蛾科_缘斑须野螟,Nosophora insignis
+1326,鳞翅目_螟蛾科_艳瘦翅野螟,Rhectothyris gratiosalis
+1327,鳞翅目_螟蛾科_茄白翅野螟,Leucinodes orbonalis
+1328,鳞翅目_螟蛾科_葡萄切叶野螟,Herpetogramma luctuosalis
+1329,鳞翅目_螟蛾科_蛀野螟属_桃蛀野螟,Conogethes punctiferalis
+1330,鳞翅目_螟蛾科_褐纹翅野螟,Diasemia accalis
+1331,鳞翅目_螟蛾科_豆啮叶野螟,Omiodes indicata
+1332,鳞翅目_螟蛾科_金双斑螟蛾,Orybina flaviplaga
+1333,鳞翅目_螟蛾科_金黄螟,Pyralis regalis
+1334,鳞翅目_螟蛾科_黄斑紫翅野螟,Rehimena phrynealis
+1335,鳞翅目_螟蛾科_黄杨绢野螟,Cydalima perspectalis
+1336,鳞翅目_螟蛾科_黄杨绢野螟#幼虫,
+1337,鳞翅目_螟蛾科_黄黑纹野螟,Tyspanodes hypsalis
+1338,鳞翅目_螟蛾科_黑点蚀叶野螟,Lamprosema commixta
+1339,鳞翅目_螟蛾科_齿斑绢丝野螟,Bocchoris onychinalis
+1340,鳞翅目_裳蛾科_中南裳蛾,Ericeia inangulata
+1341,鳞翅目_裳蛾科_偶双点裳蛾,Gesonia obeditalis
+1342,鳞翅目_裳蛾科_回猎裳蛾,Eublemma anachoresis
+1343,鳞翅目_裳蛾科_小奈眉裳蛾,Nagadeba indecoralis
+1344,鳞翅目_裳蛾科_庸肖毛翅裳蛾,Lagoptera juno
+1345,鳞翅目_裳蛾科_斜线关裳蛾,Artena dotata
+1346,鳞翅目_裳蛾科_枯肖毛翅裳蛾,Anua coronata
+1347,鳞翅目_裳蛾科_涓猎裳蛾,Eublemma cochylioides
+1348,鳞翅目_裳蛾科_白缘巧裳蛾,Oruza glaucotorna
+1349,鳞翅目_裳蛾科_粒裳蛾,Autoba tristalis
+1350,鳞翅目_裳蛾科_紫黑奴裳蛾,Paracolax pryeri
+1351,鳞翅目_裳蛾科_阴耳裳蛾,Ercheia umbrosa
+1352,鳞翅目_裳蛾科_饰筑裳蛾,Cruxoruza decorata
+1353,鳞翅目_透翅蛾科,Sesiidae
+1354,鳞翅目_钩蛾科,Drepanidae
+1355,鳞翅目_钩蛾科_三线钩蛾属_三线钩蛾,Pseudalbara parvula
+1356,鳞翅目_钩蛾科_圆钩蛾属_洋麻圆钩蛾,Cyclidia substigmaria
+1357,鳞翅目_钩蛾科_圆钩蛾属_赭圆钩蛾,Cyclidia orciferaria
+1358,鳞翅目_钩蛾科_接骨木山钩蛾,Oreta loochooana
+1359,鳞翅目_钩蛾科_接骨木山钩蛾#幼虫,
+1360,鳞翅目_钩蛾科_日本双线钩蛾,Nordstromia japonica
+1361,鳞翅目_钩蛾科_短铃钩蛾(哑铃带钩蛾),Macrocilix mysticata
+1362,鳞翅目_钩蛾科_距钩蛾属_栎距钩蛾,Agnidra scabiosa
+1363,鳞翅目_钩蛾科_铃钩蛾属_宽铃钩蛾,Macrocilix maia
+1364,鳞翅目_钩蛾科_黄钩蛾属_细纹黄钩蛾,Drapetodes mitaria
+1365,鳞翅目_钩蛾科_黄钩蛾属_细纹黄钩蛾#幼虫,
+1366,鳞翅目_长角蛾科,Adelidae
+1367,鳞翅目_隆金龟科,Bolboceratidae
+1368,鳞翅目_雕蛾科_银点雕蛾,Lepidotarphius perornatellus
+1369,鳞翅目_鹿蛾科,Ctenuchidae
+1370,鳞翅目_鹿蛾科_南鹿蛾,Amata sperbius
+1371,鳞翅目_鹿蛾科_蕾鹿蛾,Amata germana
