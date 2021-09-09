@@ -45,11 +45,13 @@ def draw_text(image, text, position, font_size=15, color=(255,0,0),
 
 
 if __name__ == '__main__':
-    src_dir = r'images'
+    src_dirs = [r'images', r'F:\_Data\Nature\_raw\_insect']
     
     detector = InsectDetector()
     identifier = InsectIdentifier()
-    src_filenames = khandy.get_all_filenames(src_dir)
+    src_filenames = sum([khandy.get_all_filenames(src_dir) for src_dir in src_dirs], [])
+    src_filenames = sorted(src_filenames, key=lambda t: os.stat(t).st_mtime, reverse=True)
+    
     for k, filename in enumerate(src_filenames):
         print('[{}/{}] {}'.format(k+1, len(src_filenames), filename))
         image = imread_ex(filename)
