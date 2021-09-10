@@ -1,4 +1,5 @@
 import os
+import time
 
 import cv2
 import khandy
@@ -54,6 +55,7 @@ if __name__ == '__main__':
     
     for k, filename in enumerate(src_filenames):
         print('[{}/{}] {}'.format(k+1, len(src_filenames), filename))
+        start_time = time.time()
         image = imread_ex(filename)
         if image is None:
             continue
@@ -86,6 +88,7 @@ if __name__ == '__main__':
                               (int(box[2]), int(box[3])), (0,255,0), 2)
                       
                 image_for_draw = draw_text(image_for_draw, text, position)
+        print('Elapsed: {:.3f}s'.format(time.time() - start_time))
         cv2.imshow('image', image_for_draw)
         key = cv2.waitKey(0)
         if key == 27:

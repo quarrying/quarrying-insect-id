@@ -3,7 +3,8 @@ import os
 import cv2
 import khandy
 import numpy as np
-import onnxruntime as rt
+
+from .base import OnnxModel
 
 
 def non_max_suppression(boxes, scores, iou_thresh=0.3):
@@ -30,18 +31,15 @@ def non_max_suppression(boxes, scores, iou_thresh=0.3):
     return keep
     
     
-class InsectDetector():
+class InsectDetector(OnnxModel):
     def __init__(self, input_width=640, input_height=640):
         current_dir = os.path.dirname(os.path.abspath(__file__))
-        model_filename = os.path.join(current_dir, 'models/quarrying_insect_detector.onnx')
+        model_path = os.path.join(current_dir, 'models/quarrying_insect_detector.onnx')
         self.input_width = input_width
         self.input_height = input_height
+        super(InsectDetector, self).__init__(model_path)
 
-        self.sess = rt.InferenceSession(model_filename)
-        self.input_names = [item.name for item in self.sess.get_inputs()]
-        self.output_names = [item.name for item in self.sess.get_outputs()]
-
-    def preprocess(self, image):
+    def _preprocess(self, image):
         image_dtype = image.dtype
         assert image_dtype in [np.uint8, np.uint16]
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -61,19 +59,19 @@ class InsectDetector():
         image = np.ascontiguousarray(image)
         return image, scale, left, top
         
-    def post_process(self, outputs_list, scale=0, left=0, top=0, 
+    def _post_process(self, outputs_list, scale=0, left=0, top=0, 
                      conf_thresh=0.5, iou_thresh=0.5):
         pred = outputs_list[0][0]
         pass_t = pred[..., 4] > conf_thresh
         pred = pred[pass_t]
 
-        boxes = self.cxcywh2xyxy(pred[..., 0:4], scale, left, top)
+        boxes = self._cxcywh2xyxy(pred[..., 0:4], scale, left, top)
         confs = np.amax(pred[:, 5:], 1, keepdims=True)
         classes = np.argmax(pred[:, 5:], axis=-1)
         keep = non_max_suppression(boxes, confs, iou_thresh)
         return boxes[keep], confs[keep], classes[keep]
 
-    def cxcywh2xyxy(self, x, scale, left, top):
+    def _cxcywh2xyxy(self, x, scale, left, top):
         y = np.zeros_like(x)
         y[:, 0] = x[:, 0] - x[:, 2] / 2 - left
         y[:, 2] = x[:, 0] + x[:, 2] / 2 - left
@@ -83,9 +81,9 @@ class InsectDetector():
         return y
         
     def detect(self, image, conf_thresh=0.5, iou_thresh=0.5):
-        resized, scale, left, top = self.preprocess(image)
-        outputs_list = self.sess.run(self.output_names, {self.input_names[0]: resized})
-        boxes, confs, classes = self.post_process(outputs_list, 
+        resized, scale, left, top = self._preprocess(image)
+        outputs_list = self.forward(resized)
+        boxes, confs, classes = self._post_process(outputs_list, 
                                                   scale=scale, 
                                                   left=left,
                                                   top=top,
