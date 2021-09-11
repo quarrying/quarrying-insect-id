@@ -60,7 +60,7 @@ class InsectDetector(OnnxModel):
         return image, scale, left, top
         
     def _post_process(self, outputs_list, scale=0, left=0, top=0, 
-                     conf_thresh=0.5, iou_thresh=0.5):
+                      conf_thresh=0.5, iou_thresh=0.5):
         pred = outputs_list[0][0]
         pass_t = pred[..., 4] > conf_thresh
         pred = pred[pass_t]
@@ -84,10 +84,10 @@ class InsectDetector(OnnxModel):
         resized, scale, left, top = self._preprocess(image)
         outputs_list = self.forward(resized)
         boxes, confs, classes = self._post_process(outputs_list, 
-                                                  scale=scale, 
-                                                  left=left,
-                                                  top=top,
-                                                  conf_thresh=conf_thresh, 
-                                                  iou_thresh=iou_thresh)
+                                                   scale=scale, 
+                                                   left=left,
+                                                   top=top,
+                                                   conf_thresh=conf_thresh, 
+                                                   iou_thresh=iou_thresh)
         return boxes, confs, classes
         
