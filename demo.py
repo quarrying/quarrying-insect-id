@@ -73,8 +73,8 @@ if __name__ == '__main__':
                 
             cropped = khandy.crop_or_pad(image, int(box[0]), int(box[1]), int(box[2]), int(box[3]))
             outputs = identifier.identify(cropped)
-            print(outputs['results'][0])
             if outputs['status'] == 0:
+                print(outputs['results'][0])
                 prob = outputs['results'][0]['probability']
                 if prob < 0.10:
                     text = 'Unknown'

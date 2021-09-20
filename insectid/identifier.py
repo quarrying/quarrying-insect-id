@@ -54,7 +54,7 @@ class InsectIdentifier(OnnxModel):
         
         image = normalize_image_shape(image)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        image = khandy.letterbox_resize_image(image, 299, 299)
+        image = khandy.letterbox_resize_image(image, 224, 224)
         image = image.astype(np.float32)
         if image_dtype == np.uint8:
             image /= 255.0
