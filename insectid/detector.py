@@ -65,8 +65,8 @@ class InsectDetector(OnnxModel):
         pass_t = pred[..., 4] > conf_thresh
         pred = pred[pass_t]
 
-        boxes = self._cxcywh2xyxy(pred[..., 0:4], scale, left, top)
-        confs = np.amax(pred[:, 5:], 1, keepdims=True)
+        boxes = self._cxcywh2xyxy(pred[..., :4], scale, left, top)
+        confs = np.amax(pred[:, 5:] * pred[:, 4:5], axis=-1, keepdims=True)
         classes = np.argmax(pred[:, 5:], axis=-1)
         keep = non_max_suppression(boxes, confs, iou_thresh)
         return boxes[keep], confs[keep], classes[keep]
