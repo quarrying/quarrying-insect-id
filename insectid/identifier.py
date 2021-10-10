@@ -6,26 +6,9 @@ import khandy
 import numpy as np
 
 from .base import OnnxModel
+from .base import normalize_image_shape
 
 
-def normalize_image_shape(image):
-    if image.ndim == 2:
-        image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
-    elif image.ndim == 3:
-        num_channels = image.shape[-1]
-        if num_channels == 1:
-            image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
-        elif num_channels == 3:
-            pass
-        elif num_channels == 4:
-            image = cv2.cvtColor(image, cv2.COLOR_BGRA2BGR)
-        else:
-            raise ValueError('Unsupported!')
-    else:
-        raise ValueError('Unsupported!')
-    return image
-    
-    
 class InsectIdentifier(OnnxModel):
     def __init__(self):
         curr_dir = os.path.dirname(__file__)

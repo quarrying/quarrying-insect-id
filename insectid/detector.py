@@ -5,6 +5,7 @@ import khandy
 import numpy as np
 
 from .base import OnnxModel
+from .base import normalize_image_shape
 
 
 def non_max_suppression(boxes, scores, iou_thresh=0.3):
@@ -42,8 +43,9 @@ class InsectDetector(OnnxModel):
     def _preprocess(self, image):
         image_dtype = image.dtype
         assert image_dtype in [np.uint8, np.uint16]
+
+        image = normalize_image_shape(image)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        
         image, scale, left, top = khandy.letterbox_resize_image(image, 
                                                                 self.input_width, 
                                                                 self.input_height, 
@@ -54,13 +56,11 @@ class InsectDetector(OnnxModel):
             image /= 255.0
         else:
             image /= 65535.0
-        image = np.transpose(image, [2, 0, 1])
+        image = np.transpose(image, (2,0,1))
         image = np.expand_dims(image, axis=0)
-        image = np.ascontiguousarray(image)
         return image, scale, left, top
         
-    def _post_process(self, outputs_list, scale=0, left=0, top=0, 
-                      conf_thresh=0.5, iou_thresh=0.5):
+    def _post_process(self, outputs_list, scale, left, top, conf_thresh, iou_thresh):
         pred = outputs_list[0][0]
         pass_t = pred[..., 4] > conf_thresh
         pred = pred[pass_t]
