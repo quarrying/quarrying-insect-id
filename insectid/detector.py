@@ -8,30 +8,6 @@ from .base import OnnxModel
 from .base import normalize_image_shape
 
 
-def non_max_suppression(boxes, scores, iou_thresh=0.3):
-    x1 = boxes[:, 0]
-    y1 = boxes[:, 1]
-    x2 = boxes[:, 2]
-    y2 = boxes[:, 3]
-    areas = (x2 - x1 + 1) * (y2 - y1 + 1) 
-    order = scores.flatten().argsort()[::-1]
-    keep = []
-    while order.size > 0:
-        i = order[0]
-        keep.append(i)
-        xx1 = np.maximum(x1[i], x1[order[1:]])
-        yy1 = np.maximum(y1[i], y1[order[1:]])
-        xx2 = np.minimum(x2[i], x2[order[1:]])
-        yy2 = np.minimum(y2[i], y2[order[1:]])
-        w = np.maximum(0.0, xx2 - xx1 + 1)
-        h = np.maximum(0.0, yy2 - yy1 + 1)
-        inter = w * h
-        overlap_ratio = inter / (areas[i] + areas[order[1:]] - inter)
-        inds = np.where(overlap_ratio <= iou_thresh)[0]
-        order = order[inds + 1]
-    return keep
-    
-    
 class InsectDetector(OnnxModel):
     def __init__(self, input_width=640, input_height=640):
         current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -66,9 +42,9 @@ class InsectDetector(OnnxModel):
         pred = pred[pass_t]
 
         boxes = self._cxcywh2xyxy(pred[..., :4], scale, left, top)
-        confs = np.amax(pred[:, 5:] * pred[:, 4:5], axis=-1, keepdims=True)
-        classes = np.argmax(pred[:, 5:], axis=-1)
-        keep = non_max_suppression(boxes, confs, iou_thresh)
+        confs = np.amax(pred[:, 5:] * pred[:, 4:5], axis=-1)
+        classes = np.argmax(pred[:, 5:] * pred[:, 4:5], axis=-1)
+        keep = khandy.non_max_suppression(boxes, confs, iou_thresh)
         return boxes[keep], confs[keep], classes[keep]
 
     def _cxcywh2xyxy(self, x, scale, left, top):
