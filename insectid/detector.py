@@ -38,27 +38,20 @@ class InsectDetector(OnnxModel):
         
     def _post_process(self, outputs_list, scale, left, top, conf_thresh, iou_thresh):
         pred = outputs_list[0][0]
-        pass_t = pred[..., 4] > conf_thresh
+        pass_t = pred[:, 4] > conf_thresh
         pred = pred[pass_t]
-
-        boxes = self._cxcywh2xyxy(pred[..., :4], scale, left, top)
+        
+        boxes = khandy.convert_boxes_format(pred[:, :4], 'cxcywh', 'xyxy')
+        boxes = khandy.translate_boxes(boxes, -left, -top, copy=False)
+        boxes /= scale
         confs = np.amax(pred[:, 5:] * pred[:, 4:5], axis=-1)
         classes = np.argmax(pred[:, 5:] * pred[:, 4:5], axis=-1)
         keep = khandy.non_max_suppression(boxes, confs, iou_thresh)
         return boxes[keep], confs[keep], classes[keep]
 
-    def _cxcywh2xyxy(self, x, scale, left, top):
-        y = np.zeros_like(x)
-        y[:, 0] = x[:, 0] - x[:, 2] / 2 - left
-        y[:, 2] = x[:, 0] + x[:, 2] / 2 - left
-        y[:, 1] = x[:, 1] - x[:, 3] / 2 - top
-        y[:, 3] = x[:, 1] + x[:, 3] / 2 - top
-        y /= scale
-        return y
-        
     def detect(self, image, conf_thresh=0.5, iou_thresh=0.5):
-        resized, scale, left, top = self._preprocess(image)
-        outputs_list = self.forward(resized)
+        image, scale, left, top = self._preprocess(image)
+        outputs_list = self.forward(image)
         boxes, confs, classes = self._post_process(outputs_list, 
                                                    scale=scale, 
                                                    left=left,
