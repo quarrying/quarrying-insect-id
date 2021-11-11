@@ -72,22 +72,21 @@ if __name__ == '__main__':
                 continue
                 
             cropped = khandy.crop_or_pad(image, int(box[0]), int(box[1]), int(box[2]), int(box[3]))
-            outputs = identifier.identify(cropped)
-            if outputs['status'] == 0:
-                print(outputs['results'][0])
-                prob = outputs['results'][0]['probability']
-                if prob < 0.10:
-                    text = 'Unknown'
-                else:
-                    text = '{}: {:.3f}'.format(outputs['results'][0]['chinese_name'], 
-                                               outputs['results'][0]['probability'])
-                position = [int(box[0] + 2), int(box[1] - 20)]
-                position[0] = min(max(position[0], 0), image_width)
-                position[1] = min(max(position[1], 0), image_height)
-                cv2.rectangle(image_for_draw, (int(box[0]), int(box[1])), 
-                              (int(box[2]), int(box[3])), (0,255,0), 2)
-                      
-                image_for_draw = draw_text(image_for_draw, text, position)
+            results = identifier.identify(cropped)
+            print(results[0])
+            prob = results[0]['probability']
+            if prob < 0.10:
+                text = 'Unknown'
+            else:
+                text = '{}: {:.3f}'.format(results[0]['chinese_name'], 
+                                           results[0]['probability'])
+            position = [int(box[0] + 2), int(box[1] - 20)]
+            position[0] = min(max(position[0], 0), image_width)
+            position[1] = min(max(position[1], 0), image_height)
+            cv2.rectangle(image_for_draw, (int(box[0]), int(box[1])), 
+                          (int(box[2]), int(box[3])), (0,255,0), 2)
+            image_for_draw = draw_text(image_for_draw, text, position)
+            
         print('Elapsed: {:.3f}s'.format(time.time() - start_time))
         cv2.imshow('image', image_for_draw)
         key = cv2.waitKey(0)

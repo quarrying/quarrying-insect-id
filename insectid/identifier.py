@@ -1,4 +1,5 @@
 import os
+import copy
 from collections import OrderedDict
 
 import cv2
@@ -50,18 +51,10 @@ class InsectIdentifier(OnnxModel):
         return image
         
     def predict(self, image):
-        try:
-            inputs = self._preprocess(image)
-        except:
-            return {"status": -1, "message": "Inference preprocess error.", "results": {}}
-        
-        try:
-            logits = self.forward(inputs)
-            probs = khandy.softmax(logits)
-        except:
-            return {"status": -2, "message": "Inference error.", "results": {}}
-        results = {'probs': probs}
-        return {"status": 0, "message": "OK", "results": results}
+        inputs = self._preprocess(image)
+        logits = self.forward(inputs)
+        probs = khandy.softmax(logits)
+        return probs
         
     def identify(self, image, topk=5):
         assert isinstance(topk, int)
@@ -69,18 +62,13 @@ class InsectIdentifier(OnnxModel):
             topk = len(self.label_name_dict)
             
         results = []
-        outputs = self.predict(image)
-        status = outputs['status']
-        message = outputs['message']
-        if outputs['status'] != 0:
-            return {"status": status, "message": message, "results": results}
-            
-        probs = outputs['results']['probs']
+        probs = self.predict(image)
         taxon_topk = min(probs.shape[-1], topk)
         topk_probs, topk_indices = khandy.top_k(probs, taxon_topk)
         for ind, prob in zip(topk_indices[0], topk_probs[0]):
-            one_result = self.label_name_dict[ind]
+            one_result = copy.deepcopy(self.label_name_dict[ind])
             one_result['probability'] = prob
-            results.append(one_result)     
-        return {"status": status, "message": message, "results": results}
+            results.append(one_result)   
+        return results
+        
         
