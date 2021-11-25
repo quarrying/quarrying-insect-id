@@ -17,17 +17,6 @@ pip install -r requirements.txt
 参考 [demo.py](<demo.py>).
 
 
-# 例图
-
-![](data/insect_01.jpg)
-
-![](data/insect_02.jpg)
-
-![](data/insect_03.jpg)
-
-![](data/insect_04.jpg)
-
-
 # ChangeLog
 
 - 20211125 更新检测模型.
