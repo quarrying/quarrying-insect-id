@@ -12,7 +12,6 @@ from .base import normalize_image_shape
 
 class InsectIdentifier(OnnxModel):
     def __init__(self):
-        curr_dir = os.path.dirname(__file__)
         current_dir = os.path.dirname(os.path.abspath(__file__))
         model_path = os.path.join(current_dir, 'models/quarrying_insect_identifier.onnx')
         label_map_path = os.path.join(current_dir, 'models/quarrying_insectid_label_map.txt')
