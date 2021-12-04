@@ -1,5 +1,5 @@
 # 特性
-- 支持 2037 类 (可能是目, 科, 属或种) 昆虫或其他节肢动物
+- 支持 2037 类 (可能是目, 科, 属或种等) 昆虫或其他节肢动物
 - 模型开源, 持续更新.
 
 # 安装
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 # 用法 
 
-参考 [demo.py](<demo.py>).
+参考 [demo.py](<demo.py>), 也可以在我的个人网站 (<https://www.quarryman.cn/insect>) 体验识别效果.
 
 
 # ChangeLog
