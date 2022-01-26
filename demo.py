@@ -4,10 +4,6 @@ import time
 import cv2
 import khandy
 import numpy as np
-import PIL
-from PIL import Image
-from PIL import ImageDraw
-from PIL import ImageFont
 
 from insectid import InsectDetector
 from insectid import InsectIdentifier
@@ -19,31 +15,6 @@ def imread_ex(filename, flags=-1):
     except Exception as e:
         return None
         
-        
-def draw_text(image, text, position, font_size=15, color=(255,0,0),
-              font_filename='data/simsun.ttc'):
-    assert isinstance(color, (tuple, list)) and len(color) == 3
-    gray = color[0]
-    if isinstance(image, np.ndarray):
-        pil_image = Image.fromarray(image)
-        color = (color[2], color[1], color[0])
-    elif isinstance(image, PIL.Image.Image):
-        pil_image = image
-    else:
-        raise ValueError('Unsupported image type!')
-    assert pil_image.mode in ['L', 'RGB', 'RGBA']
-    if pil_image.mode == 'L':
-        color = gray
-    
-    font_object = ImageFont.truetype(font_filename, size=font_size)
-    drawable = ImageDraw.Draw(pil_image)
-    drawable.text((position[0], position[1]), text, 
-                  fill=color, font=font_object)
-
-    if isinstance(image, np.ndarray):
-        return np.asarray(pil_image)
-    return pil_image
-
 
 if __name__ == '__main__':
     src_dirs = [r'images', r'F:\_Data\Nature\_raw\_insect']
@@ -85,8 +56,9 @@ if __name__ == '__main__':
             position[1] = min(max(position[1], 0), image_height)
             cv2.rectangle(image_for_draw, (int(box[0]), int(box[1])), 
                           (int(box[2]), int(box[3])), (0,255,0), 2)
-            image_for_draw = draw_text(image_for_draw, text, position)
-            
+            image_for_draw = khandy.draw_text(image_for_draw, text, position, 
+                                              font='simsun.ttc', font_size=15)
+
         print('Elapsed: {:.3f}s'.format(time.time() - start_time))
         cv2.imshow('image', image_for_draw)
         key = cv2.waitKey(0)
