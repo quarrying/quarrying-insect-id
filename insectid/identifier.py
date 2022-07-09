@@ -2,12 +2,10 @@ import os
 import copy
 from collections import OrderedDict
 
-import cv2
 import khandy
 import numpy as np
 
 from .base import OnnxModel
-from .base import normalize_image_shape
 
 
 class InsectIdentifier(OnnxModel):
@@ -35,8 +33,7 @@ class InsectIdentifier(OnnxModel):
         image_dtype = image.dtype
         assert image_dtype in [np.uint8, np.uint16]
         
-        image = normalize_image_shape(image)
-        image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+        image = khandy.normalize_image_shape(image, swap_rb=True)
         image = khandy.letterbox_resize_image(image, 224, 224)
         image = image.astype(np.float32)
         if image_dtype == np.uint8:

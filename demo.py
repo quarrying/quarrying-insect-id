@@ -9,13 +9,6 @@ from insectid import InsectDetector
 from insectid import InsectIdentifier
 
 
-def imread_ex(filename, flags=-1):
-    try:
-        return cv2.imdecode(np.fromfile(filename, dtype=np.uint8), flags)
-    except Exception as e:
-        return None
-        
-
 if __name__ == '__main__':
     src_dirs = [r'images', r'F:\_Data\Nature\_raw\_insect']
     
@@ -27,7 +20,7 @@ if __name__ == '__main__':
     for k, filename in enumerate(src_filenames):
         print('[{}/{}] {}'.format(k+1, len(src_filenames), filename))
         start_time = time.time()
-        image = imread_ex(filename)
+        image = khandy.imread_cv(filename)
         if image is None:
             continue
         if max(image.shape[:2]) > 1280:

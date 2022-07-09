@@ -1,11 +1,9 @@
 import os
 
-import cv2
 import khandy
 import numpy as np
 
 from .base import OnnxModel
-from .base import normalize_image_shape
 
 
 class InsectDetector(OnnxModel):
@@ -20,13 +18,9 @@ class InsectDetector(OnnxModel):
         image_dtype = image.dtype
         assert image_dtype in [np.uint8, np.uint16]
 
-        image = normalize_image_shape(image)
-        image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        image, scale, left, top = khandy.letterbox_resize_image(image, 
-                                                                self.input_width, 
-                                                                self.input_height, 
-                                                                0,
-                                                                return_scale=True)
+        image = khandy.normalize_image_shape(image, swap_rb=True)
+        image, scale, left, top = khandy.letterbox_resize_image(
+            image, self.input_width, self.input_height, 0,return_scale=True)
         image = image.astype(np.float32)
         if image_dtype == np.uint8:
             image /= 255.0
@@ -52,11 +46,12 @@ class InsectDetector(OnnxModel):
     def detect(self, image, conf_thresh=0.5, iou_thresh=0.5):
         image, scale, left, top = self._preprocess(image)
         outputs_list = self.forward(image)
-        boxes, confs, classes = self._post_process(outputs_list, 
-                                                   scale=scale, 
-                                                   left=left,
-                                                   top=top,
-                                                   conf_thresh=conf_thresh, 
-                                                   iou_thresh=iou_thresh)
+        boxes, confs, classes = self._post_process(
+            outputs_list, 
+            scale=scale, 
+            left=left,
+            top=top,
+            conf_thresh=conf_thresh, 
+            iou_thresh=iou_thresh)
         return boxes, confs, classes
         
