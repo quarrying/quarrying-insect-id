@@ -34,7 +34,7 @@ class InsectIdentifier(OnnxModel):
         assert image_dtype in [np.uint8, np.uint16]
         
         image = khandy.normalize_image_shape(image, swap_rb=True)
-        image = khandy.letterbox_resize_image(image, 224, 224)
+        image = khandy.letterbox_image(image, 224, 224)
         image = image.astype(np.float32)
         if image_dtype == np.uint8:
             image /= 255.0
