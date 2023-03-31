@@ -7,11 +7,11 @@ from .base import OnnxModel
 
 
 class InsectDetector(OnnxModel):
-    def __init__(self, input_width=640, input_height=640):
+    def __init__(self):
         current_dir = os.path.dirname(os.path.abspath(__file__))
         model_path = os.path.join(current_dir, 'models/quarrying_insect_detector.onnx')
-        self.input_width = input_width
-        self.input_height = input_height
+        self.input_width = 640
+        self.input_height = 640
         super(InsectDetector, self).__init__(model_path)
 
     def _preprocess(self, image):

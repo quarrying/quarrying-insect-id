@@ -17,7 +17,8 @@ class InsectIdentifier(OnnxModel):
         
         self.label_name_dict = self._get_label_name_dict(label_map_path)
         self.names = [self.label_name_dict[i]['chinese_name'] for i in range(len(self.label_name_dict))]
-        
+        self.num_classes = len(self.label_name_dict)
+
     @staticmethod
     def _get_label_name_dict(filename):
         records = khandy.load_list(filename)
@@ -54,13 +55,12 @@ class InsectIdentifier(OnnxModel):
         
     def identify(self, image, topk=5):
         assert isinstance(topk, int)
-        if topk <= 0:
+        if topk <= 0 or topk > self.num_classes:
             topk = len(self.label_name_dict)
             
         results = []
         probs = self.predict(image)
-        taxon_topk = min(probs.shape[-1], topk)
-        topk_probs, topk_indices = khandy.top_k(probs, taxon_topk)
+        topk_probs, topk_indices = khandy.top_k(probs, topk)
         for ind, prob in zip(topk_indices[0], topk_probs[0]):
             one_result = copy.deepcopy(self.label_name_dict[ind])
             one_result['probability'] = prob
