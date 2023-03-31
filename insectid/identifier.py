@@ -56,11 +56,12 @@ class InsectIdentifier(OnnxModel):
     def identify(self, image, topk=5):
         assert isinstance(topk, int)
         if topk <= 0 or topk > self.num_classes:
-            topk = len(self.label_name_dict)
+            topk = self.num_classes
             
-        results = []
         probs = self.predict(image)
         topk_probs, topk_indices = khandy.top_k(probs, topk)
+
+        results = []
         for ind, prob in zip(topk_indices[0], topk_probs[0]):
             one_result = copy.deepcopy(self.label_name_dict[ind])
             one_result['probability'] = prob

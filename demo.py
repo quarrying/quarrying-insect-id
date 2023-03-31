@@ -14,13 +14,13 @@ if __name__ == '__main__':
     
     detector = InsectDetector()
     identifier = InsectIdentifier()
-    src_filenames = sum([khandy.get_all_filenames(src_dir) for src_dir in src_dirs], [])
+    src_filenames = sum([khandy.list_files_in_dir(src_dir, True) for src_dir in src_dirs], [])
     src_filenames = sorted(src_filenames, key=lambda t: os.stat(t).st_mtime, reverse=True)
     
     for k, filename in enumerate(src_filenames):
         print('[{}/{}] {}'.format(k+1, len(src_filenames), filename))
         start_time = time.time()
-        image = khandy.imread_cv(filename)
+        image = khandy.imread(filename)
         if image is None:
             continue
         if max(image.shape[:2]) > 1280:
@@ -30,25 +30,24 @@ if __name__ == '__main__':
         
         boxes, confs, classes = detector.detect(image)
         for box, conf, class_ind in zip(boxes, confs, classes):
+            box = box.astype(np.int32)
             box_width = box[2] - box[0] + 1
             box_height = box[3] - box[1] + 1
             if box_width < 30 or box_height < 30:
                 continue
                 
-            cropped = khandy.crop_or_pad(image, int(box[0]), int(box[1]), int(box[2]), int(box[3]))
+            cropped = khandy.crop_or_pad(image, box[0], box[1], box[2], box[3])
             results = identifier.identify(cropped)
             print(results[0])
             prob = results[0]['probability']
             if prob < 0.10:
                 text = 'Unknown'
             else:
-                text = '{}: {:.3f}'.format(results[0]['chinese_name'], 
-                                           results[0]['probability'])
-            position = [int(box[0] + 2), int(box[1] - 20)]
+                text = '{}: {:.3f}'.format(results[0]['chinese_name'], results[0]['probability'])
+            position = [box[0] + 2, box[1] - 20]
             position[0] = min(max(position[0], 0), image_width)
             position[1] = min(max(position[1], 0), image_height)
-            cv2.rectangle(image_for_draw, (int(box[0]), int(box[1])), 
-                          (int(box[2]), int(box[3])), (0,255,0), 2)
+            cv2.rectangle(image_for_draw, (box[0], box[1]), (box[2], box[3]), (0,255,0), 2)
             image_for_draw = khandy.draw_text(image_for_draw, text, position, 
                                               font='simsun.ttc', font_size=15)
 
