@@ -18,14 +18,16 @@ class InsectDetector(OnnxModel):
         image_dtype = image.dtype
         assert image_dtype in [np.uint8, np.uint16]
 
-        image = khandy.normalize_image_shape(image, swap_rb=True)
+         # image size normalization
         image, scale, pad_left, pad_top = khandy.letterbox_image(
             image, self.input_width, self.input_height, 0, return_scale=True)
+        # image channel normalization
+        image = khandy.normalize_image_channel(image, swap_rb=True)
+        # image dtype normalization
+        image_dtype = image.dtype
         image = image.astype(np.float32)
-        if image_dtype == np.uint8:
-            image /= 255.0
-        else:
-            image /= 65535.0
+        image /= np.iinfo(image_dtype).max
+        # to tensor
         image = np.transpose(image, (2,0,1))
         image = np.expand_dims(image, axis=0)
         return image, scale, pad_left, pad_top
