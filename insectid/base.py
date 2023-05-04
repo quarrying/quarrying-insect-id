@@ -1,7 +1,5 @@
-import multiprocessing
-
-import cv2
 import onnxruntime
+import numpy as np
 
 
 class OnnxModel(object):
@@ -37,3 +35,17 @@ class OnnxModel(object):
         else:
             return outputs
             
+
+def check_image_dtype_and_shape(image):
+    if not isinstance(image, np.ndarray):
+        raise Exception(f'image is not np.ndarray!')
+
+    if isinstance(image.dtype, (np.uint8, np.uint16)):
+        raise Exception(f'Unsupported image dtype, only support uint8 and uint16, got {image.dtype}!')
+    if image.ndim not in {2, 3}:
+        raise Exception(f'Unsupported image dimension number, only support 2 and 3, got {image.ndim}!')
+    if image.ndim == 3:
+        num_channels = image.shape[-1]
+        if num_channels not in {1, 3, 4}:
+            raise Exception(f'Unsupported image channel number, only support 1, 3 and 4, got {num_channels}!')
+

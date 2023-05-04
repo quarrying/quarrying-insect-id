@@ -4,6 +4,7 @@ import khandy
 import numpy as np
 
 from .base import OnnxModel
+from .base import check_image_dtype_and_shape
 
 
 class InsectDetector(OnnxModel):
@@ -15,9 +16,8 @@ class InsectDetector(OnnxModel):
         super(InsectDetector, self).__init__(model_path)
 
     def _preprocess(self, image):
-        image_dtype = image.dtype
-        assert image_dtype in [np.uint8, np.uint16]
-
+        check_image_dtype_and_shape(image)
+        
          # image size normalization
         image, scale, pad_left, pad_top = khandy.letterbox_image(
             image, self.input_width, self.input_height, 0, return_scale=True)

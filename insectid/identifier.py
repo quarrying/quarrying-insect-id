@@ -6,6 +6,7 @@ import khandy
 import numpy as np
 
 from .base import OnnxModel
+from .base import check_image_dtype_and_shape
 
 
 class InsectIdentifier(OnnxModel):
@@ -31,14 +32,14 @@ class InsectIdentifier(OnnxModel):
         
     @staticmethod
     def _preprocess(image):
-        image_dtype = image.dtype
-        assert image_dtype in [np.uint8, np.uint16]
+        check_image_dtype_and_shape(image)
         
         # image size normalization
         image = khandy.letterbox_image(image, 224, 224)
         # image channel normalization
         image = khandy.normalize_image_channel(image, swap_rb=True)
         # image dtype normalization
+        image_dtype = image.dtype
         image = image.astype(np.float32)
         image /= np.iinfo(image_dtype).max
         # image value range normalization
