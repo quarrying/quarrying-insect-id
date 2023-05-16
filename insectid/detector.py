@@ -24,9 +24,7 @@ class InsectDetector(OnnxModel):
         # image channel normalization
         image = khandy.normalize_image_channel(image, swap_rb=True)
         # image dtype normalization
-        image_dtype = image.dtype
-        image = image.astype(np.float32)
-        image /= np.iinfo(image_dtype).max
+        image = khandy.rescale_image(image, 'auto', np.float32)
         # to tensor
         image = np.transpose(image, (2,0,1))
         image = np.expand_dims(image, axis=0)
