@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/quarrying/quarrying-insect-id.git
 cd quarrying-insect-id
-conda create -n insectid python=3.6 -y
+conda create -n insectid python=3.8 -y
 conda activate insectid
 pip install -r requirements.txt
 ```
