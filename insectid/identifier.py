@@ -35,7 +35,7 @@ class InsectIdentifier(OnnxModel):
         check_image_dtype_and_shape(image)
         
         # image size normalization
-        image = khandy.letterbox_image(image, 224, 224)
+        image, _ = khandy.letterbox_image(image, 224, 224)
         # image channel normalization
         image = khandy.normalize_image_channel(image, swap_rb=True)
         # image dtype normalization

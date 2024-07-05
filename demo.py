@@ -10,7 +10,7 @@ from insectid import InsectIdentifier
 
 
 if __name__ == '__main__':
-    src_dirs = [r'images', r'F:\_Data\Nature\_raw\_insect']
+    src_dirs = [r'images', r'E:\_raw\_insect']
     
     detector = InsectDetector()
     identifier = InsectIdentifier()
@@ -31,8 +31,8 @@ if __name__ == '__main__':
         boxes, confs, classes = detector.detect(image)
         for box, conf, class_ind in zip(boxes, confs, classes):
             box = box.astype(np.int32)
-            box_width = box[2] - box[0] + 1
-            box_height = box[3] - box[1] + 1
+            box_width = box[2] - box[0] 
+            box_height = box[3] - box[1]
             if box_width < 30 or box_height < 30:
                 continue
                 
